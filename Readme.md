@@ -8,7 +8,12 @@ Install
 Usage
 =====
 
-    CODE EXAMPLE
+    Cldr::Timezones.list(:en) # {"America/Cordoba" => "America/Cordoba (GMT-09:00)"}
+    Cldr::Timezones.list(:ja) #	{"America/Cordoba" => "コルドバ （GMT-09:00）"]
+    Cldr::Timezones.list(:ar) # {"America/Cordoba" => "0}جرينتش} كوردوبا"}
+
+    TODO
+    Cldr::Timezones.raw(:ja) # {"America/Cordoba" => ["コルドバ", "+08:00", "GMT"]}
 
 Author
 ======
