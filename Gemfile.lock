@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cldr_timezones (0.0.0)
+    ruby-cldr-timezones (0.0.0)
 
 GEM
   remote: http://rubygems.org/
@@ -23,6 +23,6 @@ PLATFORMS
 
 DEPENDENCIES
   bump
-  cldr_timezones!
   rake
   rspec (~> 2)
+  ruby-cldr-timezones!

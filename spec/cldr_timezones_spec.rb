@@ -1,7 +1,7 @@
 require "spec_helper"
 
-describe CldrTimezones do
+describe Cldr::Timezones do
   it "has a VERSION" do
-    CldrTimezones::VERSION.should =~ /^[\.\da-z]+$/
+    Cldr::Timezones::VERSION.should =~ /^[\.\da-z]+$/
   end
 end

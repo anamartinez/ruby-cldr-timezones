@@ -1,1 +1,1 @@
-require "cldr_timezones"
+require "cldr/timezones"
