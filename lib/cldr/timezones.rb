@@ -8,7 +8,7 @@ module Cldr
     class << self
       def list(locale, all = false)
         raise ArgumentError, "Locale cannot be blank" unless locale
-        build_list(locale, all)
+        build_list(locale.to_s, all)
       end
 
       private

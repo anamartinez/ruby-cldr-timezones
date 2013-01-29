@@ -14,18 +14,18 @@ describe Cldr::Timezones do
 
   describe ".build_list" do
     it "builds a list with translations" do
-      timezones = Cldr::Timezones.list("es")
+      timezones = Cldr::Timezones.list(:es)
       timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
       timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
     end
 
     it "builds a list with meaningful subset" do
-      timezones = Cldr::Timezones.list("ja")
+      timezones = Cldr::Timezones.list(:ja)
       timezones.size.should equal(124)
     end
 
     it "builds the complete set if true is passed" do
-      timezones = Cldr::Timezones.list("ja", true)
+      timezones = Cldr::Timezones.list(:ja, true)
       timezones.size.should equal(581)
     end
   end
