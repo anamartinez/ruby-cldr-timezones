@@ -1,4 +1,4 @@
-Cached cldr timezones
+Translate the timezone names according to cldr
 
 Install
 =======
@@ -7,14 +7,30 @@ Install
 
 Usage
 =====
+    require 'cldr/timezones'
+
+To get a basic subset of translations you can simply pass the locale.
+
+```Cldr::Timezones``` will return a hash with the following format
+```{timezone_identifier => "(GMT Offset) timezone_name_translated"}```
 
     Cldr::Timezones.list(:es) # {"Europe/Moscow" => "(GMT+04:00) Moscú"}
-    Cldr::Timezones.list(:ja) #	{"America/Cordoba" => "（GMT-09:00）モスクワ"]
+    Cldr::Timezones.list(:ja) #	{"America/Cordoba" => "（GMT-09:00）モスクワ"}
+
+If you want to retrieve the full set of timezones (currently 581) you can simply pass the option ```:full```
+
     Cldr::Timezones.list(:ja, :full) #To get the full list of timezones
 
-    TODO
-    Cldr::Timezones.list(:ar) # {"America/Cordoba" => "0}جرينتش} كوردوبا"}
-    Cldr::Timezones.raw(:ja)  # {"America/Cordoba" => ["コルドバ", "+08:00", "GMT"]}
+
+TODO
+====
+- Fallback
+- Handle BIDI timezones
+
+    ```Cldr::Timezones.list(:ar) # {"America/Cordoba" => "0}جرينتش} كوردوبا"}```
+- Handle method raw which will return translated name, offset and GMT translation and format
+
+    ```Cldr::Timezones.raw(:ja)  # {"America/Cordoba" => ["コルドバ", "+08:00", "GMT"]}```
 
 Author
 ======
