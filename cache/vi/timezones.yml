@@ -1,0 +1,200 @@
+vi: 
+  timezones: 
+    Africa/Abidjan: 
+      city: Abidjan
+    Africa/Accra: 
+      city: Accra
+    Africa/Addis_Ababa: 
+      city: "Addis Ababa"
+    Africa/Algiers: 
+      city: Algiers
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Bangui: 
+      city: Bangui
+    Africa/Banjul: 
+      city: Banjul
+    Africa/Bissau: 
+      city: Bissau
+    Africa/Blantyre: 
+      city: Blantyre
+    Africa/Djibouti: 
+      city: Djibouti
+    America/Adak: 
+      city: Adak
+    America/Anchorage: 
+      city: Anchorage
+    America/Anguilla: 
+      city: Anguilla
+    America/Antigua: 
+      city: Antigua
+    America/Araguaina: 
+      city: Araguaina
+    America/Aruba: 
+      city: Aruba
+    America/Asuncion: 
+      city: Asuncion
+    America/Bahia: 
+      city: Bahia
+    America/Barbados: 
+      city: Barbados
+    America/Belem: 
+      city: Belem
+    America/Belize: 
+      city: Belize
+    America/Blanc-Sablon: 
+      city: Blanc-Sablon
+    America/Boa_Vista: 
+      city: "Boa Vista"
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Costa_Rica: 
+      city: "Costa Rica"
+    America/Dominica: 
+      city: Dominica
+    America/El_Salvador: 
+      city: "El Salvador"
+    America/Grenada: 
+      city: Grenada
+    America/Guatemala: 
+      city: Guatemala
+    America/Guyana: 
+      city: Guyana
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Jamaica: 
+      city: Jamaica
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, Bắc Dakota"
+    America/North_Dakota/Center: 
+      city: "Center, North Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/Panama: 
+      city: Panama
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont D'Urville"
+    Asia/Aden: 
+      city: Aden
+    Asia/Almaty: 
+      city: Almaty
+    Asia/Amman: 
+      city: Amman
+    Asia/Anadyr: 
+      city: Anadyr
+    Asia/Aqtau: 
+      city: Aqtau
+    Asia/Aqtobe: 
+      city: Aqtobe
+    Asia/Ashgabat: 
+      city: Ashgabat
+    Asia/Baghdad: 
+      city: Baghdad
+    Asia/Bahrain: 
+      city: Bahrain
+    Asia/Baku: 
+      city: Baku
+    Asia/Bangkok: 
+      city: Bangkok
+    Asia/Beirut: 
+      city: Beirut
+    Asia/Bishkek: 
+      city: Bishkek
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Hong_Kong: 
+      city: "Hồng Kông"
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Kuwait: 
+      city: Kuwait
+    Asia/Qatar: 
+      city: Qatar
+    Asia/Saigon: 
+      city: "TP Hồ Chí Minh"
+    Asia/Singapore: 
+      city: Singapore
+    Asia/Taipei: 
+      city: "Đài Bắc"
+    Asia/Vientiane: 
+      city: "Viêng Chăn"
+    Atlantic/Azores: 
+      city: Azores
+    Atlantic/Bermuda: 
+      city: Bermuda
+    Atlantic/Canary: 
+      city: Canary
+    Atlantic/Cape_Verde: 
+      city: "Cape Verde"
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/South_Georgia: 
+      city: "Nam Georgia"
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Australia/Adelaide: 
+      city: Adelaide
+    Etc/Unknown: 
+      city: "Không rõ"
+    Europe/Amsterdam: 
+      city: Amsterdam
+    Europe/Andorra: 
+      city: Andorra
+    Europe/Athens: 
+      city: Athens
+    Europe/Belgrade: 
+      city: Belgrade
+    Europe/Berlin: 
+      city: Berlin
+    Europe/Luxembourg: 
+      city: Luxembourg
+    Europe/Malta: 
+      city: Malta
+    Europe/Monaco: 
+      city: Monaco
+    Indian/Antananarivo: 
+      city: Antananarivo
+    Indian/Maldives: 
+      city: Maldives
+    Indian/Mauritius: 
+      city: Mauritius
+    Pacific/Apia: 
+      city: Apia
+    Pacific/Fiji: 
+      city: Fiji
+    Pacific/Nauru: 
+      city: Nauru
+    Pacific/Palau: 
+      city: Palau
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

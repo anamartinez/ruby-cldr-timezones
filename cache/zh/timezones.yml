@@ -1,0 +1,810 @@
+zh: 
+  timezones: 
+    Africa/Abidjan: 
+      city: 阿比让
+    Africa/Accra: 
+      city: 阿克拉
+    Africa/Addis_Ababa: 
+      city: 亚的斯亚贝巴
+    Africa/Algiers: 
+      city: 阿尔及尔
+    Africa/Asmera: 
+      city: 阿斯马拉
+    Africa/Bamako: 
+      city: 巴马科
+    Africa/Bangui: 
+      city: 班吉
+    Africa/Banjul: 
+      city: 班珠尔
+    Africa/Bissau: 
+      city: 比绍
+    Africa/Blantyre: 
+      city: 布兰太尔
+    Africa/Brazzaville: 
+      city: 布拉扎维
+    Africa/Bujumbura: 
+      city: 布琼布拉
+    Africa/Cairo: 
+      city: 开罗
+    Africa/Casablanca: 
+      city: 卡萨布兰卡
+    Africa/Ceuta: 
+      city: 休达
+    Africa/Conakry: 
+      city: 科纳克里
+    Africa/Dakar: 
+      city: 达喀尔
+    Africa/Dar_es_Salaam: 
+      city: 达累斯萨拉姆
+    Africa/Djibouti: 
+      city: 吉布提
+    Africa/Douala: 
+      city: 杜阿拉
+    Africa/El_Aaiun: 
+      city: 阿尤恩
+    Africa/Freetown: 
+      city: 弗里敦
+    Africa/Gaborone: 
+      city: 哈博罗内
+    Africa/Harare: 
+      city: 哈拉雷
+    Africa/Johannesburg: 
+      city: 约翰内斯堡
+    Africa/Kampala: 
+      city: 坎帕拉
+    Africa/Khartoum: 
+      city: 喀土穆
+    Africa/Kigali: 
+      city: 基加利
+    Africa/Kinshasa: 
+      city: 金沙萨
+    Africa/Lagos: 
+      city: 拉各斯
+    Africa/Libreville: 
+      city: 利伯维尔
+    Africa/Lome: 
+      city: 洛美
+    Africa/Luanda: 
+      city: 罗安达
+    Africa/Lubumbashi: 
+      city: 卢本巴希
+    Africa/Lusaka: 
+      city: 卢萨卡
+    Africa/Malabo: 
+      city: 马拉博
+    Africa/Maputo: 
+      city: 马普托
+    Africa/Maseru: 
+      city: 马塞卢
+    Africa/Mbabane: 
+      city: 姆巴巴纳
+    Africa/Mogadishu: 
+      city: 摩加迪沙
+    Africa/Monrovia: 
+      city: 蒙罗维亚
+    Africa/Nairobi: 
+      city: 内罗毕
+    Africa/Ndjamena: 
+      city: 恩贾梅纳
+    Africa/Niamey: 
+      city: 尼亚美
+    Africa/Nouakchott: 
+      city: 努瓦克肖特
+    Africa/Ouagadougou: 
+      city: 瓦加杜古
+    Africa/Porto-Novo: 
+      city: 波多诺伏
+    Africa/Sao_Tome: 
+      city: 圣多美
+    Africa/Tripoli: 
+      city: 的黎波里
+    Africa/Tunis: 
+      city: 突尼斯
+    Africa/Windhoek: 
+      city: 温得和克
+    America/Adak: 
+      city: 艾德克
+    America/Anchorage: 
+      city: 安克雷奇
+    America/Anguilla: 
+      city: 安圭拉
+    America/Antigua: 
+      city: 安提瓜
+    America/Araguaina: 
+      city: 阿拉瓜伊纳
+    America/Argentina/La_Rioja: 
+      city: 拉里奥哈
+    America/Argentina/Rio_Gallegos: 
+      city: 里奥加耶戈斯
+    America/Argentina/Salta: 
+      city: 萨尔塔
+    America/Argentina/San_Juan: 
+      city: 圣胡安
+    America/Argentina/San_Luis: 
+      city: 圣路易斯
+    America/Argentina/Tucuman: 
+      city: 图库曼
+    America/Argentina/Ushuaia: 
+      city: 乌斯怀亚
+    America/Aruba: 
+      city: 阿鲁巴
+    America/Asuncion: 
+      city: 亚松森
+    America/Bahia: 
+      city: 巴伊亚
+    America/Barbados: 
+      city: 巴巴多斯
+    America/Belem: 
+      city: 贝伦
+    America/Belize: 
+      city: 伯利兹
+    America/Blanc-Sablon: 
+      city: 布兰克萨布隆
+    America/Boa_Vista: 
+      city: 博阿维斯塔
+    America/Bogota: 
+      city: 波哥大
+    America/Boise: 
+      city: 博伊西
+    America/Buenos_Aires: 
+      city: 布宜诺斯艾利斯
+    America/Cambridge_Bay: 
+      city: 坎布里季贝
+    America/Campo_Grande: 
+      city: 大坎普
+    America/Cancun: 
+      city: 坎昆
+    America/Caracas: 
+      city: 加拉加斯
+    America/Catamarca: 
+      city: 卡塔马卡
+    America/Cayenne: 
+      city: 卡宴
+    America/Cayman: 
+      city: 开曼
+    America/Chicago: 
+      city: 芝加哥
+    America/Chihuahua: 
+      city: 奇瓦瓦
+    America/Coral_Harbour: 
+      city: 珊瑚港
+    America/Cordoba: 
+      city: 科尔多瓦
+    America/Costa_Rica: 
+      city: 哥斯达黎加
+    America/Cuiaba: 
+      city: 库亚巴
+    America/Curacao: 
+      city: 库拉卡
+    America/Danmarkshavn: 
+      city: 丹马沙文
+    America/Dawson: 
+      city: 道森
+    America/Dawson_Creek: 
+      city: 道森克里克
+    America/Denver: 
+      city: 丹佛
+    America/Detroit: 
+      city: 底特律
+    America/Dominica: 
+      city: 多米尼加
+    America/Edmonton: 
+      city: 埃德蒙顿
+    America/Eirunepe: 
+      city: 依伦尼贝
+    America/El_Salvador: 
+      city: 萨尔瓦多
+    America/Fortaleza: 
+      city: 福塔雷萨
+    America/Glace_Bay: 
+      city: 格莱斯贝
+    America/Godthab: 
+      city: 戈特霍布
+    America/Goose_Bay: 
+      city: 古斯湾
+    America/Grand_Turk: 
+      city: 大土耳其
+    America/Grenada: 
+      city: 格林纳达
+    America/Guadeloupe: 
+      city: 瓜德罗普
+    America/Guatemala: 
+      city: 危地马拉
+    America/Guayaquil: 
+      city: 瓜亚基尔
+    America/Guyana: 
+      city: 圭亚那
+    America/Halifax: 
+      city: 哈利法克斯
+    America/Havana: 
+      city: 哈瓦那
+    America/Hermosillo: 
+      city: 埃莫西约
+    America/Indiana/Knox: 
+      city: 诺克斯
+    America/Indiana/Marengo: 
+      city: 马伦戈
+    America/Indiana/Petersburg: 
+      city: 彼得斯堡
+    America/Indiana/Tell_City: 
+      city: 印第安纳州特尔城
+    America/Indiana/Vevay: 
+      city: 维维市（印第安纳州）
+    America/Indiana/Vincennes: 
+      city: 温森斯
+    America/Indiana/Winamac: 
+      city: 印第安纳州威纳马克
+    America/Indianapolis: 
+      city: 印地安纳波利斯
+    America/Inuvik: 
+      city: 伊努维克
+    America/Iqaluit: 
+      city: 伊魁鲁伊特
+    America/Jamaica: 
+      city: 牙买加
+    America/Jujuy: 
+      city: 胡胡伊
+    America/Juneau: 
+      city: 朱诺
+    America/Kentucky/Monticello: 
+      city: 蒙蒂塞洛
+    America/La_Paz: 
+      city: 拉巴斯
+    America/Lima: 
+      city: 利马
+    America/Los_Angeles: 
+      city: 洛杉矶
+    America/Louisville: 
+      city: 路易斯维尔
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: 马塞约
+    America/Managua: 
+      city: 马那瓜
+    America/Manaus: 
+      city: 马瑙斯
+    America/Marigot: 
+      city: 马里戈特
+    America/Martinique: 
+      city: 马提尼克
+    America/Mazatlan: 
+      city: 马萨特兰
+    America/Mendoza: 
+      city: 门多萨
+    America/Menominee: 
+      city: 密诺米尼
+    America/Merida: 
+      city: 梅里达
+    America/Mexico_City: 
+      city: 墨西哥城
+    America/Miquelon: 
+      city: 密克隆
+    America/Moncton: 
+      city: 蒙克顿
+    America/Monterrey: 
+      city: 蒙特雷
+    America/Montevideo: 
+      city: 蒙得维的亚
+    America/Montreal: 
+      city: 蒙特利尔
+    America/Montserrat: 
+      city: 蒙特塞拉特
+    America/Nassau: 
+      city: 拿骚
+    America/New_York: 
+      city: 纽约
+    America/Nipigon: 
+      city: 尼皮贡
+    America/Nome: 
+      city: 诺姆
+    America/Noronha: 
+      city: 洛罗尼亚
+    America/North_Dakota/Beulah: 
+      city: 北达科他州比尤拉
+    America/North_Dakota/Center: 
+      city: 北达科他
+    America/North_Dakota/New_Salem: 
+      city: 北达科他州新塞勒姆
+    America/Panama: 
+      city: 巴拿马
+    America/Pangnirtung: 
+      city: 旁涅唐
+    America/Paramaribo: 
+      city: 帕拉马利玻
+    America/Phoenix: 
+      city: 凤凰城
+    America/Port-au-Prince: 
+      city: 太子港
+    America/Port_of_Spain: 
+      city: 西班牙港
+    America/Porto_Velho: 
+      city: 波多韦柳
+    America/Puerto_Rico: 
+      city: 波多黎各
+    America/Rainy_River: 
+      city: 雨河
+    America/Rankin_Inlet: 
+      city: 雷今海口
+    America/Recife: 
+      city: 累西腓
+    America/Regina: 
+      city: 里贾纳
+    America/Resolute: 
+      city: 雷索卢特
+    America/Rio_Branco: 
+      city: 里奥布郎库
+    America/Santarem: 
+      city: 圣塔伦
+    America/Santiago: 
+      city: 圣地亚哥
+    America/Santo_Domingo: 
+      city: 圣多明各
+    America/Sao_Paulo: 
+      city: 圣保罗
+    America/Scoresbysund: 
+      city: 斯科列斯比桑德
+    America/Shiprock: 
+      city: 舰石城
+    America/St_Barthelemy: 
+      city: 圣巴泰勒米岛
+    America/St_Johns: 
+      city: 圣约翰
+    America/St_Kitts: 
+      city: 圣基茨
+    America/St_Lucia: 
+      city: 圣卢西亚
+    America/St_Thomas: 
+      city: 圣托马斯
+    America/St_Vincent: 
+      city: 圣文森特
+    America/Swift_Current: 
+      city: 斯威夫特卡伦特
+    America/Tegucigalpa: 
+      city: 特古西加尔巴
+    America/Thule: 
+      city: 图勒
+    America/Thunder_Bay: 
+      city: 桑德贝
+    America/Tijuana: 
+      city: 提华纳
+    America/Toronto: 
+      city: 多伦多
+    America/Tortola: 
+      city: 托尔托拉
+    America/Vancouver: 
+      city: 温哥华
+    America/Whitehorse: 
+      city: 怀特霍斯
+    America/Winnipeg: 
+      city: 温尼伯
+    America/Yakutat: 
+      city: 亚库塔特
+    America/Yellowknife: 
+      city: 耶洛奈夫
+    Antarctica/Casey: 
+      city: 卡塞
+    Antarctica/Davis: 
+      city: 戴维斯
+    Antarctica/DumontDUrville: 
+      city: 杜蒙杜威勒
+    Antarctica/Mawson: 
+      city: 莫森
+    Antarctica/McMurdo: 
+      city: 马克默多
+    Antarctica/Palmer: 
+      city: 帕默尔
+    Antarctica/Rothera: 
+      city: 罗瑟拉
+    Antarctica/South_Pole: 
+      city: 南极
+    Antarctica/Syowa: 
+      city: 斯尤瓦
+    Antarctica/Vostok: 
+      city: 沃斯托克
+    Arctic/Longyearbyen: 
+      city: 朗伊尔城
+    Asia/Aden: 
+      city: 亚丁
+    Asia/Almaty: 
+      city: 阿拉木图
+    Asia/Amman: 
+      city: 安曼
+    Asia/Anadyr: 
+      city: 阿纳德尔
+    Asia/Aqtau: 
+      city: 阿克图
+    Asia/Aqtobe: 
+      city: 阿克托别
+    Asia/Ashgabat: 
+      city: 阿什哈巴德
+    Asia/Baghdad: 
+      city: 巴格达
+    Asia/Bahrain: 
+      city: 巴林
+    Asia/Baku: 
+      city: 巴库
+    Asia/Bangkok: 
+      city: 曼谷
+    Asia/Beirut: 
+      city: 贝鲁特
+    Asia/Bishkek: 
+      city: 比什凯克
+    Asia/Brunei: 
+      city: 文莱
+    Asia/Calcutta: 
+      city: 加尔各答
+    Asia/Choibalsan: 
+      city: 卓巴尔塞
+    Asia/Chongqing: 
+      city: 重庆
+    Asia/Colombo: 
+      city: 科伦坡
+    Asia/Damascus: 
+      city: 大马士革
+    Asia/Dhaka: 
+      city: 达卡
+    Asia/Dili: 
+      city: 帝力
+    Asia/Dubai: 
+      city: 迪拜
+    Asia/Dushanbe: 
+      city: 杜尚别
+    Asia/Gaza: 
+      city: 加沙
+    Asia/Harbin: 
+      city: 哈尔滨
+    Asia/Hong_Kong: 
+      city: 香港
+    Asia/Hovd: 
+      city: 科布多
+    Asia/Irkutsk: 
+      city: 伊尔库茨克
+    Asia/Jakarta: 
+      city: 雅加达
+    Asia/Jayapura: 
+      city: 查亚普拉
+    Asia/Jerusalem: 
+      city: 耶路撒冷
+    Asia/Kabul: 
+      city: 喀布尔
+    Asia/Kamchatka: 
+      city: 堪察加
+    Asia/Karachi: 
+      city: 卡拉奇
+    Asia/Kashgar: 
+      city: 喀什葛尔
+    Asia/Katmandu: 
+      city: 加德满都
+    Asia/Krasnoyarsk: 
+      city: 克拉斯诺亚尔斯克
+    Asia/Kuala_Lumpur: 
+      city: 吉隆坡
+    Asia/Kuching: 
+      city: 古晋
+    Asia/Kuwait: 
+      city: 科威特
+    Asia/Macau: 
+      city: 澳门
+    Asia/Magadan: 
+      city: 马加丹
+    Asia/Makassar: 
+      city: 望加锡
+    Asia/Manila: 
+      city: 马尼拉
+    Asia/Muscat: 
+      city: 马斯喀特
+    Asia/Nicosia: 
+      city: 尼科西亚
+    Asia/Novosibirsk: 
+      city: 诺沃西比尔斯克
+    Asia/Omsk: 
+      city: 鄂木斯克
+    Asia/Oral: 
+      city: 乌拉尔
+    Asia/Phnom_Penh: 
+      city: 金边
+    Asia/Pontianak: 
+      city: 坤甸
+    Asia/Pyongyang: 
+      city: 平壤
+    Asia/Qatar: 
+      city: 卡塔尔
+    Asia/Qyzylorda: 
+      city: 克孜勒奥尔达
+    Asia/Rangoon: 
+      city: 仰光
+    Asia/Riyadh: 
+      city: 利雅得
+    Asia/Saigon: 
+      city: 胡志明市
+    Asia/Sakhalin: 
+      city: 萨哈林
+    Asia/Samarkand: 
+      city: 撒马尔罕
+    Asia/Seoul: 
+      city: 首尔
+    Asia/Shanghai: 
+      city: 上海
+    Asia/Singapore: 
+      city: 新加坡
+    Asia/Taipei: 
+      city: 台北
+    Asia/Tashkent: 
+      city: 塔什干
+    Asia/Tbilisi: 
+      city: 第比利斯
+    Asia/Tehran: 
+      city: 德黑兰
+    Asia/Thimphu: 
+      city: 廷布
+    Asia/Tokyo: 
+      city: 东京
+    Asia/Ulaanbaatar: 
+      city: 乌兰巴托
+    Asia/Urumqi: 
+      city: 乌鲁木齐
+    Asia/Vientiane: 
+      city: 万象
+    Asia/Vladivostok: 
+      city: 符拉迪沃斯托克
+    Asia/Yakutsk: 
+      city: 雅库茨克
+    Asia/Yekaterinburg: 
+      city: 叶卡捷林堡
+    Asia/Yerevan: 
+      city: 埃里温
+    Atlantic/Azores: 
+      city: 亚述尔群岛
+    Atlantic/Bermuda: 
+      city: 百慕大
+    Atlantic/Canary: 
+      city: 加那利
+    Atlantic/Cape_Verde: 
+      city: 佛得角
+    Atlantic/Faeroe: 
+      city: 法罗
+    Atlantic/Madeira: 
+      city: 马德拉
+    Atlantic/Reykjavik: 
+      city: 雷克雅未克
+    Atlantic/South_Georgia: 
+      city: 南乔治亚
+    Atlantic/St_Helena: 
+      city: 圣赫勒拿
+    Atlantic/Stanley: 
+      city: 斯坦利
+    Australia/Adelaide: 
+      city: 阿德莱德
+    Australia/Brisbane: 
+      city: 布里斯班
+    Australia/Broken_Hill: 
+      city: 布罗肯希尔
+    Australia/Currie: 
+      city: 库利
+    Australia/Darwin: 
+      city: 达尔文
+    Australia/Eucla: 
+      city: 尤克拉
+    Australia/Hobart: 
+      city: 霍巴特
+    Australia/Lindeman: 
+      city: 林德曼
+    Australia/Lord_Howe: 
+      city: 豪勋爵
+    Australia/Melbourne: 
+      city: 墨尔本
+    Australia/Perth: 
+      city: 佩思
+    Australia/Sydney: 
+      city: 悉尼
+    Etc/Unknown: 
+      city: 未知城市
+    Europe/Amsterdam: 
+      city: 阿姆斯特丹
+    Europe/Andorra: 
+      city: 安道尔
+    Europe/Athens: 
+      city: 雅典
+    Europe/Belgrade: 
+      city: 贝尔格莱德
+    Europe/Berlin: 
+      city: 柏林
+    Europe/Bratislava: 
+      city: 布拉迪斯拉发
+    Europe/Brussels: 
+      city: 布鲁塞尔
+    Europe/Bucharest: 
+      city: 布加勒斯特
+    Europe/Budapest: 
+      city: 布达佩斯
+    Europe/Chisinau: 
+      city: 基希讷乌
+    Europe/Copenhagen: 
+      city: 哥本哈根
+    Europe/Dublin: 
+      city: 都柏林
+    Europe/Gibraltar: 
+      city: 直布罗陀
+    Europe/Guernsey: 
+      city: 格恩西岛
+    Europe/Helsinki: 
+      city: 赫尔辛基
+    Europe/Isle_of_Man: 
+      city: 马恩岛
+    Europe/Istanbul: 
+      city: 伊斯坦布尔
+    Europe/Jersey: 
+      city: 泽西岛
+    Europe/Kaliningrad: 
+      city: 加里宁格勒
+    Europe/Kiev: 
+      city: 基辅
+    Europe/Lisbon: 
+      city: 里斯本
+    Europe/Ljubljana: 
+      city: 卢布尔雅那
+    Europe/London: 
+      city: 伦敦
+    Europe/Luxembourg: 
+      city: 卢森堡
+    Europe/Madrid: 
+      city: 马德里
+    Europe/Malta: 
+      city: 马耳他
+    Europe/Mariehamn: 
+      city: 玛丽港
+    Europe/Minsk: 
+      city: 明斯克
+    Europe/Monaco: 
+      city: 摩纳哥
+    Europe/Moscow: 
+      city: 莫斯科
+    Europe/Oslo: 
+      city: 奥斯陆
+    Europe/Paris: 
+      city: 巴黎
+    Europe/Podgorica: 
+      city: 波德戈里察
+    Europe/Prague: 
+      city: 布拉格
+    Europe/Riga: 
+      city: 里加
+    Europe/Rome: 
+      city: 罗马
+    Europe/Samara: 
+      city: 萨马拉
+    Europe/San_Marino: 
+      city: 圣马力诺
+    Europe/Sarajevo: 
+      city: 萨拉热窝
+    Europe/Simferopol: 
+      city: 辛菲罗波尔
+    Europe/Skopje: 
+      city: 斯科普里
+    Europe/Sofia: 
+      city: 索非亚
+    Europe/Stockholm: 
+      city: 斯德哥尔摩
+    Europe/Tallinn: 
+      city: 塔林
+    Europe/Tirane: 
+      city: 地拉那
+    Europe/Uzhgorod: 
+      city: 乌日戈罗德
+    Europe/Vaduz: 
+      city: 瓦杜兹
+    Europe/Vatican: 
+      city: 梵蒂冈
+    Europe/Vienna: 
+      city: 维也纳
+    Europe/Vilnius: 
+      city: 维尔纽斯
+    Europe/Volgograd: 
+      city: 伏尔加格勒
+    Europe/Warsaw: 
+      city: 华沙
+    Europe/Zagreb: 
+      city: 萨格勒布
+    Europe/Zaporozhye: 
+      city: 扎波罗热
+    Europe/Zurich: 
+      city: 苏黎世
+    Indian/Antananarivo: 
+      city: 安塔那利佛
+    Indian/Chagos: 
+      city: 查戈斯
+    Indian/Christmas: 
+      city: 圣诞岛
+    Indian/Cocos: 
+      city: 可可斯
+    Indian/Comoro: 
+      city: 科摩罗
+    Indian/Kerguelen: 
+      city: 凯尔盖朗
+    Indian/Mahe: 
+      city: 马埃岛
+    Indian/Maldives: 
+      city: 马尔代夫
+    Indian/Mauritius: 
+      city: 毛里求斯
+    Indian/Mayotte: 
+      city: 马约特
+    Indian/Reunion: 
+      city: 留尼旺
+    Pacific/Apia: 
+      city: 阿皮亚
+    Pacific/Auckland: 
+      city: 奥克兰
+    Pacific/Chatham: 
+      city: 查塔姆
+    Pacific/Easter: 
+      city: 复活节岛
+    Pacific/Efate: 
+      city: 埃法特
+    Pacific/Enderbury: 
+      city: 恩德贝里
+    Pacific/Fakaofo: 
+      city: 法考福
+    Pacific/Fiji: 
+      city: 斐济
+    Pacific/Funafuti: 
+      city: 富纳富提
+    Pacific/Galapagos: 
+      city: 加拉帕哥斯
+    Pacific/Gambier: 
+      city: 甘比尔
+    Pacific/Guadalcanal: 
+      city: 瓜达尔卡纳尔
+    Pacific/Guam: 
+      city: 关岛
+    Pacific/Honolulu: 
+      city: 檀香山
+    Pacific/Johnston: 
+      city: 约翰斯顿
+    Pacific/Kiritimati: 
+      city: 基里地马地岛
+    Pacific/Kosrae: 
+      city: 库赛埃
+    Pacific/Kwajalein: 
+      city: 夸贾林
+    Pacific/Majuro: 
+      city: 马朱罗
+    Pacific/Marquesas: 
+      city: 马克萨斯
+    Pacific/Midway: 
+      city: 中途岛
+    Pacific/Nauru: 
+      city: 瑙鲁
+    Pacific/Niue: 
+      city: 纽埃
+    Pacific/Norfolk: 
+      city: 诺福克
+    Pacific/Noumea: 
+      city: 努美阿
+    Pacific/Pago_Pago: 
+      city: 帕果-帕果
+    Pacific/Palau: 
+      city: 帕劳
+    Pacific/Pitcairn: 
+      city: 皮特凯恩
+    Pacific/Ponape: 
+      city: 波纳佩岛
+    Pacific/Port_Moresby: 
+      city: 莫尔兹比港
+    Pacific/Rarotonga: 
+      city: 拉罗汤加
+    Pacific/Saipan: 
+      city: 塞班
+    Pacific/Tahiti: 
+      city: 塔希提
+    Pacific/Tarawa: 
+      city: 塔拉瓦
+    Pacific/Tongatapu: 
+      city: 东加塔布
+    Pacific/Truk: 
+      city: 特鲁克群岛
+    Pacific/Wake: 
+      city: 威克
+    Pacific/Wallis: 
+      city: 瓦利斯

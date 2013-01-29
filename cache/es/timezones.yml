@@ -1,0 +1,358 @@
+es: 
+  timezones: 
+    Africa/Abidjan: 
+      city: Abiyán
+    Africa/Addis_Ababa: 
+      city: "Addis Abeba"
+    Africa/Algiers: 
+      city: Argelia
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Bissau: 
+      city: Bissáu
+    Africa/Cairo: 
+      city: "El Cairo"
+    Africa/Djibouti: 
+      city: Yibuti
+    Africa/Douala: 
+      city: Duala
+    Africa/El_Aaiun: 
+      city: "El Aaiún"
+    Africa/Johannesburg: 
+      city: Johannesburgo
+    Africa/Khartoum: 
+      city: Jartún
+    Africa/Lome: 
+      city: Lomé
+    Africa/Mogadishu: 
+      city: Mogadiscio
+    Africa/Ndjamena: 
+      city: Yamena
+    Africa/Nouakchott: 
+      city: Nuakchot
+    Africa/Ouagadougou: 
+      city: Uagadugú
+    Africa/Porto-Novo: 
+      city: Portonovo
+    Africa/Sao_Tome: 
+      city: "Santo Tomé"
+    Africa/Tripoli: 
+      city: Trípoli
+    Africa/Tunis: 
+      city: Túnez
+    America/Anguilla: 
+      city: Anguila
+    America/Araguaina: 
+      city: Araguaína
+    America/Argentina/Rio_Gallegos: 
+      city: "Río Gallegos"
+    America/Argentina/Tucuman: 
+      city: Tucumán
+    America/Asuncion: 
+      city: Asunción
+    America/Bahia: 
+      city: Bahía
+    America/Belem: 
+      city: Belém
+    America/Belize: 
+      city: Belice
+    America/Bogota: 
+      city: Bogotá
+    America/Buenos_Aires: 
+      city: "Hora de Argentina (Buenos Aires)"
+    America/Cancun: 
+      city: Cancún
+    America/Cayenne: 
+      city: Cayena
+    America/Cayman: 
+      city: Caimán
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Cordoba: 
+      city: Córdoba
+    America/Cuiaba: 
+      city: Cuiabá
+    America/Curacao: 
+      city: Curazao
+    America/Edmonton: 
+      city: "Hora de Canadá (Edmonton)"
+    America/Eirunepe: 
+      city: Eirunepé
+    America/El_Salvador: 
+      city: "El Salvador"
+    America/Grenada: 
+      city: Granada
+    America/Guadeloupe: 
+      city: Guadalupe
+    America/Halifax: 
+      city: "Hora de Canadá (Halifax)"
+    America/Havana: 
+      city: "La Habana"
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Indianapolis: 
+      city: Indianápolis
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Los_Angeles: 
+      city: "Los Ángeles"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: Maceió
+    America/Manaus: 
+      city: Manaos
+    America/Martinique: 
+      city: Martinica
+    America/Mazatlan: 
+      city: Mazatlán
+    America/Merida: 
+      city: Mérida
+    America/Mexico_City: 
+      city: "Ciudad de México"
+    America/Miquelon: 
+      city: Miquelón
+    America/New_York: 
+      city: "Nueva York"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, Dakota del Norte"
+    America/North_Dakota/Center: 
+      city: Centro
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, Dakota del Norte"
+    America/Panama: 
+      city: Panamá
+    America/Port-au-Prince: 
+      city: "Puerto Príncipe"
+    America/Port_of_Spain: 
+      city: "Puerto España"
+    America/Regina: 
+      city: "Hora de Canadá (Regina)"
+    America/Rio_Branco: 
+      city: "Río Branco"
+    America/Santarem: 
+      city: Santarém
+    America/Sao_Paulo: 
+      city: "São Paulo"
+    America/St_Barthelemy: 
+      city: "San Bartolomé"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "Santa Lucía"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "San Vicente"
+    America/Tortola: 
+      city: Tórtola
+    America/Winnipeg: 
+      city: "Hora de Canadá (Winnipeg)"
+    Antarctica/DumontDUrville: 
+      city: "Dumont d'Urville"
+    Antarctica/South_Pole: 
+      city: "Polo Sur"
+    Asia/Aden: 
+      city: Adén
+    Asia/Amman: 
+      city: Ammán
+    Asia/Aqtau: 
+      city: Aktau
+    Asia/Aqtobe: 
+      city: Aktobe
+    Asia/Ashgabat: 
+      city: Asjabad
+    Asia/Baghdad: 
+      city: Bagdad
+    Asia/Bahrain: 
+      city: Bahráin
+    Asia/Baku: 
+      city: Bakú
+    Asia/Brunei: 
+      city: Brunéi
+    Asia/Calcutta: 
+      city: Calcuta
+    Asia/Damascus: 
+      city: Damasco
+    Asia/Dubai: 
+      city: Dubái
+    Asia/Dushanbe: 
+      city: Duchanbé
+    Asia/Jakarta: 
+      city: Yakarta
+    Asia/Jerusalem: 
+      city: Jerusalén
+    Asia/Katmandu: 
+      city: Katmandú
+    Asia/Macau: 
+      city: Macao
+    Asia/Magadan: 
+      city: Magadán
+    Asia/Makassar: 
+      city: Makasar
+    Asia/Muscat: 
+      city: Mascate
+    Asia/Rangoon: 
+      city: Rangún
+    Asia/Riyadh: 
+      city: Riad
+    Asia/Saigon: 
+      city: "Ciudad Ho Chi Minh"
+    Asia/Sakhalin: 
+      city: Sajalín
+    Asia/Samarkand: 
+      city: Samarcanda
+    Asia/Seoul: 
+      city: Seúl
+    Asia/Singapore: 
+      city: Singapur
+    Asia/Taipei: 
+      city: Taipéi
+    Asia/Tbilisi: 
+      city: Tiflis
+    Asia/Tehran: 
+      city: Teherán
+    Asia/Thimphu: 
+      city: Timbu
+    Asia/Tokyo: 
+      city: Tokio
+    Asia/Ulaanbaatar: 
+      city: "Ulán Bator"
+    Asia/Urumqi: 
+      city: Ürümqi
+    Asia/Vientiane: 
+      city: Vientián
+    Asia/Yekaterinburg: 
+      city: Yekaterinburgo
+    Asia/Yerevan: 
+      city: Ereván
+    Atlantic/Bermuda: 
+      city: Bermudas
+    Atlantic/Canary: 
+      city: "Islas Canarias"
+    Atlantic/Cape_Verde: 
+      city: "Cabo Verde"
+    Atlantic/Faeroe: 
+      city: "Islas Feroe"
+    Atlantic/Reykjavik: 
+      city: Reikiavik
+    Atlantic/South_Georgia: 
+      city: "Georgia del Sur"
+    Atlantic/St_Helena: 
+      city: "Santa Helena"
+    Australia/Adelaide: 
+      city: Adelaida
+    Australia/Sydney: 
+      city: Sídney
+    Etc/Unknown: 
+      city: Desconocida
+    Europe/Amsterdam: 
+      city: Ámsterdam
+    Europe/Athens: 
+      city: Atenas
+    Europe/Belgrade: 
+      city: Belgrado
+    Europe/Berlin: 
+      city: Berlín
+    Europe/Brussels: 
+      city: Bruselas
+    Europe/Bucharest: 
+      city: Bucarest
+    Europe/Copenhagen: 
+      city: Copenhague
+    Europe/Dublin: 
+      city: Dublín
+    Europe/Isle_of_Man: 
+      city: "Isla de Man"
+    Europe/Istanbul: 
+      city: Estambul
+    Europe/Kaliningrad: 
+      city: Kaliningrado
+    Europe/Lisbon: 
+      city: Lisboa
+    Europe/Ljubljana: 
+      city: Liubliana
+    Europe/London: 
+      city: Londres
+    Europe/Luxembourg: 
+      city: Luxemburgo
+    Europe/Monaco: 
+      city: Mónaco
+    Europe/Moscow: 
+      city: Moscú
+    Europe/Paris: 
+      city: París
+    Europe/Prague: 
+      city: Praga
+    Europe/Rome: 
+      city: Roma
+    Europe/Skopje: 
+      city: Skopie
+    Europe/Sofia: 
+      city: Sofía
+    Europe/Stockholm: 
+      city: Estocolmo
+    Europe/Tallinn: 
+      city: Tallin
+    Europe/Tirane: 
+      city: Tirana
+    Europe/Vatican: 
+      city: "El Vaticano"
+    Europe/Vienna: 
+      city: Viena
+    Europe/Vilnius: 
+      city: Vilna
+    Europe/Volgograd: 
+      city: Volgogrado
+    Europe/Warsaw: 
+      city: Varsovia
+    Europe/Zaporozhye: 
+      city: Zaporizhia
+    Europe/Zurich: 
+      city: Zúrich
+    Indian/Comoro: 
+      city: Comoras
+    Indian/Mahe: 
+      city: Mahé
+    Indian/Maldives: 
+      city: Maldivas
+    Indian/Mauritius: 
+      city: Mauricio
+    Indian/Reunion: 
+      city: Reunión
+    Pacific/Easter: 
+      city: "Isla de Pascua"
+    Pacific/Fiji: 
+      city: Fiyi
+    Pacific/Galapagos: 
+      city: Galápagos
+    Pacific/Honolulu: 
+      city: Honolulú
+    Pacific/Noumea: 
+      city: Numea
+    Pacific/Palau: 
+      city: Palaos
+    Pacific/Pitcairn: 
+      city: "Islas Pitcairn"
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Saipan: 
+      city: Saipán
+    Pacific/Tahiti: 
+      city: Tahití
+    Pacific/Truk: 
+      city: Chuuk

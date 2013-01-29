@@ -1,0 +1,288 @@
+tr: 
+  timezones: 
+    Africa/Abidjan: 
+      city: Abican
+    Africa/Accra: 
+      city: Akra
+    Africa/Algiers: 
+      city: Cezayir
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Brazzaville: 
+      city: Brazzavil
+    Africa/Cairo: 
+      city: Kahire
+    Africa/Casablanca: 
+      city: Kazablanka
+    Africa/Ceuta: 
+      city: Septe
+    Africa/Conakry: 
+      city: Konakri
+    Africa/Dar_es_Salaam: 
+      city: Darüsselam
+    Africa/Djibouti: 
+      city: Cibuti
+    Africa/El_Aaiun: 
+      city: "El Aaiun"
+    Africa/Khartoum: 
+      city: Hartum
+    Africa/Kinshasa: 
+      city: Kinşasa
+    Africa/Mogadishu: 
+      city: Mogadişu
+    Africa/Tripoli: 
+      city: Trablus
+    Africa/Tunis: 
+      city: Tunus
+    America/Caracas: 
+      city: Karakas
+    America/Cayman: 
+      city: Cayman
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Costa_Rica: 
+      city: "Kosta Rika"
+    America/Dominica: 
+      city: Dominika
+    America/El_Salvador: 
+      city: "El Salvador"
+    America/Indiana/Knox: 
+      city: Knox
+    America/Indiana/Marengo: 
+      city: Marengo
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Jamaica: 
+      city: Jamaika
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Martinique: 
+      city: Martinique
+    America/Mexico_City: 
+      city: "Meksiko City"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, Kuzey Dakota"
+    America/North_Dakota/Center: 
+      city: "Merkez, Kuzey Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, Kuzey Dakota"
+    America/Port_of_Spain: 
+      city: "Port of Spain"
+    America/Puerto_Rico: 
+      city: "Porto Riko"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont D'Urville"
+    Antarctica/South_Pole: 
+      city: "Güney Kutbu"
+    Asia/Almaty: 
+      city: Almatı
+    Asia/Anadyr: 
+      city: Anadır
+    Asia/Aqtau: 
+      city: Aktav
+    Asia/Aqtobe: 
+      city: Aktöbe
+    Asia/Ashgabat: 
+      city: Aşkabat
+    Asia/Baghdad: 
+      city: Bağdat
+    Asia/Bahrain: 
+      city: Bahreyn
+    Asia/Baku: 
+      city: Bakü
+    Asia/Beirut: 
+      city: Beyrut
+    Asia/Bishkek: 
+      city: Bişkek
+    Asia/Calcutta: 
+      city: Kalküta
+    Asia/Choibalsan: 
+      city: Çoybalsan
+    Asia/Chongqing: 
+      city: Çunking
+    Asia/Colombo: 
+      city: Kolombo
+    Asia/Damascus: 
+      city: Şam
+    Asia/Dhaka: 
+      city: Dakka
+    Asia/Dushanbe: 
+      city: Duşanbe
+    Asia/Gaza: 
+      city: Gazze
+    Asia/Hovd: 
+      city: Kobdo
+    Asia/Irkutsk: 
+      city: İrkutsk
+    Asia/Jakarta: 
+      city: Cakarta
+    Asia/Jerusalem: 
+      city: Kudüs
+    Asia/Kabul: 
+      city: Kabil
+    Asia/Kamchatka: 
+      city: Kamçatka
+    Asia/Karachi: 
+      city: Karaçi
+    Asia/Kashgar: 
+      city: Kaşgar
+    Asia/Katmandu: 
+      city: Katmandu
+    Asia/Kuching: 
+      city: Kuçing
+    Asia/Kuwait: 
+      city: Kuveyt
+    Asia/Macau: 
+      city: Makao
+    Asia/Muscat: 
+      city: Maskat
+    Asia/Nicosia: 
+      city: Lefkoşa
+    Asia/Oral: 
+      city: Uralsk
+    Asia/Qatar: 
+      city: Katar
+    Asia/Qyzylorda: 
+      city: Kızılorda
+    Asia/Rangoon: 
+      city: Yangon
+    Asia/Riyadh: 
+      city: Riyad
+    Asia/Saigon: 
+      city: "Ho Chi Minh Kenti"
+    Asia/Sakhalin: 
+      city: Sahalin
+    Asia/Samarkand: 
+      city: Semerkand
+    Asia/Seoul: 
+      city: Seul
+    Asia/Shanghai: 
+      city: Şangay
+    Asia/Singapore: 
+      city: Singapur
+    Asia/Tashkent: 
+      city: Taşkent
+    Asia/Tbilisi: 
+      city: Tiflis
+    Asia/Tehran: 
+      city: Tahran
+    Asia/Ulaanbaatar: 
+      city: "Ulan Batur"
+    Asia/Urumqi: 
+      city: Urumçi
+    Asia/Yerevan: 
+      city: Erivan
+    Atlantic/Azores: 
+      city: "Azor Adaları"
+    Atlantic/Canary: 
+      city: "Kanarya Adaları"
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/South_Georgia: 
+      city: "Güney Georgia"
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Australia/Sydney: 
+      city: Sidney
+    Etc/Unknown: 
+      city: "Bilinmeyen Şehir"
+    Europe/Athens: 
+      city: Atina
+    Europe/Belgrade: 
+      city: Belgrad
+    Europe/Brussels: 
+      city: Brüksel
+    Europe/Bucharest: 
+      city: Bükreş
+    Europe/Budapest: 
+      city: Budapeşte
+    Europe/Chisinau: 
+      city: Kişinev
+    Europe/Copenhagen: 
+      city: Kopenhag
+    Europe/Gibraltar: 
+      city: Cebelitarık
+    Europe/Isle_of_Man: 
+      city: "Man Adası"
+    Europe/Istanbul: 
+      city: İstanbul
+    Europe/Lisbon: 
+      city: Lizbon
+    Europe/London: 
+      city: Londra
+    Europe/Luxembourg: 
+      city: Lüksemburg
+    Europe/Monaco: 
+      city: Monako
+    Europe/Moscow: 
+      city: Moskova
+    Europe/Prague: 
+      city: Prag
+    Europe/Rome: 
+      city: Roma
+    Europe/Sarajevo: 
+      city: Saraybosna
+    Europe/Simferopol: 
+      city: Akmescit
+    Europe/Skopje: 
+      city: Üsküp
+    Europe/Sofia: 
+      city: Sofya
+    Europe/Stockholm: 
+      city: Stokholm
+    Europe/Tirane: 
+      city: Tiran
+    Europe/Uzhgorod: 
+      city: Ujgorod
+    Europe/Vatican: 
+      city: Vatikan
+    Europe/Vienna: 
+      city: Viyana
+    Europe/Warsaw: 
+      city: Varşova
+    Europe/Zaporozhye: 
+      city: Zaporojye
+    Europe/Zurich: 
+      city: Zürih
+    Indian/Christmas: 
+      city: Christmas
+    Indian/Maldives: 
+      city: Maldivler
+    Indian/Mauritius: 
+      city: Mauritius
+    Indian/Mayotte: 
+      city: Mayotte
+    Indian/Reunion: 
+      city: Reunion
+    Pacific/Marquesas: 
+      city: "Markiz Adaları"
+    Pacific/Nauru: 
+      city: Nauru
+    Pacific/Pitcairn: 
+      city: Pitcairn
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

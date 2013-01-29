@@ -1,0 +1,524 @@
+ka: 
+  timezones: 
+    Africa/Abidjan: 
+      city: "სპილოს ძვლის სანაპირო"
+    Africa/Accra: 
+      city: განა
+    Africa/Addis_Ababa: 
+      city: ეთიოპია
+    Africa/Algiers: 
+      city: ალჟირი
+    Africa/Asmera: 
+      city: ერითრეა
+    Africa/Bamako: 
+      city: მალი
+    Africa/Bangui: 
+      city: "ცენტრალური აფრიკის რესპუბლიკა"
+    Africa/Banjul: 
+      city: გამბია
+    Africa/Bissau: 
+      city: გინეა-ბისაუ
+    Africa/Blantyre: 
+      city: მალავი
+    Africa/Brazzaville: 
+      city: "კონგო - ბრაზავილი"
+    Africa/Bujumbura: 
+      city: ბურუნდი
+    Africa/Cairo: 
+      city: ეგვიპტე
+    Africa/Casablanca: 
+      city: მაროკო
+    Africa/Ceuta: 
+      city: სეუტა
+    Africa/Conakry: 
+      city: გინეა
+    Africa/Dakar: 
+      city: სენეგალი
+    Africa/Dar_es_Salaam: 
+      city: ტანზანია
+    Africa/Djibouti: 
+      city: ჯიბუტი
+    Africa/Douala: 
+      city: კამერუნი
+    Africa/El_Aaiun: 
+      city: "დასავლეთი საჰარა"
+    Africa/Freetown: 
+      city: "სიერა ლეონე"
+    Africa/Gaborone: 
+      city: ბოტსვანა
+    Africa/Harare: 
+      city: ზიმბაბვე
+    Africa/Johannesburg: 
+      city: "სამხრეთი აფრიკა"
+    Africa/Kampala: 
+      city: უგანდა
+    Africa/Khartoum: 
+      city: სუდანი
+    Africa/Kigali: 
+      city: რუანდა
+    Africa/Kinshasa: 
+      city: კინშასა
+    Africa/Lagos: 
+      city: ნიგერია
+    Africa/Libreville: 
+      city: გაბონი
+    Africa/Lome: 
+      city: ტოგო
+    Africa/Luanda: 
+      city: ანგოლა
+    Africa/Lubumbashi: 
+      city: ლუბუმბაში
+    Africa/Lusaka: 
+      city: ზამბია
+    Africa/Malabo: 
+      city: "ეკვატორული გვინეა"
+    Africa/Maputo: 
+      city: მოზამბიკი
+    Africa/Maseru: 
+      city: ლესოთო
+    Africa/Mbabane: 
+      city: სვაზილენდი
+    Africa/Mogadishu: 
+      city: სომალია
+    Africa/Monrovia: 
+      city: ლიბერია
+    Africa/Nairobi: 
+      city: კენია
+    Africa/Ndjamena: 
+      city: ჩადი
+    Africa/Niamey: 
+      city: ნიგერი
+    Africa/Nouakchott: 
+      city: მავრიტანია
+    Africa/Ouagadougou: 
+      city: "ბურკინა ფასო"
+    Africa/Porto-Novo: 
+      city: ბენინი
+    Africa/Sao_Tome: 
+      city: "საო ტომე და პრინსიპე"
+    Africa/Tripoli: 
+      city: ლიბია
+    Africa/Tunis: 
+      city: ტუნისი
+    Africa/Windhoek: 
+      city: ნამიბია
+    America/Adak: 
+      city: ადაკი
+    America/Anchorage: 
+      city: ენქორაჯი
+    America/Anguilla: 
+      city: ანგილა
+    America/Antigua: 
+      city: ბარბუდა
+    America/Araguaina: 
+      city: არაგუაინა
+    America/Argentina/La_Rioja: 
+      city: "ლა რიოხა"
+    America/Argentina/Rio_Gallegos: 
+      city: "რიო გალეგოსი"
+    America/Argentina/San_Juan: 
+      city: "სან ხუანი"
+    America/Argentina/San_Luis: 
+      city: "სან ლუისი"
+    America/Argentina/Tucuman: 
+      city: ტუკუმანი
+    America/Argentina/Ushuaia: 
+      city: უშუაია
+    America/Aruba: 
+      city: არუბა
+    America/Asuncion: 
+      city: პარაგვაი
+    America/Bahia: 
+      city: ბაია
+    America/Barbados: 
+      city: ბარბადოსი
+    America/Belem: 
+      city: ბელემი
+    America/Belize: 
+      city: ბელიზი
+    America/Blanc-Sablon: 
+      city: ბლან-საბლონი
+    America/Boa_Vista: 
+      city: "ბოა ვისტა"
+    America/Bogota: 
+      city: კოლუმბია
+    America/Boise: 
+      city: ბუასი
+    America/Buenos_Aires: 
+      city: "ბუენოს აირესი"
+    America/Cambridge_Bay: 
+      city: "კემბრიჯ ბეი"
+    America/Campo_Grande: 
+      city: "კამპო გრანდე"
+    America/Cancun: 
+      city: კანკუნი
+    America/Caracas: 
+      city: ვენესუელა
+    America/Catamarca: 
+      city: კატამარკა
+    America/Cayenne: 
+      city: გუიანა
+    America/Cayman: 
+      city: კაიმანის
+    America/Chicago: 
+      city: ჩიკაგო
+    America/Chihuahua: 
+      city: ჩიჰუაჰუა
+    America/Coral_Harbour: 
+      city: "ქორალ ჰარბორი"
+    America/Cordoba: 
+      city: კორდობა
+    America/Costa_Rica: 
+      city: "კოსტა რიკა"
+    America/Cuiaba: 
+      city: კუიაბა
+    America/Curacao: 
+      city: ნიდერლანდის
+    America/Danmarkshavn: 
+      city: დენმარკშავნი
+    America/Dawson: 
+      city: დოუსონი
+    America/Dawson_Creek: 
+      city: "დოუსონ ქრიკი"
+    America/Denver: 
+      city: დენვერი
+    America/Detroit: 
+      city: დეტროიტი
+    America/Dominica: 
+      city: დომინიკა
+    America/Edmonton: 
+      city: ედმონტონი
+    America/Eirunepe: 
+      city: ეირუნეპე
+    America/El_Salvador: 
+      city: "ელ სალვადორი"
+    America/Fortaleza: 
+      city: ფორტალეზა
+    America/Glace_Bay: 
+      city: "გლეის ბეი"
+    America/Goose_Bay: 
+      city: "გუზ ბეი"
+    America/Grand_Turk: 
+      city: "ტერკის და კაიკოს"
+    America/Grenada: 
+      city: გრენადა
+    America/Guadeloupe: 
+      city: გუადელუპე
+    America/Guatemala: 
+      city: გუატემალა
+    America/Halifax: 
+      city: ჰალიფაქსი
+    America/Havana: 
+      city: კუბა
+    America/Hermosillo: 
+      city: ჰერმოსიო
+    America/Indiana/Knox: 
+      city: "ნოქსი, ინდიანა"
+    America/Indiana/Marengo: 
+      city: მარენგო
+    America/Indiana/Petersburg: 
+      city: პიტერსბურგი
+    America/Indiana/Tell_City: 
+      city: "თელ სითი, ინდიანა"
+    America/Indiana/Vevay: 
+      city: "ვივეი, ინდიანა"
+    America/Indiana/Vincennes: 
+      city: "ვინსენი, ინდიანა"
+    America/Indiana/Winamac: 
+      city: "უინემაკი, ინდიანა"
+    America/Indianapolis: 
+      city: ინდიანაპოლისი
+    America/Inuvik: 
+      city: ინუვიკი
+    America/Iqaluit: 
+      city: იქალუიტი
+    America/Jamaica: 
+      city: იამაიკა
+    America/Jujuy: 
+      city: ჯუჯუი
+    America/Juneau: 
+      city: ჯუნო
+    America/Kentucky/Monticello: 
+      city: მონტიჩელო
+    America/La_Paz: 
+      city: ბოლივია
+    America/Lima: 
+      city: პერუ
+    America/Los_Angeles: 
+      city: "ლოს ანჯელესი"
+    America/Louisville: 
+      city: ლუისვილი
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: მასეიო
+    America/Managua: 
+      city: ნიკარაგუა
+    America/Manaus: 
+      city: მანაუსი
+    America/Martinique: 
+      city: მარტინიკი
+    America/Mazatlan: 
+      city: მაზატლანი
+    America/Mendoza: 
+      city: მენდოზა
+    America/Menominee: 
+      city: მენომინი
+    America/Merida: 
+      city: მერიდა
+    America/Mexico_City: 
+      city: "მექსიკო სითი"
+    America/Miquelon: 
+      city: "სენტ პიერი და მიკელონი"
+    America/Moncton: 
+      city: მონქტონი
+    America/Monterrey: 
+      city: მონტერეი
+    America/Montevideo: 
+      city: ურუგვაი
+    America/Montreal: 
+      city: მონრეალი
+    America/Montserrat: 
+      city: მონსერატი
+    America/Nassau: 
+      city: "ბაჰამის კუნძულები"
+    America/New_York: 
+      city: "ნიუ იორკი"
+    America/Nipigon: 
+      city: ნიპიგონი
+    America/Nome: 
+      city: ნომი
+    America/Noronha: 
+      city: ნორონია
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "ცენტრი, ჩრდილოეთი დაკოტა"
+    America/North_Dakota/New_Salem: 
+      city: "ნიუ სალემი, ჩრდილოეთი დაკოტა"
+    America/Pangnirtung: 
+      city: პანგნირტუნგი
+    America/Phoenix: 
+      city: ფენიქსი
+    America/Porto_Velho: 
+      city: "პორტო ველჰო"
+    America/Rainy_River: 
+      city: "რეინი რივერი"
+    America/Rankin_Inlet: 
+      city: "რენკინ ინლეტი"
+    America/Recife: 
+      city: რეციფე
+    America/Regina: 
+      city: რეჯინა
+    America/Resolute: 
+      city: რეზოლუტე
+    America/Rio_Branco: 
+      city: "რიო ბრანკო"
+    America/Sao_Paulo: 
+      city: "საო პაულო"
+    America/Scoresbysund: 
+      city: სკორსბისუნდი
+    America/Shiprock: 
+      city: შიპროკი
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "სენტ ჯონსი"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    America/Swift_Current: 
+      city: "სვიფტ კარენტი"
+    America/Thule: 
+      city: თულე
+    America/Thunder_Bay: 
+      city: "თანდერ ბეი"
+    America/Tijuana: 
+      city: ტიხუანა
+    America/Toronto: 
+      city: ტორონტო
+    America/Vancouver: 
+      city: ვანკუვერი
+    America/Whitehorse: 
+      city: უაითჰორსი
+    America/Winnipeg: 
+      city: უინიპეგი
+    America/Yakutat: 
+      city: იაკუტატი
+    America/Yellowknife: 
+      city: იელოუნაიფი
+    Antarctica/Casey: 
+      city: კეისი
+    Antarctica/Davis: 
+      city: დევისი
+    Antarctica/DumontDUrville: 
+      city: "დიუმონ დ'ურვილი"
+    Antarctica/Mawson: 
+      city: მოუსონი
+    Antarctica/McMurdo: 
+      city: მაკმურდო
+    Antarctica/Palmer: 
+      city: პალმერი
+    Antarctica/Rothera: 
+      city: როთერა
+    Antarctica/South_Pole: 
+      city: "სამხრეთი პოლუსი"
+    Antarctica/Syowa: 
+      city: სიოუა
+    Antarctica/Vostok: 
+      city: ვოსტოკი
+    Asia/Almaty: 
+      city: ალმატი
+    Asia/Anadyr: 
+      city: ანადირი
+    Asia/Aqtau: 
+      city: აქტაუ
+    Asia/Aqtobe: 
+      city: აქტობე
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Choibalsan: 
+      city: ჩოიბალსანი
+    Asia/Chongqing: 
+      city: ჩონგქინგი
+    Asia/Harbin: 
+      city: ჰარბინი
+    Asia/Hovd: 
+      city: ჰოვდი
+    Asia/Irkutsk: 
+      city: ირკუტსკი
+    Asia/Jakarta: 
+      city: ჯაკარტა
+    Asia/Jayapura: 
+      city: ჯაიაპურა
+    Asia/Kamchatka: 
+      city: კამჩატკა
+    Asia/Kashgar: 
+      city: კაშგარი
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Krasnoyarsk: 
+      city: კრასნოიარსკი
+    Asia/Kuching: 
+      city: კუჩინგი
+    Asia/Magadan: 
+      city: მაგადანი
+    Asia/Makassar: 
+      city: მაკასარი
+    Asia/Novosibirsk: 
+      city: ნოვოსიბირსკი
+    Asia/Omsk: 
+      city: ომსკი
+    Asia/Oral: 
+      city: ორალი
+    Asia/Pontianak: 
+      city: პონტიანაკი
+    Asia/Qyzylorda: 
+      city: ყიზილორდა
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Asia/Sakhalin: 
+      city: სახალინი
+    Asia/Samarkand: 
+      city: სამარყანდი
+    Asia/Ulaanbaatar: 
+      city: ულანბატარი
+    Asia/Urumqi: 
+      city: ურუმქი
+    Asia/Vladivostok: 
+      city: ვლადივოსტოკი
+    Asia/Yakutsk: 
+      city: იაკუტსკი
+    Asia/Yekaterinburg: 
+      city: ეკატერინბურგი
+    Atlantic/Azores: 
+      city: აზორეს
+    Atlantic/Canary: 
+      city: კანარი
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/Madeira: 
+      city: მადეირა
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Australia/Adelaide: 
+      city: ადელაიდა
+    Australia/Brisbane: 
+      city: ბრისბეინი
+    Australia/Broken_Hill: 
+      city: "ბროუკენ ჰილი"
+    Australia/Currie: 
+      city: ქური
+    Australia/Darwin: 
+      city: დარვინი
+    Australia/Eucla: 
+      city: ეუკლა
+    Australia/Hobart: 
+      city: ჰობარტი
+    Australia/Lindeman: 
+      city: ლინდმანი
+    Australia/Lord_Howe: 
+      city: "ლორდ ჰოუი"
+    Australia/Melbourne: 
+      city: მელბურნი
+    Australia/Perth: 
+      city: პერთი
+    Australia/Sydney: 
+      city: სიდნეი
+    Etc/Unknown: 
+      city: უცნობი
+    Europe/Kaliningrad: 
+      city: კალინინგრადი
+    Europe/Kiev: 
+      city: კიევი
+    Europe/Moscow: 
+      city: მოსკოვი
+    Europe/Samara: 
+      city: სამარა
+    Europe/Simferopol: 
+      city: სიმფეროპოლი
+    Europe/Uzhgorod: 
+      city: უჟგოროდი
+    Europe/Volgograd: 
+      city: ვოლგოგრადი
+    Europe/Zaporozhye: 
+      city: ზაპოროჟიე
+    Pacific/Chatham: 
+      city: ჩათამი
+    Pacific/Easter: 
+      city: ისთერი
+    Pacific/Enderbury: 
+      city: ენდერბური
+    Pacific/Galapagos: 
+      city: გალაპაგოსი
+    Pacific/Gambier: 
+      city: გამბიერი
+    Pacific/Honolulu: 
+      city: ჰონოლულუ
+    Pacific/Johnston: 
+      city: ჯონსტონი
+    Pacific/Kiritimati: 
+      city: კირიტიმატი
+    Pacific/Kosrae: 
+      city: კოსრაე
+    Pacific/Kwajalein: 
+      city: კვაჯალეინი
+    Pacific/Majuro: 
+      city: მახურო
+    Pacific/Marquesas: 
+      city: მარკეზასი
+    Pacific/Midway: 
+      city: მიდუეი
+    Pacific/Ponape: 
+      city: პონაპე
+    Pacific/Tarawa: 
+      city: ტარაუა
+    Pacific/Truk: 
+      city: ტრუკი
+    Pacific/Wake: 
+      city: უეიკი

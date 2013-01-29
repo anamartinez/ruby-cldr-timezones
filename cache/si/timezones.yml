@@ -1,0 +1,116 @@
+si: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "Center, North Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont d’Urville"
+    Asia/Amman: 
+      city: අම්මාන්
+    Asia/Baghdad: 
+      city: බැග්ඩෑඩ්
+    Asia/Bahrain: 
+      city: බහරේන්
+    Asia/Bangkok: 
+      city: බැංකොක්
+    Asia/Brunei: 
+      city: බෲනායි
+    Asia/Calcutta: 
+      city: කල්කටා
+    Asia/Colombo: 
+      city: කොළඹ
+    Asia/Dhaka: 
+      city: ධකා
+    Asia/Dubai: 
+      city: ඩුබායි
+    Asia/Hong_Kong: 
+      city: හොංකොං
+    Asia/Jakarta: 
+      city: ජකර්තා
+    Asia/Kabul: 
+      city: කාබුල්
+    Asia/Karachi: 
+      city: කරච්චිචි
+    Asia/Katmandu: 
+      city: කත්මන්දු
+    Asia/Kuwait: 
+      city: කුවේට්
+    Asia/Manila: 
+      city: මැනිලා
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/St_Helena: 
+      city: "ශා. හෙලේනා"
+    Australia/Brisbane: 
+      city: බ්‍රිස්බේන්
+    Australia/Darwin: 
+      city: ඩාවින්
+    Australia/Hobart: 
+      city: හෝබාර්ට්
+    Australia/Melbourne: 
+      city: මෙල්බෝර්න්
+    Australia/Perth: 
+      city: පර්ත්
+    Australia/Sydney: 
+      city: සිඩ්නි
+    Etc/Unknown: 
+      city: "හඳුනා නොගත් නගරය"
+    Europe/Belgrade: 
+      city: බෙල්ග්‍රේඩ්ඩ්
+    Europe/Berlin: 
+      city: බර්ලින්
+    Europe/Istanbul: 
+      city: ඉස්තාන්බුල්
+    Europe/Moscow: 
+      city: මොස්කව්
+    Europe/Oslo: 
+      city: ඔස්ලෝ
+    Europe/Paris: 
+      city: පැරිස්ස්
+    Europe/Rome: 
+      city: රෝමය
+    Indian/Maldives: 
+      city: "මාල දිවයින"
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

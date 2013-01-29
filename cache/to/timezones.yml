@@ -1,0 +1,98 @@
+to: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    America/Anchorage: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (Anchorage)"
+    America/Campo_Grande: 
+      city: "Houa Palāsili (Campo Grande)"
+    America/Chicago: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (Chicago)"
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Denver: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (Denver)"
+    America/Detroit: 
+      city: "Houa Puleʻanga fakatahataha ʻAmelika (Detroit)"
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Indianapolis: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (Indianapolis)"
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Los_Angeles: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (Los Angeles)"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/New_York: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (New York)"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "Center, North Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/Phoenix: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (Phoenix)"
+    America/Rio_Branco: 
+      city: "Houa Palāsili (Rio Branco)"
+    America/Sao_Paulo: 
+      city: "Houa Palāsili (Sao Paulo)"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont d’Urville"
+    Antarctica/South_Pole: 
+      city: "pole tonga"
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Australia/Adelaide: 
+      city: Atelaite
+    Australia/Brisbane: 
+      city: Pelisipane
+    Australia/Melbourne: 
+      city: Melipoane
+    Australia/Sydney: 
+      city: Senē
+    Etc/Unknown: 
+      city: Halaʻata
+    Pacific/Easter: 
+      city: Lapanui
+    Pacific/Honolulu: 
+      city: "Houa Puleʻanga fakataha ʻAmelika (Honolulu)"
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk
+    Pacific/Wallis: 
+      city: ʻUvea

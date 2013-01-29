@@ -1,0 +1,130 @@
+et: 
+  timezones: 
+    Africa/Algiers: 
+      city: Alžiir
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Cairo: 
+      city: Kairo
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/El_Salvador: 
+      city: "El Salvador"
+    America/Havana: 
+      city: Havanna
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "Center, North Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/Port_of_Spain: 
+      city: "Port of Spain"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont D'Urville"
+    Antarctica/South_Pole: 
+      city: Lõunapoolus
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Qatar: 
+      city: Katar
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Asia/Singapore: 
+      city: Singapur
+    Atlantic/Bermuda: 
+      city: Bermuda
+    Atlantic/Canary: 
+      city: "Kanaari saared"
+    Atlantic/Cape_Verde: 
+      city: Roheneemesaared
+    Atlantic/Faeroe: 
+      city: Fääri
+    Atlantic/South_Georgia: 
+      city: "South Georgia"
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Etc/Unknown: 
+      city: määramata
+    Europe/Athens: 
+      city: Ateena
+    Europe/Berlin: 
+      city: Berliin
+    Europe/Brussels: 
+      city: Brüssel
+    Europe/Bucharest: 
+      city: Bukarest
+    Europe/Copenhagen: 
+      city: Kopenhaagen
+    Europe/Helsinki: 
+      city: Helsingi
+    Europe/Kiev: 
+      city: Kiiev
+    Europe/Lisbon: 
+      city: Lissabon
+    Europe/Luxembourg: 
+      city: Luxembourg
+    Europe/Madrid: 
+      city: Madrid
+    Europe/Paris: 
+      city: Pariis
+    Europe/Riga: 
+      city: Riia
+    Europe/Rome: 
+      city: Rooma
+    Europe/Tallinn: 
+      city: Tallinn
+    Europe/Vienna: 
+      city: Viin
+    Europe/Warsaw: 
+      city: Varssavi
+    Europe/Zurich: 
+      city: Zürich
+    Indian/Christmas: 
+      city: Jõulud
+    Indian/Cocos: 
+      city: Cocos
+    Indian/Maldives: 
+      city: Maldiivid
+    Indian/Reunion: 
+      city: Réunion
+    Pacific/Easter: 
+      city: Lihavõttesaar
+    Pacific/Fiji: 
+      city: Fidži
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

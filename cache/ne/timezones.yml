@@ -1,0 +1,372 @@
+ne: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Ceuta: 
+      city: सेउटा
+    Africa/Kinshasa: 
+      city: किन्शासा
+    Africa/Lubumbashi: 
+      city: लुबुम्बासी
+    America/Adak: 
+      city: आडाक
+    America/Araguaina: 
+      city: आरागुवाना
+    America/Argentina/La_Rioja: 
+      city: "ला रियोजा"
+    America/Argentina/Rio_Gallegos: 
+      city: "रियो ग्यालेगोस"
+    America/Argentina/San_Juan: 
+      city: "सान जुवान"
+    America/Argentina/San_Luis: 
+      city: "सान लुइस"
+    America/Argentina/Tucuman: 
+      city: टुकुमान
+    America/Argentina/Ushuaia: 
+      city: उशुआइआ
+    America/Bahia: 
+      city: बाहिया
+    America/Belem: 
+      city: बेलेम
+    America/Blanc-Sablon: 
+      city: ब्लान्क-साब्लोन
+    America/Boa_Vista: 
+      city: "बोआ भिष्टा"
+    America/Boise: 
+      city: बोइज
+    America/Buenos_Aires: 
+      city: "ब्यनेश आयर्स"
+    America/Cambridge_Bay: 
+      city: "क्याम्ब्रिज बे"
+    America/Campo_Grande: 
+      city: "क्याम्पो ग्रान्डे"
+    America/Cancun: 
+      city: कानकुन
+    America/Catamarca: 
+      city: कातामार्का
+    America/Chicago: 
+      city: चिकागो
+    America/Chihuahua: 
+      city: चिहुआहुआ
+    America/Coral_Harbour: 
+      city: "कोराल बन्दरगाहा"
+    America/Cordoba: 
+      city: कोरडोवा
+    America/Cuiaba: 
+      city: क्युइआबा
+    America/Danmarkshavn: 
+      city: डान्मार्कशाभन
+    America/Dawson: 
+      city: डेजन
+    America/Dawson_Creek: 
+      city: "डेजन क्रिक"
+    America/Denver: 
+      city: डेन्भर
+    America/Detroit: 
+      city: डिट्रोइट
+    America/Edmonton: 
+      city: एड्मोन्टन
+    America/Eirunepe: 
+      city: आइरनेपे
+    America/Fortaleza: 
+      city: फोर्टालेजा
+    America/Glace_Bay: 
+      city: "ग्लेस बे"
+    America/Goose_Bay: 
+      city: "गुज बे"
+    America/Halifax: 
+      city: हालेफाक्स
+    America/Hermosillo: 
+      city: हेर्मोसिल्लो
+    America/Indiana/Knox: 
+      city: "नोक्स, इण्डियाना"
+    America/Indiana/Marengo: 
+      city: "मारेन्गो, इन्डियाना"
+    America/Indiana/Petersburg: 
+      city: "पिटर्सबर्ग, इन्डियाना"
+    America/Indiana/Tell_City: 
+      city: "टेल सिटी, इन्डियाना"
+    America/Indiana/Vevay: 
+      city: "भेभे, इन्डियाना"
+    America/Indiana/Vincennes: 
+      city: भिन्सेन्स
+    America/Indiana/Winamac: 
+      city: "विनामाक, इन्डियाना"
+    America/Indianapolis: 
+      city: इण्डियानापोलिस
+    America/Inuvik: 
+      city: इनुभिक
+    America/Iqaluit: 
+      city: इक्वालुइट
+    America/Jujuy: 
+      city: जुजु
+    America/Juneau: 
+      city: जुनिउ
+    America/Kentucky/Monticello: 
+      city: "मोन्टिसेल्लो,केन्टकी"
+    America/Los_Angeles: 
+      city: "लस् एन्जेलस"
+    America/Louisville: 
+      city: लुइसभिल्ले
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: मासेइओ
+    America/Manaus: 
+      city: मानाउस
+    America/Mazatlan: 
+      city: माजाट्लान
+    America/Mendoza: 
+      city: मेन्डोजा
+    America/Menominee: 
+      city: मेनोमिनी
+    America/Merida: 
+      city: मेरिडा
+    America/Mexico_City: 
+      city: "मेक्सिको सिटी"
+    America/Moncton: 
+      city: मोन्कटन
+    America/Monterrey: 
+      city: मोन्टेर्रे
+    America/Montreal: 
+      city: मोन्ट्रिल
+    America/New_York: 
+      city: न्युयोर्क
+    America/Nipigon: 
+      city: निपिगन
+    America/Nome: 
+      city: नोमे
+    America/Noronha: 
+      city: नोरोन्हा
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "उत्तर डाकोटा, केन्द्र"
+    America/North_Dakota/New_Salem: 
+      city: "नयाँ सालेम, उत्तर डाकोटा"
+    America/Pangnirtung: 
+      city: पाङ्निरतुङ
+    America/Phoenix: 
+      city: फोनिक्स
+    America/Porto_Velho: 
+      city: "पोर्टो भेल्हो"
+    America/Rainy_River: 
+      city: रेनिरिभर
+    America/Rankin_Inlet: 
+      city: "रान्किन इन्लेट"
+    America/Recife: 
+      city: रिसाइफ
+    America/Regina: 
+      city: रेजिना
+    America/Resolute: 
+      city: रिजोलुट
+    America/Rio_Branco: 
+      city: "रियो ब्रान्को"
+    America/Sao_Paulo: 
+      city: "साओ पाउलो"
+    America/Scoresbysund: 
+      city: स्कोर्सबाइसन्ड
+    America/Shiprock: 
+      city: शिपरक
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "सेन्ट जोन्स"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    America/Swift_Current: 
+      city: "स्विफ्ट करेण्ट"
+    America/Thule: 
+      city: थुले
+    America/Thunder_Bay: 
+      city: "थण्डर बे"
+    America/Tijuana: 
+      city: तिजुआना
+    America/Toronto: 
+      city: टोरोण्टो
+    America/Vancouver: 
+      city: भ्यानकोभर
+    America/Whitehorse: 
+      city: ह्वाइटहर्स
+    America/Winnipeg: 
+      city: विन्निपेग
+    America/Yakutat: 
+      city: याकुतात
+    America/Yellowknife: 
+      city: येल्लोनाइफ
+    Antarctica/Casey: 
+      city: केजे
+    Antarctica/Davis: 
+      city: डेभिस
+    Antarctica/DumontDUrville: 
+      city: "दुमोन्ट डि उर्भेल्ले"
+    Antarctica/Mawson: 
+      city: माजन
+    Antarctica/McMurdo: 
+      city: माकमुर्डो
+    Antarctica/Palmer: 
+      city: पाल्मेर
+    Antarctica/Rothera: 
+      city: रोथेरा
+    Antarctica/South_Pole: 
+      city: "दक्षिण पोल"
+    Antarctica/Syowa: 
+      city: सिओआ
+    Antarctica/Vostok: 
+      city: भास्टोक
+    Asia/Almaty: 
+      city: आल्माटी
+    Asia/Anadyr: 
+      city: आनाडियर
+    Asia/Aqtau: 
+      city: आक्टाउ
+    Asia/Aqtobe: 
+      city: आक्टोब
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Choibalsan: 
+      city: चोइबाल्सान
+    Asia/Chongqing: 
+      city: चोङकिङ
+    Asia/Harbin: 
+      city: हार्विन
+    Asia/Hovd: 
+      city: होभ्ड
+    Asia/Irkutsk: 
+      city: इर्कुत्स्क
+    Asia/Jakarta: 
+      city: जाकार्ता
+    Asia/Jayapura: 
+      city: जयापुरा
+    Asia/Kamchatka: 
+      city: कामचट्का
+    Asia/Kashgar: 
+      city: काश्गर
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Krasnoyarsk: 
+      city: क्रास्नोयार्स्क
+    Asia/Kuching: 
+      city: कुचिङ
+    Asia/Magadan: 
+      city: मागाडान
+    Asia/Makassar: 
+      city: माकास्सार
+    Asia/Novosibirsk: 
+      city: नोबोसिबिर्स्क
+    Asia/Omsk: 
+      city: ओम्स्क
+    Asia/Oral: 
+      city: ओरल
+    Asia/Pontianak: 
+      city: पोन्टिआनाक
+    Asia/Qyzylorda: 
+      city: किजिलोर्डा
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Asia/Sakhalin: 
+      city: साखालिन
+    Asia/Samarkand: 
+      city: समारकण्ड
+    Asia/Ulaanbaatar: 
+      city: उलानबटार
+    Asia/Urumqi: 
+      city: उरूम्की
+    Asia/Vladivostok: 
+      city: भ्लाडिभास्टोक
+    Asia/Yakutsk: 
+      city: याकुत्स्क
+    Asia/Yekaterinburg: 
+      city: एकटरिनबुर्ग
+    Atlantic/Azores: 
+      city: आजोर्स
+    Atlantic/Canary: 
+      city: क्यानारी
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/Madeira: 
+      city: माडेइरा
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Australia/Adelaide: 
+      city: एडेलेड
+    Australia/Brisbane: 
+      city: ब्रिस्बेन
+    Australia/Broken_Hill: 
+      city: "ब्रोकन हिल"
+    Australia/Currie: 
+      city: क्युरी
+    Australia/Darwin: 
+      city: डार्विन
+    Australia/Eucla: 
+      city: इयुक्ला
+    Australia/Hobart: 
+      city: होभार्ट
+    Australia/Lindeman: 
+      city: लिन्डेम्यान
+    Australia/Lord_Howe: 
+      city: "लर्ड होवे"
+    Australia/Melbourne: 
+      city: मेल्बर्न
+    Australia/Perth: 
+      city: पर्थ
+    Australia/Sydney: 
+      city: सिड्नी
+    Etc/Unknown: 
+      city: अज्ञात
+    Europe/Kaliningrad: 
+      city: कालिनिनग्राद
+    Europe/Kiev: 
+      city: किभ
+    Europe/Moscow: 
+      city: मस्को
+    Europe/Samara: 
+      city: सामारा
+    Europe/Simferopol: 
+      city: सिम्फेरोपोल
+    Europe/Uzhgorod: 
+      city: उझगोरद
+    Europe/Volgograd: 
+      city: भोल्गोग्राद
+    Europe/Zaporozhye: 
+      city: जापोरोझ्ये
+    Pacific/Chatham: 
+      city: चाथाम
+    Pacific/Easter: 
+      city: इस्टर
+    Pacific/Enderbury: 
+      city: एन्डरबरी
+    Pacific/Galapagos: 
+      city: गलापागोस
+    Pacific/Gambier: 
+      city: ग्याम्बियर
+    Pacific/Honolulu: 
+      city: होनोलुलु
+    Pacific/Johnston: 
+      city: जोन्सटन
+    Pacific/Kiritimati: 
+      city: किरितिमाटी
+    Pacific/Kosrae: 
+      city: कोस्राए
+    Pacific/Kwajalein: 
+      city: क्वाजालेइन
+    Pacific/Majuro: 
+      city: माजुरो
+    Pacific/Marquesas: 
+      city: मार्केसास
+    Pacific/Midway: 
+      city: मिडवे
+    Pacific/Ponape: 
+      city: पोनापे
+    Pacific/Tarawa: 
+      city: तरवा
+    Pacific/Truk: 
+      city: ट्रुक
+    Pacific/Wake: 
+      city: वेक

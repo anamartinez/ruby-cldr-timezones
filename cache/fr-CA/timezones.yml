@@ -1,0 +1,86 @@
+fr-CA: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    America/Cayman: 
+      city: "Îles Caïmans"
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Godthab: 
+      city: Nuuk
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "Center, North Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: Saint-Christophe-et-Niévès
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "Saint Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont d’Urville"
+    Asia/Baghdad: 
+      city: Baghdad
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Dhaka: 
+      city: Dacca
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Atlantic/Faeroe: 
+      city: "Îles Féroé"
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Etc/Unknown: 
+      city: Unknown
+    Europe/Vatican: 
+      city: Vatican
+    Indian/Chagos: 
+      city: "Archipel des Chagos"
+    Indian/Christmas: 
+      city: "Île Christmas"
+    Indian/Cocos: 
+      city: "Îles Cocos"
+    Indian/Comoro: 
+      city: "Union des Comores"
+    Indian/Kerguelen: 
+      city: "Îles Kerguelen"
+    Pacific/Norfolk: 
+      city: "Île Norfolk"
+    Pacific/Pitcairn: 
+      city: "Île Pitcairn"
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk
+    Pacific/Wallis: 
+      city: Uvéa

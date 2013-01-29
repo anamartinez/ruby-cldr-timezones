@@ -1,0 +1,162 @@
+ksh: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Cairo: 
+      city: Kaijro
+    Africa/Lagos: 
+      city: Laajos
+    Africa/Windhoek: 
+      city: Windhuk
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Costa_Rica: 
+      city: Koßtaricka
+    America/Indiana/Knox: 
+      city: "Knox en Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo en Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg en Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City en Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay en Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes en Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac en Indiana"
+    America/Kentucky/Monticello: 
+      city: "Monticello en Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Mexico_City: 
+      city: "Schtadt Mexiko"
+    America/North_Dakota/Beulah: 
+      city: "Beulah en Nood Dakota"
+    America/North_Dakota/Center: 
+      city: "Zenter en Nood Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "Neu Salem en Nood Dakota"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "Zint John's"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    America/Yakutat: 
+      city: Jakutat
+    Antarctica/DumontDUrville: 
+      city: Dumont-d'Urville-Schtazjohn
+    Antarctica/South_Pole: 
+      city: Södpol
+    Antarctica/Syowa: 
+      city: "Schoowa-Schtazjohn op dä Ensel Onjul"
+    Antarctica/Vostok: 
+      city: Wostok
+    Asia/Aqtobe: 
+      city: Aqtöbe
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Gaza: 
+      city: Jaasa
+    Asia/Hong_Kong: 
+      city: Hongkong
+    Asia/Kamchatka: 
+      city: Kamschattka
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Krasnoyarsk: 
+      city: Krasnojarsk
+    Asia/Nicosia: 
+      city: Nikosija
+    Asia/Phnom_Penh: 
+      city: "Pnom Penh"
+    Asia/Qyzylorda: 
+      city: Qysylorda
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Asia/Ulaanbaatar: 
+      city: "Ulan Bator"
+    Asia/Urumqi: 
+      city: Urrumptschi
+    Asia/Vladivostok: 
+      city: Wladiwostok
+    Asia/Yakutsk: 
+      city: Jakutsk
+    Asia/Yekaterinburg: 
+      city: Jekaterinburg
+    Asia/Yerevan: 
+      city: Eriwan
+    Atlantic/Azores: 
+      city: Azoore
+    Atlantic/Canary: 
+      city: Kannaare
+    Atlantic/Cape_Verde: 
+      city: "Kap Verde"
+    Atlantic/Faeroe: 
+      city: Färör
+    Atlantic/St_Helena: 
+      city: "Zint Helena"
+    Etc/Unknown: 
+      city: "- weße mer nit -"
+    Europe/Athens: 
+      city: Athen
+    Europe/Brussels: 
+      city: Brüssel
+    Europe/Bucharest: 
+      city: Bukarest
+    Europe/Copenhagen: 
+      city: Kopenharen
+    Europe/Gibraltar: 
+      city: Jibraltaa
+    Europe/Guernsey: 
+      city: Jöönsei
+    Europe/Isle_of_Man: 
+      city: "Ensel Män"
+    Europe/Istanbul: 
+      city: Istambul
+    Europe/Jersey: 
+      city: Jöösei
+    Europe/Kaliningrad: 
+      city: Kalinninjraad
+    Europe/Moscow: 
+      city: Moskau
+    Europe/Prague: 
+      city: Prag
+    Europe/Riga: 
+      city: Riija
+    Europe/Rome: 
+      city: Rom
+    Europe/Tirane: 
+      city: Tiraana
+    Europe/Uzhgorod: 
+      city: Uschjorod
+    Europe/Vienna: 
+      city: Wien
+    Europe/Volgograd: 
+      city: Woljojrad
+    Europe/Zaporozhye: 
+      city: Saporischschja
+    Europe/Zurich: 
+      city: Zürisch
+    Indian/Maldives: 
+      city: Malldive
+    Pacific/Galapagos: 
+      city: Jalapagos
+    Pacific/Guam: 
+      city: Juam
+    Pacific/Honolulu: 
+      city: Honululu
+    Pacific/Pitcairn: 
+      city: Pitkern
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

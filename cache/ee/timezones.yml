@@ -1,0 +1,782 @@
+ee: 
+  timezones: 
+    Africa/Abidjan: 
+      city: "Abidzan nutomegaƒoƒome"
+    Africa/Accra: 
+      city: "Gɛ̃ nutomegaƒoƒome"
+    Africa/Addis_Ababa: 
+      city: "Addis Ababa nutomegaƒoƒome"
+    Africa/Algiers: 
+      city: "Algiers nutomegaƒoƒome"
+    Africa/Asmera: 
+      city: "Asmara nutomegaƒoƒome"
+    Africa/Bangui: 
+      city: "Bangui nutomegaƒoƒome"
+    Africa/Banjul: 
+      city: "Bandzul nutomegaƒoƒome"
+    Africa/Bissau: 
+      city: "Bisao nutomegaƒoƒome"
+    Africa/Blantyre: 
+      city: "Blantaire nutomegaƒoƒome"
+    Africa/Brazzaville: 
+      city: "Brazzaville nutomegaƒoƒome"
+    Africa/Bujumbura: 
+      city: "Budzumbura nutomegaƒoƒome"
+    Africa/Cairo: 
+      city: "Kairo nutomegaƒoƒome"
+    Africa/Casablanca: 
+      city: "Kasablanka nutomegaƒoƒome"
+    Africa/Ceuta: 
+      city: "Keuta nutomegaƒoƒome"
+    Africa/Conakry: 
+      city: "Konakry nutomegaƒoƒome"
+    Africa/Dakar: 
+      city: "Dakar nutomegaƒoƒome"
+    Africa/Dar_es_Salaam: 
+      city: "Dar es Salam nutomegaƒoƒome"
+    Africa/Djibouti: 
+      city: "Dzibuti nutomegaƒoƒome"
+    Africa/Douala: 
+      city: "Doula nutomegaƒoƒome"
+    Africa/El_Aaiun: 
+      city: "El Aaiun nutomegaƒoƒome"
+    Africa/Freetown: 
+      city: "Freetown nutomegaƒoƒome"
+    Africa/Gaborone: 
+      city: "Gaborone nutomegaƒoƒome"
+    Africa/Harare: 
+      city: "Harare nutomegaƒoƒome"
+    Africa/Johannesburg: 
+      city: "Yohannesburg nutomegaƒoƒome"
+    Africa/Kampala: 
+      city: "Kampala nutomegaƒoƒome"
+    Africa/Khartoum: 
+      city: "Khartoum nutomegaƒoƒome"
+    Africa/Kigali: 
+      city: "Kigali nutomegaƒoƒome"
+    Africa/Kinshasa: 
+      city: "Kinshasa nutomegaƒoƒome"
+    Africa/Lagos: 
+      city: "Lagos nutomegaƒoƒome"
+    Africa/Libreville: 
+      city: "Libreville nutomegaƒoƒome"
+    Africa/Lome: 
+      city: "Lome nutomegaƒoƒome"
+    Africa/Luanda: 
+      city: "Luanda nutomegaƒoƒome"
+    Africa/Lubumbashi: 
+      city: "Lubumbashi nutomegaƒoƒome"
+    Africa/Lusaka: 
+      city: "Lusaka nutomegaƒoƒome"
+    Africa/Malabo: 
+      city: "Malabo nutomegaƒoƒome"
+    Africa/Maputo: 
+      city: "Maputo nutomegaƒoƒome"
+    Africa/Maseru: 
+      city: "Maseru nutomegaƒoƒome"
+    Africa/Mbabane: 
+      city: "Mbabane nutomegaƒoƒome"
+    Africa/Mogadishu: 
+      city: "Mogadishu nutomegaƒoƒome"
+    Africa/Monrovia: 
+      city: "Monrovia nutomegaƒoƒome"
+    Africa/Nairobi: 
+      city: "Nairobi nutomegaƒoƒome"
+    Africa/Ndjamena: 
+      city: "Ndzamena nutomegaƒoƒome"
+    Africa/Niamey: 
+      city: "Niamey nutomegaƒoƒome"
+    Africa/Nouakchott: 
+      city: "Nouakchott nutomegaƒoƒome"
+    Africa/Ouagadougou: 
+      city: "Ouagadugu nutomegaƒoƒome"
+    Africa/Porto-Novo: 
+      city: "Pɔto-Novo nutomegaƒoƒome"
+    Africa/Sao_Tome: 
+      city: "Sao Tome nutomegaƒoƒome"
+    Africa/Tripoli: 
+      city: "Tripoli nutomegaƒoƒome"
+    Africa/Tunis: 
+      city: "Tunis nutomegaƒoƒome"
+    Africa/Windhoek: 
+      city: "Windhoek nutomegaƒoƒome"
+    America/Adak: 
+      city: "Adak nutomegaƒoƒome"
+    America/Anchorage: 
+      city: "Anchorage nutomegaƒoƒome"
+    America/Anguilla: 
+      city: "Anguilla nutomegaƒoƒome"
+    America/Antigua: 
+      city: "Antigua nutomegaƒoƒome"
+    America/Araguaina: 
+      city: "Araguaina nutomegaƒoƒome"
+    America/Argentina/La_Rioja: 
+      city: "La Rioha nutomegaƒoƒome"
+    America/Argentina/Rio_Gallegos: 
+      city: "Rio Gallegos nutomegaƒoƒome"
+    America/Argentina/Salta: 
+      city: "Salta nutomegaƒoƒome"
+    America/Argentina/San_Juan: 
+      city: "San Dzuan nutomegaƒoƒome"
+    America/Argentina/San_Luis: 
+      city: "San Luis nutomegaƒoƒome"
+    America/Argentina/Tucuman: 
+      city: "Tukuman nutomegaƒoƒome"
+    America/Argentina/Ushuaia: 
+      city: "Ushuaia nutomegaƒoƒome"
+    America/Aruba: 
+      city: "Aruba nutomegaƒoƒome"
+    America/Asuncion: 
+      city: "Asunsion nutomegaƒoƒome"
+    America/Bahia: 
+      city: "Bahia nutomegaƒoƒome"
+    America/Barbados: 
+      city: "Barbados nutomegaƒoƒome"
+    America/Belem: 
+      city: "Belem nutomegaƒoƒome"
+    America/Belize: 
+      city: "Belize nutomegaƒoƒome"
+    America/Blanc-Sablon: 
+      city: "Blank-Sablon nutomegaƒoƒome"
+    America/Boa_Vista: 
+      city: "Boa Vista nutomegaƒoƒome"
+    America/Bogota: 
+      city: "Bogota nutomegaƒoƒome"
+    America/Boise: 
+      city: "Boise nutomegaƒoƒome"
+    America/Buenos_Aires: 
+      city: "Buenos Aires nutomegaƒoƒome"
+    America/Cambridge_Bay: 
+      city: "Kambridge Bay nutomegaƒoƒome"
+    America/Campo_Grande: 
+      city: "Kampo Grande nutomegaƒoƒome"
+    America/Cancun: 
+      city: "Kankun nutomegaƒoƒome"
+    America/Caracas: 
+      city: "Karakas nutomegaƒoƒome"
+    America/Catamarca: 
+      city: "Katamaka nutomegaƒoƒome"
+    America/Cayenne: 
+      city: "Kayenne nutomegaƒoƒome"
+    America/Cayman: 
+      city: "Keman nutomegaƒoƒome"
+    America/Chicago: 
+      city: "Tsikago nutomegaƒoƒome"
+    America/Chihuahua: 
+      city: "Tsihuahua nutomegaƒoƒome"
+    America/Coral_Harbour: 
+      city: Atikokannutomegaƒoƒome
+    America/Cordoba: 
+      city: "Kɔdoba nutomegaƒoƒome"
+    America/Costa_Rica: 
+      city: "Kɔsta Rika nutomegaƒoƒome"
+    America/Cuiaba: 
+      city: "Kuiaba nutomegaƒoƒome"
+    America/Curacao: 
+      city: "Kurakao nutomegaƒoƒome"
+    America/Danmarkshavn: 
+      city: "Danmarkshavn nutomegaƒoƒome"
+    America/Dawson: 
+      city: "Dɔwson nutomegaƒoƒome"
+    America/Dawson_Creek: 
+      city: "Dawson Krik nutomegaƒoƒome"
+    America/Denver: 
+      city: "Denva nutomegaƒoƒome"
+    America/Detroit: 
+      city: "Detrɔit nutomegaƒoƒome"
+    America/Dominica: 
+      city: "Dominika nutomegaƒoƒome"
+    America/Edmonton: 
+      city: "Edmonton nutomegaƒoƒome"
+    America/Eirunepe: 
+      city: "Eirunepe nutomegaƒoƒome"
+    America/El_Salvador: 
+      city: "El Salvadɔ nutomegaƒoƒome"
+    America/Fortaleza: 
+      city: "Fortaleza nutomegaƒoƒome"
+    America/Glace_Bay: 
+      city: "Glaise Bay nutomegaƒoƒome"
+    America/Goose_Bay: 
+      city: "Guse Bay nutomegaƒoƒome"
+    America/Grand_Turk: 
+      city: "Grand Tɛk nutomegaƒoƒome"
+    America/Grenada: 
+      city: "Grenada nutomegaƒoƒome"
+    America/Guadeloupe: 
+      city: "Guadelupe nutomegaƒoƒome"
+    America/Guatemala: 
+      city: "Guatemala nutomegaƒoƒome"
+    America/Guyana: 
+      city: "Gayana nutomegaƒoƒome"
+    America/Halifax: 
+      city: "Halifaks nutomegaƒoƒome"
+    America/Havana: 
+      city: "Havana nutomegaƒoƒome"
+    America/Hermosillo: 
+      city: "Hermosillo nutomegaƒoƒome"
+    America/Indiana/Knox: 
+      city: "Knox, Indiana nutomegaƒoƒome"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana nutomegaƒoƒome"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana nutomegaƒoƒome"
+    America/Indiana/Tell_City: 
+      city: "Telldugã, Indiana nutomegaƒoƒome"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana nutomegaƒoƒome"
+    America/Indiana/Vincennes: 
+      city: "Vinsennes, Indiana nutomegaƒoƒome"
+    America/Indiana/Winamac: 
+      city: "Winamak, Indiana nutomegaƒoƒome"
+    America/Indianapolis: 
+      city: "Indianapolis nutomegaƒoƒome"
+    America/Inuvik: 
+      city: "Inuvik nutomegaƒoƒome"
+    America/Iqaluit: 
+      city: "Ikaluit nutomegaƒoƒome"
+    America/Jamaica: 
+      city: "Dzamaika nutomegaƒoƒome"
+    America/Jujuy: 
+      city: "Dzudzoi nutomegaƒoƒome"
+    America/Juneau: 
+      city: "Dzuneau nutomegaƒoƒome"
+    America/Kentucky/Monticello: 
+      city: "Montisello, Kentaki nutomegaƒoƒome"
+    America/La_Paz: 
+      city: "La Paz nutomegaƒoƒome"
+    America/Lima: 
+      city: "Lima nutomegaƒoƒome"
+    America/Los_Angeles: 
+      city: "Los Angeles nutomegaƒoƒome"
+    America/Louisville: 
+      city: "Louisville nutomegaƒoƒome"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: "Maseio nutomegaƒoƒome"
+    America/Managua: 
+      city: "Managua nutomegaƒoƒome"
+    America/Manaus: 
+      city: "Manaus nutomegaƒoƒome"
+    America/Marigot: 
+      city: "Marigot nutomegaƒoƒome"
+    America/Martinique: 
+      city: "Martinik nutomegaƒoƒome"
+    America/Mazatlan: 
+      city: "Mazatlan nutomegaƒoƒome"
+    America/Mendoza: 
+      city: "Mendoza nutomegaƒoƒome"
+    America/Menominee: 
+      city: "Menomini nutomegaƒoƒome"
+    America/Merida: 
+      city: "Merida nutomegaƒoƒome"
+    America/Mexico_City: 
+      city: "Meksikodugã nutomegaƒoƒome"
+    America/Miquelon: 
+      city: "Miquelon nutomegaƒoƒome"
+    America/Moncton: 
+      city: "Moncton nutomegaƒoƒome"
+    America/Monterrey: 
+      city: "Monterrey nutomegaƒoƒome"
+    America/Montevideo: 
+      city: "Montevideo nutomegaƒoƒome"
+    America/Montreal: 
+      city: "Montreal nutomegaƒoƒome"
+    America/Montserrat: 
+      city: "Montserrat nutomegaƒoƒome"
+    America/Nassau: 
+      city: "Nassau nutomegaƒoƒome"
+    America/New_York: 
+      city: "New York nutomegaƒoƒome"
+    America/Nipigon: 
+      city: "Nipigon nutomegaƒoƒome"
+    America/Nome: 
+      city: "Nome nutomegaƒoƒome"
+    America/Noronha: 
+      city: "Noronha nutomegaƒoƒome"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota nutomegaƒoƒome"
+    America/North_Dakota/Center: 
+      city: "Titina, North Dakota nutomegaƒoƒome"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota nutomegaƒoƒome"
+    America/Panama: 
+      city: "Panama nutomegaƒoƒome"
+    America/Pangnirtung: 
+      city: "Pangnirtung nutomegaƒoƒome"
+    America/Paramaribo: 
+      city: "Paramaribo nutomegaƒoƒome"
+    America/Phoenix: 
+      city: "Foenix nutomegaƒoƒome"
+    America/Port-au-Prince: 
+      city: Pɔrt-au-Princenutomegaƒoƒome
+    America/Port_of_Spain: 
+      city: "Pɔrt of Spain nutomegaƒoƒome"
+    America/Porto_Velho: 
+      city: "Pɔrto Velho nutomegaƒoƒome"
+    America/Puerto_Rico: 
+      city: "Puerto Riko nutomegaƒoƒome"
+    America/Rainy_River: 
+      city: "Raini Riva nutomegaƒoƒome"
+    America/Rankin_Inlet: 
+      city: "Rankin Inlet nutomegaƒoƒome"
+    America/Recife: 
+      city: "Resife nutomegaƒoƒome"
+    America/Regina: 
+      city: "Regina nutomegaƒoƒome"
+    America/Resolute: 
+      city: "Resolute nutomegaƒoƒome"
+    America/Rio_Branco: 
+      city: "Rio Branko nutomegaƒoƒome"
+    America/Santarem: 
+      city: "Santarem nutomegaƒoƒome"
+    America/Santo_Domingo: 
+      city: "Santo Domingo nutomegaƒoƒome"
+    America/Sao_Paulo: 
+      city: "Sao Paulo nutomegaƒoƒome"
+    America/Scoresbysund: 
+      city: "Skɔsbisund nutomegaƒoƒome"
+    America/Shiprock: 
+      city: "Tsiprɔk nutomegaƒoƒome"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy nutomegaƒoƒome"
+    America/St_Johns: 
+      city: "St. Yohannes nutomegaƒoƒome"
+    America/St_Kitts: 
+      city: "St. Kitis nutomegaƒoƒome"
+    America/St_Lucia: 
+      city: "St. Lusia nutomegaƒoƒome"
+    America/St_Thomas: 
+      city: "St. Toma nutomegaƒoƒome"
+    America/St_Vincent: 
+      city: "St. Vincent nutomegaƒoƒome"
+    America/Swift_Current: 
+      city: "Swift Kurrent nutomegaƒoƒome"
+    America/Tegucigalpa: 
+      city: "Tegukigalpa nutomegaƒoƒome"
+    America/Thule: 
+      city: "Thule nutomegaƒoƒome"
+    America/Thunder_Bay: 
+      city: "Thunder Bay nutomegaƒoƒome"
+    America/Tijuana: 
+      city: "Tihuana nutomegaƒoƒome"
+    America/Toronto: 
+      city: "Toronto nutomegaƒoƒome"
+    America/Tortola: 
+      city: "Tɔtola nutomegaƒoƒome"
+    America/Vancouver: 
+      city: "Vankouver nutomegaƒoƒome"
+    America/Whitehorse: 
+      city: "Whitehorse nutomegaƒoƒome"
+    America/Winnipeg: 
+      city: "Winnipeg nutomegaƒoƒome"
+    America/Yakutat: 
+      city: "Yakutat nutomegaƒoƒome"
+    America/Yellowknife: 
+      city: "Yellownaif nutomegaƒoƒome"
+    Antarctica/Casey: 
+      city: "Kasey nutomegaƒoƒome"
+    Antarctica/Davis: 
+      city: "Davis nutomegaƒoƒome"
+    Antarctica/DumontDUrville: 
+      city: "Dumont d'Urville nutomegaƒoƒome"
+    Antarctica/Mawson: 
+      city: "Mawson nutomegaƒoƒome"
+    Antarctica/McMurdo: 
+      city: "MacMurdo nutomegaƒoƒome"
+    Antarctica/Palmer: 
+      city: "Palmer nutomegaƒoƒome"
+    Antarctica/Rothera: 
+      city: "Rothera nutomegaƒoƒome"
+    Antarctica/South_Pole: 
+      city: "South Pole nutomegaƒoƒome"
+    Antarctica/Syowa: 
+      city: "Syowa nutomegaƒoƒome"
+    Antarctica/Vostok: 
+      city: "Vostok nutomegaƒoƒome"
+    Arctic/Longyearbyen: 
+      city: "Longyearbiyen nutomegaƒoƒome"
+    Asia/Aden: 
+      city: "Aden nutomegaƒoƒome"
+    Asia/Almaty: 
+      city: "Almati nutomegaƒoƒome"
+    Asia/Amman: 
+      city: "Amman nutomegaƒoƒome"
+    Asia/Anadyr: 
+      city: "Anadir nutomegaƒoƒome"
+    Asia/Aqtau: 
+      city: "Aktau nutomegaƒoƒome"
+    Asia/Aqtobe: 
+      city: "Aktobe nutomegaƒoƒome"
+    Asia/Ashgabat: 
+      city: "Ashgabat nutomegaƒoƒome"
+    Asia/Baghdad: 
+      city: "Baghdad nutomegaƒoƒome"
+    Asia/Bahrain: 
+      city: "Bahrain nutomegaƒoƒome"
+    Asia/Baku: 
+      city: "Baku nutomegaƒoƒome"
+    Asia/Bangkok: 
+      city: "Bangkok nutomegaƒoƒome"
+    Asia/Beirut: 
+      city: "Beirut nutomegaƒoƒome"
+    Asia/Bishkek: 
+      city: "Bishkek nutomegaƒoƒome"
+    Asia/Brunei: 
+      city: "Brunei nutomegaƒoƒome"
+    Asia/Calcutta: 
+      city: "Kolkata nutomegaƒoƒome"
+    Asia/Choibalsan: 
+      city: "Tsoibalsan nutomegaƒoƒome"
+    Asia/Chongqing: 
+      city: "Tsongking nutomegaƒoƒome"
+    Asia/Colombo: 
+      city: "Kolombo nutomegaƒoƒome"
+    Asia/Damascus: 
+      city: "Damaskus nutomegaƒoƒome"
+    Asia/Dhaka: 
+      city: "Dhaka nutomegaƒoƒome"
+    Asia/Dili: 
+      city: "Dili nutomegaƒoƒome"
+    Asia/Dubai: 
+      city: "Dubai nutomegaƒoƒome"
+    Asia/Dushanbe: 
+      city: "Dutsanbe nutomegaƒoƒome"
+    Asia/Gaza: 
+      city: "Gaza nutomegaƒoƒome"
+    Asia/Harbin: 
+      city: "Harbin nutomegaƒoƒome"
+    Asia/Hong_Kong: 
+      city: "Hɔng Kɔng nutomegaƒoƒome"
+    Asia/Hovd: 
+      city: "Hovd nutomegaƒoƒome"
+    Asia/Irkutsk: 
+      city: "Irkutsk nutomegaƒoƒome"
+    Asia/Jakarta: 
+      city: "Dzakarta nutomegaƒoƒome"
+    Asia/Jayapura: 
+      city: "Dzayapura nutomegaƒoƒome"
+    Asia/Jerusalem: 
+      city: "Yerusalem nutomegaƒoƒome"
+    Asia/Kabul: 
+      city: "Kabul nutomegaƒoƒome"
+    Asia/Kamchatka: 
+      city: "Kamtsatka nutomegaƒoƒome"
+    Asia/Karachi: 
+      city: "Karatsi nutomegaƒoƒome"
+    Asia/Kashgar: 
+      city: "Kashgar nutomegaƒoƒome"
+    Asia/Katmandu: 
+      city: "Kathmandu nutomegaƒoƒome"
+    Asia/Krasnoyarsk: 
+      city: "Krasnoyarsk nutomegaƒoƒome"
+    Asia/Kuching: 
+      city: "Kutsing nutomegaƒoƒome"
+    Asia/Kuwait: 
+      city: "Kuwait nutomegaƒoƒome"
+    Asia/Macau: 
+      city: "Macau nutomegaƒoƒome"
+    Asia/Magadan: 
+      city: "Magadan nutomegaƒoƒome"
+    Asia/Makassar: 
+      city: "Makassar nutomegaƒoƒome"
+    Asia/Manila: 
+      city: "Manila nutomegaƒoƒome"
+    Asia/Muscat: 
+      city: "Muskat nutomegaƒoƒome"
+    Asia/Nicosia: 
+      city: "Nikosia nutomegaƒoƒome"
+    Asia/Novosibirsk: 
+      city: "Novosibirsk nutomegaƒoƒome"
+    Asia/Omsk: 
+      city: "Omsk nutomegaƒoƒome"
+    Asia/Oral: 
+      city: "Oral nutomegaƒoƒome"
+    Asia/Phnom_Penh: 
+      city: "Nɔm Penh nutomegaƒoƒome"
+    Asia/Pontianak: 
+      city: "Pontianak nutomegaƒoƒome"
+    Asia/Pyongyang: 
+      city: "Piongyang nutomegaƒoƒome"
+    Asia/Qatar: 
+      city: "Katar nutomegaƒoƒome"
+    Asia/Qyzylorda: 
+      city: "Kizilɔda nutomegaƒoƒome"
+    Asia/Rangoon: 
+      city: "Rangoon nutomegaƒoƒome"
+    Asia/Riyadh: 
+      city: "Riyadh nutomegaƒoƒome"
+    Asia/Saigon: 
+      city: "Ho Tsi Minh nutomegaƒoƒome"
+    Asia/Sakhalin: 
+      city: "Sakhalin nutomegaƒoƒome"
+    Asia/Samarkand: 
+      city: "Samarkand nutomegaƒoƒome"
+    Asia/Seoul: 
+      city: "Seoul nutomegaƒoƒome"
+    Asia/Singapore: 
+      city: "Singapore nutomegaƒoƒome"
+    Asia/Taipei: 
+      city: "Taipei nutomegaƒoƒome"
+    Asia/Tbilisi: 
+      city: "Tbilisi nutomegaƒoƒome"
+    Asia/Tehran: 
+      city: "Tehran nutomegaƒoƒome"
+    Asia/Thimphu: 
+      city: "Timfu nutomegaƒoƒome"
+    Asia/Tokyo: 
+      city: "Tokio nutomegaƒoƒome"
+    Asia/Ulaanbaatar: 
+      city: "Ulaanbaatar nutomegaƒoƒome"
+    Asia/Urumqi: 
+      city: "Urumqi nutomegaƒoƒome"
+    Asia/Vientiane: 
+      city: "Vientiane nutomegaƒoƒome"
+    Asia/Vladivostok: 
+      city: "Vladivostok nutomegaƒoƒome"
+    Asia/Yakutsk: 
+      city: "Yakutsk nutomegaƒoƒome"
+    Asia/Yekaterinburg: 
+      city: "Yekaterinburg nutomegaƒoƒome"
+    Asia/Yerevan: 
+      city: "Yerevan nutomegaƒoƒome"
+    Atlantic/Azores: 
+      city: "Azores nutomegaƒoƒome"
+    Atlantic/Bermuda: 
+      city: "Bermuda nutomegaƒoƒome"
+    Atlantic/Canary: 
+      city: "Kanari nutomegaƒoƒome"
+    Atlantic/Cape_Verde: 
+      city: "Kape Verde nutomegaƒoƒome"
+    Atlantic/Faeroe: 
+      city: "Faroe nutomegaƒoƒome"
+    Atlantic/Madeira: 
+      city: "Madeira nutomegaƒoƒome"
+    Atlantic/Reykjavik: 
+      city: "Reykjavik nutomegaƒoƒome"
+    Atlantic/South_Georgia: 
+      city: "Anyiehe Georgia nutomegaƒoƒome"
+    Atlantic/St_Helena: 
+      city: "St. Helena nutomegaƒoƒome"
+    Atlantic/Stanley: 
+      city: "Stanley nutomegaƒoƒome"
+    Australia/Adelaide: 
+      city: "Adelaide nutomegaƒoƒome"
+    Australia/Brisbane: 
+      city: "Brisbane nutomegaƒoƒome"
+    Australia/Broken_Hill: 
+      city: "Broken Hill nutomegaƒoƒome"
+    Australia/Currie: 
+      city: "Kurrie nutomegaƒoƒome"
+    Australia/Darwin: 
+      city: "Darwin nutomegaƒoƒome"
+    Australia/Eucla: 
+      city: "Eucla nutomegaƒoƒome"
+    Australia/Hobart: 
+      city: "Hobart nutomegaƒoƒome"
+    Australia/Lindeman: 
+      city: "Lindeman nutomegaƒoƒome"
+    Australia/Lord_Howe: 
+      city: "Lɔd Howe nutomegaƒoƒome"
+    Australia/Melbourne: 
+      city: "Melbourne nutomegaƒoƒome"
+    Australia/Perth: 
+      city: "Perth nutomegaƒoƒome"
+    Australia/Sydney: 
+      city: "Sidney nutomegaƒoƒome"
+    Etc/Unknown: 
+      city: "du manya"
+    Europe/Amsterdam: 
+      city: "Amsterdam nutomegaƒoƒome"
+    Europe/Andorra: 
+      city: "Andorra nutomegaƒoƒome"
+    Europe/Athens: 
+      city: "Atens nutomegaƒoƒome"
+    Europe/Belgrade: 
+      city: "Belgrade nutomegaƒoƒome"
+    Europe/Berlin: 
+      city: "Berlin nutomegaƒoƒome"
+    Europe/Bratislava: 
+      city: "Bratislava nutomegaƒoƒome"
+    Europe/Brussels: 
+      city: "Brussels nutomegaƒoƒome"
+    Europe/Bucharest: 
+      city: "Bukarest nutomegaƒoƒome"
+    Europe/Budapest: 
+      city: "Budapest nutomegaƒoƒome"
+    Europe/Chisinau: 
+      city: "Tsisinau nutomegaƒoƒome"
+    Europe/Copenhagen: 
+      city: "Kopenhagen nutomegaƒoƒome"
+    Europe/Dublin: 
+      city: "Dublin nutomegaƒoƒome"
+    Europe/Gibraltar: 
+      city: "Gibraltar nutomegaƒoƒome"
+    Europe/Guernsey: 
+      city: "Guernse nutomegaƒoƒome"
+    Europe/Helsinki: 
+      city: "Helsinki nutomegaƒoƒome"
+    Europe/Isle_of_Man: 
+      city: "Aisle of Man nutomegaƒoƒome"
+    Europe/Istanbul: 
+      city: "Istanbul nutomegaƒoƒome"
+    Europe/Jersey: 
+      city: "Jɛse nutomegaƒoƒome"
+    Europe/Kaliningrad: 
+      city: "Kaliningrad nutomegaƒoƒome"
+    Europe/Ljubljana: 
+      city: "Lubliana nutomegaƒoƒome"
+    Europe/Luxembourg: 
+      city: "Lazembɔg nutomegaƒoƒome"
+    Europe/Malta: 
+      city: "Malta nutomegaƒoƒome"
+    Europe/Mariehamn: 
+      city: "Mariehamn nutomegaƒoƒome"
+    Europe/Minsk: 
+      city: "Minsk nutomegaƒoƒome"
+    Europe/Monaco: 
+      city: "Monaco nutomegaƒoƒome"
+    Europe/Moscow: 
+      city: "Moscow nutomegaƒoƒome"
+    Europe/Oslo: 
+      city: "Oslo nutomegaƒoƒome"
+    Europe/Paris: 
+      city: "Paris nutomegaƒoƒome"
+    Europe/Podgorica: 
+      city: "Podgorika nutomegaƒoƒome"
+    Europe/Prague: 
+      city: "Prague nutomegaƒoƒome"
+    Europe/Riga: 
+      city: "Riga nutomegaƒoƒome"
+    Europe/Rome: 
+      city: "Roma nutomegaƒoƒome"
+    Europe/Samara: 
+      city: "Samara nutomegaƒoƒome"
+    Europe/San_Marino: 
+      city: "San Marino nutomegaƒoƒome"
+    Europe/Sarajevo: 
+      city: "Sarayevo nutomegaƒoƒome"
+    Europe/Simferopol: 
+      city: "Simferopol nutomegaƒoƒome"
+    Europe/Skopje: 
+      city: "Skopie nutomegaƒoƒome"
+    Europe/Sofia: 
+      city: "Sofia nutomegaƒoƒome"
+    Europe/Stockholm: 
+      city: "Stockholm nutomegaƒoƒome"
+    Europe/Tallinn: 
+      city: "Tallinn nutomegaƒoƒome"
+    Europe/Tirane: 
+      city: "Tirane nutomegaƒoƒome"
+    Europe/Uzhgorod: 
+      city: "Uzhgorod nutomegaƒoƒome"
+    Europe/Vaduz: 
+      city: "Vaduz nutomegaƒoƒome"
+    Europe/Vatican: 
+      city: "Vatikan nutomegaƒoƒome"
+    Europe/Vienna: 
+      city: "Vienna nutomegaƒoƒome"
+    Europe/Vilnius: 
+      city: "Vilnius nutomegaƒoƒome"
+    Europe/Volgograd: 
+      city: "Volgograd nutomegaƒoƒome"
+    Europe/Warsaw: 
+      city: "Wɔsɔw nutomegaƒoƒome"
+    Europe/Zagreb: 
+      city: "Zagreb nutomegaƒoƒome"
+    Europe/Zaporozhye: 
+      city: "Zaporozhiye nutomegaƒoƒome"
+    Europe/Zurich: 
+      city: "Zurich nutomegaƒoƒome"
+    Indian/Antananarivo: 
+      city: "Antananarivo nutomegaƒoƒome"
+    Indian/Chagos: 
+      city: "Tsagos nutomegaƒoƒome"
+    Indian/Christmas: 
+      city: "Kristmas nutomegaƒoƒome"
+    Indian/Cocos: 
+      city: "Kokos nutomegaƒoƒome"
+    Indian/Comoro: 
+      city: "Komoro nutomegaƒoƒome"
+    Indian/Kerguelen: 
+      city: "Kerguelen nutomegaƒoƒome"
+    Indian/Mahe: 
+      city: "Mahe nutomegaƒoƒome"
+    Indian/Maldives: 
+      city: "Maldives nutomegaƒoƒome"
+    Indian/Mauritius: 
+      city: "Mauritius nutomegaƒoƒome"
+    Indian/Mayotte: 
+      city: "Mayotte nutomegaƒoƒome"
+    Indian/Reunion: 
+      city: "Reunion nutomegaƒoƒome"
+    Pacific/Apia: 
+      city: "Apia nutomegaƒoƒome"
+    Pacific/Chatham: 
+      city: "Tsatham nutomegaƒoƒome"
+    Pacific/Easter: 
+      city: "Easter nutomegaƒoƒome"
+    Pacific/Efate: 
+      city: "Efate nutomegaƒoƒome"
+    Pacific/Enderbury: 
+      city: "Enderburi nutomegaƒoƒome"
+    Pacific/Fakaofo: 
+      city: "Fakaofo nutomegaƒoƒome"
+    Pacific/Fiji: 
+      city: "Fidzi nutomegaƒoƒome"
+    Pacific/Funafuti: 
+      city: "Funafuti nutomegaƒoƒome"
+    Pacific/Galapagos: 
+      city: "Galapagos nutomegaƒoƒome"
+    Pacific/Gambier: 
+      city: "Gambier nutomegaƒoƒome"
+    Pacific/Guadalcanal: 
+      city: "Guadalkanal nutomegaƒoƒome"
+    Pacific/Guam: 
+      city: "Guam nutomegaƒoƒome"
+    Pacific/Honolulu: 
+      city: "Honolulu nutomegaƒoƒome"
+    Pacific/Johnston: 
+      city: "Yohanneston nutomegaƒoƒome"
+    Pacific/Kiritimati: 
+      city: "Kiritimati nutomegaƒoƒome"
+    Pacific/Kosrae: 
+      city: "Kosrae nutomegaƒoƒome"
+    Pacific/Kwajalein: 
+      city: "Kwadzalein nutomegaƒoƒome"
+    Pacific/Marquesas: 
+      city: "Markuesas nutomegaƒoƒome"
+    Pacific/Midway: 
+      city: "Midway nutomegaƒoƒome"
+    Pacific/Nauru: 
+      city: "Nauru nutomegaƒoƒome"
+    Pacific/Niue: 
+      city: "Niue nutomegaƒoƒome"
+    Pacific/Norfolk: 
+      city: "Nɔfɔlk nutomegaƒoƒome"
+    Pacific/Noumea: 
+      city: "Numea nutomegaƒoƒome"
+    Pacific/Pago_Pago: 
+      city: "Pago Pago nutomegaƒoƒome"
+    Pacific/Palau: 
+      city: "Palau nutomegaƒoƒome"
+    Pacific/Pitcairn: 
+      city: "Pitkairn nutomegaƒoƒome"
+    Pacific/Ponape: 
+      city: "Pohnpei nutomegaƒoƒome"
+    Pacific/Port_Moresby: 
+      city: "Pɔrt Moresbynutomegaƒoƒome"
+    Pacific/Rarotonga: 
+      city: "Rarotonga nutomegaƒoƒome"
+    Pacific/Saipan: 
+      city: "Saipan nutomegaƒoƒome"
+    Pacific/Tarawa: 
+      city: "Tarawa nutomegaƒoƒome"
+    Pacific/Tongatapu: 
+      city: "Tongatapu nutomegaƒoƒome"
+    Pacific/Truk: 
+      city: "Tsuuk nutomegaƒoƒome"
+    Pacific/Wake: 
+      city: "Wake nutomegaƒoƒome"
+    Pacific/Wallis: 
+      city: "Wallis nutomegaƒoƒome"

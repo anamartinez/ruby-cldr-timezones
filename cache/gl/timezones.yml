@@ -1,0 +1,152 @@
+gl: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Djibouti: 
+      city: Xibutí
+    America/Anguilla: 
+      city: Anguila
+    America/Argentina/Rio_Gallegos: 
+      city: "Río Gallegos"
+    America/Argentina/Tucuman: 
+      city: Tucumán
+    America/Belem: 
+      city: Belém
+    America/Belize: 
+      city: Belice
+    America/Buenos_Aires: 
+      city: "Bos Aires"
+    America/Cancun: 
+      city: Cancún
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Cordoba: 
+      city: Córdoba
+    America/El_Salvador: 
+      city: "El Salvador"
+    America/Grenada: 
+      city: Granada
+    America/Guadeloupe: 
+      city: Guadalupe
+    America/Guyana: 
+      city: Güiana
+    America/Indiana/Knox: 
+      city: Knox
+    America/Indiana/Marengo: 
+      city: Marengo
+    America/Indiana/Petersburg: 
+      city: Petersburg
+    America/Indiana/Tell_City: 
+      city: "Tell City"
+    America/Indiana/Vevay: 
+      city: Vevay
+    America/Indiana/Vincennes: 
+      city: Vincennes
+    America/Indiana/Winamac: 
+      city: Winamac
+    America/Jamaica: 
+      city: Xamaica
+    America/Kentucky/Monticello: 
+      city: Monticello
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: Maceió
+    America/Martinique: 
+      city: Martinica
+    America/Mazatlan: 
+      city: Mazatlán
+    America/Merida: 
+      city: Mérida
+    America/Mexico_City: 
+      city: "Cidade de México"
+    America/Monterrey: 
+      city: Monterrei
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: Central
+    America/North_Dakota/New_Salem: 
+      city: "New Salem"
+    America/Panama: 
+      city: Panamá
+    America/Puerto_Rico: 
+      city: "Porto Rico"
+    America/Sao_Paulo: 
+      city: "São Paulo"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St Johns"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: Dumont-d'Urville
+    Antarctica/South_Pole: 
+      city: "Polo Sul"
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Jakarta: 
+      city: Iacarta
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Asia/Samarkand: 
+      city: Samarcanda
+    Asia/Singapore: 
+      city: Singapur
+    Asia/Ulaanbaatar: 
+      city: "Ulan Bator"
+    Asia/Yekaterinburg: 
+      city: Ecaterinburgo
+    Atlantic/Bermuda: 
+      city: Bermudas
+    Atlantic/Canary: 
+      city: "Illas Canarias"
+    Atlantic/Cape_Verde: 
+      city: "Cabo Verde"
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Etc/Unknown: 
+      city: Descoñecido
+    Europe/Gibraltar: 
+      city: Xibraltar
+    Europe/Kaliningrad: 
+      city: Kaliningrado
+    Europe/Luxembourg: 
+      city: Luxemburgo
+    Europe/Monaco: 
+      city: Mónaco
+    Europe/Moscow: 
+      city: Moscova
+    Europe/Paris: 
+      city: París
+    Europe/Volgograd: 
+      city: Volgogrado
+    Indian/Maldives: 
+      city: Maldivas
+    Indian/Mauritius: 
+      city: Mauricio
+    Indian/Reunion: 
+      city: Reunión
+    Pacific/Easter: 
+      city: "Illa de Pascua"
+    Pacific/Fiji: 
+      city: Fidxi
+    Pacific/Galapagos: 
+      city: "Illas Galápagos"
+    Pacific/Honolulu: 
+      city: Honolulú
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

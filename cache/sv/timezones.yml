@@ -1,0 +1,252 @@
+sv: 
+  timezones: 
+    Africa/Addis_Ababa: 
+      city: "Addis Abeba"
+    Africa/Algiers: 
+      city: Alger
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Cairo: 
+      city: Kairo
+    Africa/Gaborone: 
+      city: Gabonore
+    Africa/Lusaka: 
+      city: Lukasa
+    Africa/Malabo: 
+      city: Malobo
+    Africa/Porto-Novo: 
+      city: "Porto Novo"
+    Africa/Sao_Tome: 
+      city: "São Tomé"
+    America/Argentina/Ushuaia: 
+      city: Ushuaïa
+    America/Asuncion: 
+      city: Asunción
+    America/Belem: 
+      city: Belém
+    America/Bogota: 
+      city: Bogotá
+    America/Cancun: 
+      city: Cancún
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Cordoba: 
+      city: Córdoba
+    America/Cuiaba: 
+      city: Cuiabá
+    America/Curacao: 
+      city: Curaçao
+    America/Danmarkshavn: 
+      city: Danmarkshamn
+    America/Eirunepe: 
+      city: Eirunepé
+    America/El_Salvador: 
+      city: "San Salvador"
+    America/Godthab: 
+      city: Godthåb
+    America/Havana: 
+      city: Havanna
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Jujuy: 
+      city: "San Salvador de Jujuy"
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: Maceió
+    America/Mazatlan: 
+      city: Mazatlán
+    America/Merida: 
+      city: Mérida
+    America/Montreal: 
+      city: Montréal
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "North Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/Port-au-Prince: 
+      city: "Port au Prince"
+    America/Regina: 
+      city: Régina
+    America/Sao_Paulo: 
+      city: "São Paulo"
+    America/Scoresbysund: 
+      city: Ittoqqortoormiit
+    America/St_Barthelemy: 
+      city: "S:t Barthélemy"
+    America/St_Johns: 
+      city: "St. Johns"
+    America/St_Kitts: 
+      city: "S:t Kitts"
+    America/St_Lucia: 
+      city: "S:t Lucia"
+    America/St_Thomas: 
+      city: "Saint Thomas"
+    America/St_Vincent: 
+      city: "Saint Vincent"
+    America/Tegucigalpa: 
+      city: Tequciqalpa
+    America/Thule: 
+      city: Qaanaaq
+    Antarctica/DumontDUrville: 
+      city: "Dumont d’Urville"
+    Antarctica/South_Pole: 
+      city: sydpolen
+    Asia/Almaty: 
+      city: Alma-Ata
+    Asia/Anadyr: 
+      city: Anadir
+    Asia/Aqtobe: 
+      city: Aqtöbe
+    Asia/Baghdad: 
+      city: Bagdad
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Choibalsan: 
+      city: Tjojbalsan
+    Asia/Damascus: 
+      city: Damaskus
+    Asia/Dhaka: 
+      city: Dacca
+    Asia/Dushanbe: 
+      city: Dusjanbe
+    Asia/Hong_Kong: 
+      city: Hongkong
+    Asia/Kamchatka: 
+      city: Kamtjatka
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Krasnoyarsk: 
+      city: Krasnojarsk
+    Asia/Macau: 
+      city: Macao
+    Asia/Manila: 
+      city: Manilla
+    Asia/Muscat: 
+      city: Muskat
+    Asia/Saigon: 
+      city: "Ho Chi Minh-staden"
+    Asia/Sakhalin: 
+      city: Sachalin
+    Asia/Seoul: 
+      city: Söul
+    Asia/Tashkent: 
+      city: Tasjkent
+    Asia/Tehran: 
+      city: Teheran
+    Asia/Thimphu: 
+      city: Thimpu
+    Asia/Ulaanbaatar: 
+      city: "Ulan Bator"
+    Asia/Yakutsk: 
+      city: Jakutsk
+    Asia/Yekaterinburg: 
+      city: Jekaterinburg
+    Asia/Yerevan: 
+      city: Jerevan
+    Atlantic/Azores: 
+      city: Azorerna
+    Atlantic/Canary: 
+      city: Kanarieöarna
+    Atlantic/Cape_Verde: 
+      city: "Kap Verde"
+    Atlantic/Faeroe: 
+      city: Torshamn
+    Atlantic/South_Georgia: 
+      city: Grytviken
+    Atlantic/St_Helena: 
+      city: "S:t Helena"
+    Etc/Unknown: 
+      city: Okänd
+    Europe/Athens: 
+      city: Aten
+    Europe/Belgrade: 
+      city: Belgrad
+    Europe/Berlin: 
+      city: Berlin
+    Europe/Brussels: 
+      city: Bryssel
+    Europe/Bucharest: 
+      city: Bukarest
+    Europe/Chisinau: 
+      city: Chrisinau
+    Europe/Copenhagen: 
+      city: Köpenhamn
+    Europe/Helsinki: 
+      city: Helsingfors
+    Europe/Lisbon: 
+      city: Lissabon
+    Europe/Ljubljana: 
+      city: Ljubliana
+    Europe/Luxembourg: 
+      city: Luxemburg
+    Europe/Mariehamn: 
+      city: Mariehamn
+    Europe/Moscow: 
+      city: Moskva
+    Europe/Oslo: 
+      city: Oslo
+    Europe/Paris: 
+      city: Paris
+    Europe/Podgorica: 
+      city: Podgorika
+    Europe/Prague: 
+      city: Prag
+    Europe/Rome: 
+      city: Rom
+    Europe/Stockholm: 
+      city: Stockholm
+    Europe/Tallinn: 
+      city: Tallin
+    Europe/Tirane: 
+      city: Tirana
+    Europe/Uzhgorod: 
+      city: Uzjgorod
+    Europe/Vaduz: 
+      city: Vadus
+    Europe/Vatican: 
+      city: Vatikanen
+    Europe/Vienna: 
+      city: Wien
+    Europe/Warsaw: 
+      city: Warszawa
+    Europe/Zaporozhye: 
+      city: Zaporizjzja
+    Europe/Zurich: 
+      city: Zürich
+    Indian/Christmas: 
+      city: Julön
+    Indian/Cocos: 
+      city: Kokosöarna
+    Indian/Comoro: 
+      city: Komorerna
+    Indian/Maldives: 
+      city: Maldiverna
+    Indian/Reunion: 
+      city: Réunion
+    Pacific/Easter: 
+      city: Påskön
+    Pacific/Galapagos: 
+      city: Galápagos
+    Pacific/Pago_Pago: 
+      city: "Pago Pago"
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

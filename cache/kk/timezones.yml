@@ -1,0 +1,758 @@
+kk: 
+  timezones: 
+    Africa/Abidjan: 
+      city: Абиджан
+    Africa/Accra: 
+      city: Аккра
+    Africa/Addis_Ababa: 
+      city: "Аддис Абеба"
+    Africa/Algiers: 
+      city: Алжир
+    Africa/Asmera: 
+      city: Асмера
+    Africa/Bangui: 
+      city: Банги
+    Africa/Banjul: 
+      city: Банжул
+    Africa/Bissau: 
+      city: Бисау
+    Africa/Blantyre: 
+      city: Блантаир
+    Africa/Brazzaville: 
+      city: Браззавил
+    Africa/Bujumbura: 
+      city: Бужумбура
+    Africa/Cairo: 
+      city: Каир
+    Africa/Casablanca: 
+      city: Кассабланка
+    Africa/Ceuta: 
+      city: Сеута
+    Africa/Conakry: 
+      city: Конакри
+    Africa/Dakar: 
+      city: Дакар
+    Africa/Dar_es_Salaam: 
+      city: Дар-эс-Салам
+    Africa/Djibouti: 
+      city: Джибути
+    Africa/Douala: 
+      city: Дуала
+    Africa/El_Aaiun: 
+      city: Эл-Аюн
+    Africa/Freetown: 
+      city: Фритаун
+    Africa/Gaborone: 
+      city: Габороне
+    Africa/Harare: 
+      city: Хараре
+    Africa/Johannesburg: 
+      city: Йоханнесбург
+    Africa/Kampala: 
+      city: Кампала
+    Africa/Khartoum: 
+      city: Хартум
+    Africa/Kigali: 
+      city: Кигали
+    Africa/Kinshasa: 
+      city: Киншаса
+    Africa/Lagos: 
+      city: Лагос
+    Africa/Libreville: 
+      city: Либревил
+    Africa/Lome: 
+      city: Ломе
+    Africa/Luanda: 
+      city: Луанда
+    Africa/Lubumbashi: 
+      city: Лубумбаши
+    Africa/Lusaka: 
+      city: Лусака
+    Africa/Malabo: 
+      city: Малабо
+    Africa/Maputo: 
+      city: Мапуту
+    Africa/Maseru: 
+      city: Масеру
+    Africa/Mbabane: 
+      city: Мбабане
+    Africa/Mogadishu: 
+      city: Могадишо
+    Africa/Monrovia: 
+      city: Монравия
+    Africa/Nairobi: 
+      city: Найроби
+    Africa/Ndjamena: 
+      city: Нджамена
+    Africa/Niamey: 
+      city: Ниамей
+    Africa/Nouakchott: 
+      city: Нуакшот
+    Africa/Ouagadougou: 
+      city: Уадагуду
+    Africa/Porto-Novo: 
+      city: Порто-Ново
+    Africa/Sao_Tome: 
+      city: Сан-Томе
+    Africa/Tripoli: 
+      city: Триполи
+    Africa/Tunis: 
+      city: Тунис
+    Africa/Windhoek: 
+      city: Виндхук
+    America/Adak: 
+      city: Адак
+    America/Anchorage: 
+      city: Анкоридж
+    America/Anguilla: 
+      city: Ангилиа
+    America/Antigua: 
+      city: Антгуа
+    America/Araguaina: 
+      city: Арагуаина
+    America/Argentina/La_Rioja: 
+      city: "Ла Риоха"
+    America/Argentina/Rio_Gallegos: 
+      city: "Рио Галлегос"
+    America/Argentina/Salta: 
+      city: Салта
+    America/Argentina/San_Juan: 
+      city: Сан-Хуан
+    America/Argentina/San_Luis: 
+      city: "Сан Луис"
+    America/Argentina/Tucuman: 
+      city: Тукуман
+    America/Argentina/Ushuaia: 
+      city: Ушуаиа
+    America/Aruba: 
+      city: Аруба
+    America/Asuncion: 
+      city: Асунсион
+    America/Bahia: 
+      city: Баия
+    America/Barbados: 
+      city: Барбадос
+    America/Belem: 
+      city: Белем
+    America/Belize: 
+      city: Белиз
+    America/Blanc-Sablon: 
+      city: "Бланк Саблон"
+    America/Boa_Vista: 
+      city: "Бао Виста"
+    America/Bogota: 
+      city: Богота
+    America/Boise: 
+      city: Бойсе
+    America/Buenos_Aires: 
+      city: "Буэнос Айрес"
+    America/Cambridge_Bay: 
+      city: "Кембридж Бей"
+    America/Campo_Grande: 
+      city: "Кампо Гранде"
+    America/Cancun: 
+      city: Канкун
+    America/Caracas: 
+      city: Каракас
+    America/Catamarca: 
+      city: Катамарка
+    America/Cayenne: 
+      city: Кайенна
+    America/Cayman: 
+      city: "Кайман аралдары"
+    America/Chicago: 
+      city: Чикаго
+    America/Chihuahua: 
+      city: Чиуауа
+    America/Coral_Harbour: 
+      city: "Корал Харбор"
+    America/Cordoba: 
+      city: Кордоба
+    America/Costa_Rica: 
+      city: Коста-Рика
+    America/Cuiaba: 
+      city: Куяба
+    America/Curacao: 
+      city: Курасао
+    America/Danmarkshavn: 
+      city: Денмарксхавн
+    America/Dawson: 
+      city: Досон
+    America/Dawson_Creek: 
+      city: "Досон Крик"
+    America/Denver: 
+      city: Денвер
+    America/Detroit: 
+      city: Детройт
+    America/Dominica: 
+      city: Доминика
+    America/Edmonton: 
+      city: Эдмонтон
+    America/Eirunepe: 
+      city: Эйрунепе
+    America/El_Salvador: 
+      city: Сальвадор
+    America/Fortaleza: 
+      city: Форталеза
+    America/Glace_Bay: 
+      city: Глейс-Бей
+    America/Goose_Bay: 
+      city: Гус-Бей
+    America/Grand_Turk: 
+      city: "Гранд Турк"
+    America/Grenada: 
+      city: Гренада
+    America/Guadeloupe: 
+      city: Гваделупа
+    America/Guatemala: 
+      city: Гватемала
+    America/Guyana: 
+      city: Гайана
+    America/Halifax: 
+      city: Галифакс
+    America/Havana: 
+      city: Гавана
+    America/Hermosillo: 
+      city: Эрмосилло
+    America/Indiana/Knox: 
+      city: "Нокс, Индиана"
+    America/Indiana/Marengo: 
+      city: "Маренго, Индиана"
+    America/Indiana/Petersburg: 
+      city: "Петерсбург, Индиана"
+    America/Indiana/Tell_City: 
+      city: "Телл-Сити, Индиана"
+    America/Indiana/Vevay: 
+      city: "Вивей, Индиана"
+    America/Indiana/Vincennes: 
+      city: "Винсенс, Индиана"
+    America/Indiana/Winamac: 
+      city: "Винамак, Индиана"
+    America/Indianapolis: 
+      city: Индианаполис
+    America/Inuvik: 
+      city: Инувик
+    America/Iqaluit: 
+      city: Икалуит
+    America/Jamaica: 
+      city: Ямайка
+    America/Jujuy: 
+      city: Жужуй
+    America/Juneau: 
+      city: Джуно
+    America/Kentucky/Monticello: 
+      city: "Монтиселло, Кентуки"
+    America/La_Paz: 
+      city: Ла-Пас
+    America/Lima: 
+      city: Лима
+    America/Los_Angeles: 
+      city: Лос-Анжелес
+    America/Louisville: 
+      city: Луисвилл
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: Масейо
+    America/Managua: 
+      city: Манагуа
+    America/Manaus: 
+      city: Манаус
+    America/Martinique: 
+      city: Мартиника
+    America/Mazatlan: 
+      city: Мазалтан
+    America/Mendoza: 
+      city: Мендоза
+    America/Menominee: 
+      city: Меномини
+    America/Merida: 
+      city: Мерида
+    America/Mexico_City: 
+      city: Мехико
+    America/Miquelon: 
+      city: Микелон
+    America/Moncton: 
+      city: Монктон
+    America/Monterrey: 
+      city: Монтеррей
+    America/Montevideo: 
+      city: Монтевидео
+    America/Montreal: 
+      city: Монреаль
+    America/Montserrat: 
+      city: Монсеррат
+    America/Nassau: 
+      city: Нассау
+    America/New_York: 
+      city: Нью-Йорк
+    America/Nipigon: 
+      city: Нипигон
+    America/Nome: 
+      city: Ном
+    America/Noronha: 
+      city: Норонха
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "Солтүстік Дакота, Орталық"
+    America/North_Dakota/New_Salem: 
+      city: "Нью Салем"
+    America/Panama: 
+      city: Панама
+    America/Pangnirtung: 
+      city: Пангниртанг
+    America/Paramaribo: 
+      city: Парамарибо
+    America/Phoenix: 
+      city: Финикс
+    America/Port-au-Prince: 
+      city: Порт-о-Пренс
+    America/Porto_Velho: 
+      city: Порту-Велью
+    America/Puerto_Rico: 
+      city: Пуэрто-Рико
+    America/Rainy_River: 
+      city: Рейни-Ривер
+    America/Rankin_Inlet: 
+      city: Ранкин-Инлет
+    America/Recife: 
+      city: Ресифи
+    America/Regina: 
+      city: Регина
+    America/Resolute: 
+      city: Резолют
+    America/Rio_Branco: 
+      city: "Риу Бранку"
+    America/Santarem: 
+      city: Сантарем
+    America/Santo_Domingo: 
+      city: "Санто Доминго"
+    America/Sao_Paulo: 
+      city: "Сан Паулу"
+    America/Scoresbysund: 
+      city: Скорсбиссун
+    America/Shiprock: 
+      city: Шипрок
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "Сент Джонс"
+    America/St_Kitts: 
+      city: "Сент Китс"
+    America/St_Lucia: 
+      city: "Сент Люсия"
+    America/St_Thomas: 
+      city: "Сент Томас"
+    America/St_Vincent: 
+      city: "Сент Винсент"
+    America/Swift_Current: 
+      city: "Свифт Карент"
+    America/Tegucigalpa: 
+      city: Тегусигальпа
+    America/Thule: 
+      city: Туле
+    America/Thunder_Bay: 
+      city: "Тандер Бей"
+    America/Tijuana: 
+      city: Тихуана
+    America/Toronto: 
+      city: Торонто
+    America/Tortola: 
+      city: Тортола
+    America/Vancouver: 
+      city: Ванкувер
+    America/Whitehorse: 
+      city: Уайтхорс
+    America/Winnipeg: 
+      city: Виннипег
+    America/Yakutat: 
+      city: Якутат
+    America/Yellowknife: 
+      city: Йеллоунайф
+    Antarctica/Casey: 
+      city: Кейси
+    Antarctica/Davis: 
+      city: Дэйвис
+    Antarctica/DumontDUrville: 
+      city: Дюмон-д'Юрвиль
+    Antarctica/Mawson: 
+      city: Моусон
+    Antarctica/McMurdo: 
+      city: "Мак Мердо"
+    Antarctica/Palmer: 
+      city: Палмер
+    Antarctica/Rothera: 
+      city: Ротера
+    Antarctica/South_Pole: 
+      city: "Оңтүстік полюс"
+    Antarctica/Syowa: 
+      city: Сева
+    Antarctica/Vostok: 
+      city: Восток
+    Arctic/Longyearbyen: 
+      city: Лонгйир
+    Asia/Aden: 
+      city: Аден
+    Asia/Almaty: 
+      city: Алматы
+    Asia/Amman: 
+      city: Амман
+    Asia/Anadyr: 
+      city: Анадыр
+    Asia/Aqtau: 
+      city: Ақтау
+    Asia/Aqtobe: 
+      city: Ақтөбе
+    Asia/Ashgabat: 
+      city: Азхабат
+    Asia/Baghdad: 
+      city: Бағдат
+    Asia/Bahrain: 
+      city: Бахрейн
+    Asia/Baku: 
+      city: Баку
+    Asia/Bangkok: 
+      city: Бангкок
+    Asia/Beirut: 
+      city: Бейрут
+    Asia/Bishkek: 
+      city: Бішкек
+    Asia/Brunei: 
+      city: Бруней
+    Asia/Calcutta: 
+      city: Колката
+    Asia/Choibalsan: 
+      city: Чойбалсан
+    Asia/Colombo: 
+      city: Коломбо
+    Asia/Damascus: 
+      city: Дамаск
+    Asia/Dhaka: 
+      city: Дакка
+    Asia/Dili: 
+      city: Дили
+    Asia/Dubai: 
+      city: Дубай
+    Asia/Dushanbe: 
+      city: Душанбе
+    Asia/Gaza: 
+      city: Газа
+    Asia/Harbin: 
+      city: Харбин
+    Asia/Hong_Kong: 
+      city: Гонконг
+    Asia/Irkutsk: 
+      city: Иркутск
+    Asia/Jakarta: 
+      city: Жакарта
+    Asia/Jayapura: 
+      city: Жайпур
+    Asia/Jerusalem: 
+      city: Иерусалим
+    Asia/Kabul: 
+      city: Кабул
+    Asia/Kamchatka: 
+      city: Камчатка
+    Asia/Karachi: 
+      city: Карачи
+    Asia/Kashgar: 
+      city: Қашқар
+    Asia/Katmandu: 
+      city: Катманду
+    Asia/Krasnoyarsk: 
+      city: Красноярск
+    Asia/Kuching: 
+      city: Кучинг
+    Asia/Kuwait: 
+      city: Кувейт
+    Asia/Magadan: 
+      city: Магадан
+    Asia/Makassar: 
+      city: Макассар
+    Asia/Manila: 
+      city: Манила
+    Asia/Muscat: 
+      city: Маскат
+    Asia/Nicosia: 
+      city: Никосиа
+    Asia/Novosibirsk: 
+      city: Новосибирск
+    Asia/Omsk: 
+      city: Омск
+    Asia/Oral: 
+      city: Орал
+    Asia/Phnom_Penh: 
+      city: Пномпен
+    Asia/Pontianak: 
+      city: Понтианак
+    Asia/Pyongyang: 
+      city: Пхеньян
+    Asia/Qatar: 
+      city: Катар
+    Asia/Qyzylorda: 
+      city: Қызылорда
+    Asia/Rangoon: 
+      city: Рангун
+    Asia/Riyadh: 
+      city: Эр-Рияд
+    Asia/Saigon: 
+      city: Сайгон
+    Asia/Sakhalin: 
+      city: Сахалин
+    Asia/Samarkand: 
+      city: Самарқанд
+    Asia/Seoul: 
+      city: Сеул
+    Asia/Singapore: 
+      city: Сингапур
+    Asia/Taipei: 
+      city: Тайбэй
+    Asia/Tbilisi: 
+      city: Тбилиси
+    Asia/Tehran: 
+      city: Тегеран
+    Asia/Thimphu: 
+      city: Тимбу
+    Asia/Tokyo: 
+      city: Токио
+    Asia/Ulaanbaatar: 
+      city: Улан-Батор
+    Asia/Urumqi: 
+      city: Үрімші
+    Asia/Vientiane: 
+      city: Вьентьян
+    Asia/Vladivostok: 
+      city: Владивосток
+    Asia/Yakutsk: 
+      city: Якутск
+    Asia/Yekaterinburg: 
+      city: Екатеринбург
+    Asia/Yerevan: 
+      city: Ереван
+    Atlantic/Azores: 
+      city: "Азор аралдары"
+    Atlantic/Bermuda: 
+      city: Бермуды
+    Atlantic/Canary: 
+      city: "Канар аралдары"
+    Atlantic/Faeroe: 
+      city: "Фарер аралдары"
+    Atlantic/Madeira: 
+      city: Мадейра
+    Atlantic/Reykjavik: 
+      city: Рейкьявик
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Atlantic/Stanley: 
+      city: Стенли
+    Australia/Adelaide: 
+      city: Аделаида
+    Australia/Brisbane: 
+      city: Брисбен
+    Australia/Broken_Hill: 
+      city: "Брокен Хилл"
+    Australia/Currie: 
+      city: Керри
+    Australia/Darwin: 
+      city: Дарвин
+    Australia/Eucla: 
+      city: Юкла
+    Australia/Hobart: 
+      city: Хобарт
+    Australia/Lindeman: 
+      city: Линдеман
+    Australia/Lord_Howe: 
+      city: "Лорд Хау, арал"
+    Australia/Melbourne: 
+      city: Мельбурн
+    Australia/Perth: 
+      city: Перт
+    Australia/Sydney: 
+      city: Сидней
+    Etc/Unknown: 
+      city: Белгісіз
+    Europe/Amsterdam: 
+      city: Амстердам
+    Europe/Andorra: 
+      city: Андора
+    Europe/Athens: 
+      city: Афины
+    Europe/Belgrade: 
+      city: Белград
+    Europe/Berlin: 
+      city: Берлин
+    Europe/Bratislava: 
+      city: Братислава
+    Europe/Brussels: 
+      city: Брюссель
+    Europe/Bucharest: 
+      city: Бухарест
+    Europe/Budapest: 
+      city: Будапешт
+    Europe/Chisinau: 
+      city: Кишинев
+    Europe/Copenhagen: 
+      city: Копенгаген
+    Europe/Dublin: 
+      city: Дублин
+    Europe/Gibraltar: 
+      city: Гибралтар
+    Europe/Helsinki: 
+      city: Хелсинки
+    Europe/Isle_of_Man: 
+      city: "Мэн, арал"
+    Europe/Istanbul: 
+      city: Стамбул
+    Europe/Jersey: 
+      city: Джерси
+    Europe/Kaliningrad: 
+      city: Калининград
+    Europe/Ljubljana: 
+      city: Любляна
+    Europe/Luxembourg: 
+      city: Люксембург
+    Europe/Malta: 
+      city: Мальта
+    Europe/Minsk: 
+      city: Минск
+    Europe/Monaco: 
+      city: Монако
+    Europe/Moscow: 
+      city: Мәскеу
+    Europe/Oslo: 
+      city: Осло
+    Europe/Paris: 
+      city: Париж
+    Europe/Podgorica: 
+      city: Подгорица
+    Europe/Prague: 
+      city: Прага
+    Europe/Riga: 
+      city: Рига
+    Europe/Rome: 
+      city: Рим
+    Europe/Samara: 
+      city: Самара
+    Europe/San_Marino: 
+      city: Сан-Марино
+    Europe/Sarajevo: 
+      city: Сараево
+    Europe/Simferopol: 
+      city: Симферополь
+    Europe/Sofia: 
+      city: София
+    Europe/Stockholm: 
+      city: Стокгольм
+    Europe/Tallinn: 
+      city: Таллин
+    Europe/Tirane: 
+      city: Тирана
+    Europe/Uzhgorod: 
+      city: Ужгород
+    Europe/Vaduz: 
+      city: Вадуц
+    Europe/Vatican: 
+      city: Ватикан
+    Europe/Vienna: 
+      city: Вена
+    Europe/Vilnius: 
+      city: Вильнус
+    Europe/Volgograd: 
+      city: Волгоград
+    Europe/Warsaw: 
+      city: Варшава
+    Europe/Zagreb: 
+      city: Загреб
+    Europe/Zaporozhye: 
+      city: Запорожье
+    Europe/Zurich: 
+      city: Цюрих
+    Indian/Antananarivo: 
+      city: Антананариво
+    Indian/Chagos: 
+      city: Чагос
+    Indian/Cocos: 
+      city: "Кокос аралдары"
+    Indian/Comoro: 
+      city: Коморо
+    Indian/Kerguelen: 
+      city: Кергелен
+    Indian/Mahe: 
+      city: Маэ
+    Indian/Maldives: 
+      city: Мальдивы
+    Indian/Mauritius: 
+      city: Маврикий
+    Indian/Mayotte: 
+      city: Майорка
+    Indian/Reunion: 
+      city: Реюньон
+    Pacific/Apia: 
+      city: Апия
+    Pacific/Chatham: 
+      city: Чатем
+    Pacific/Efate: 
+      city: Эфате
+    Pacific/Enderbury: 
+      city: Эндербери
+    Pacific/Fakaofo: 
+      city: Факаофо
+    Pacific/Fiji: 
+      city: Фиджи
+    Pacific/Funafuti: 
+      city: Фунафути
+    Pacific/Galapagos: 
+      city: Галапагос
+    Pacific/Gambier: 
+      city: Гамбье
+    Pacific/Guadalcanal: 
+      city: Гвадалканал
+    Pacific/Guam: 
+      city: Гуам
+    Pacific/Honolulu: 
+      city: Гонолулу
+    Pacific/Johnston: 
+      city: Джонстон
+    Pacific/Kiritimati: 
+      city: Киритимати
+    Pacific/Kosrae: 
+      city: Косрае
+    Pacific/Kwajalein: 
+      city: Кваджалейн
+    Pacific/Marquesas: 
+      city: "Маркиз аралдары"
+    Pacific/Midway: 
+      city: Мидуэй
+    Pacific/Nauru: 
+      city: Науру
+    Pacific/Niue: 
+      city: Ниуэ
+    Pacific/Norfolk: 
+      city: Норфолк
+    Pacific/Noumea: 
+      city: Нумеа
+    Pacific/Pago_Pago: 
+      city: Паго-Паго
+    Pacific/Palau: 
+      city: Палау
+    Pacific/Pitcairn: 
+      city: Питкерн
+    Pacific/Ponape: 
+      city: Понапе
+    Pacific/Port_Moresby: 
+      city: "Порт Морсби"
+    Pacific/Rarotonga: 
+      city: Раротонга
+    Pacific/Saipan: 
+      city: Сайпан
+    Pacific/Tarawa: 
+      city: Тарава
+    Pacific/Tongatapu: 
+      city: Тонгатапу
+    Pacific/Truk: 
+      city: Трук
+    Pacific/Wake: 
+      city: Уэйк
+    Pacific/Wallis: 
+      city: Уоллис

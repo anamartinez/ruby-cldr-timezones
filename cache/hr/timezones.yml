@@ -1,0 +1,166 @@
+hr: 
+  timezones: 
+    Africa/Algiers: 
+      city: Alžir
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Djibouti: 
+      city: Džibuti
+    Africa/Kinshasa: 
+      city: Kinšasa
+    Africa/Lubumbashi: 
+      city: Lubumbaši
+    America/Anchorage: 
+      city: "Alaska vremenska zona"
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Costa_Rica: 
+      city: Kostarika
+    America/Dominica: 
+      city: Dominika
+    America/El_Salvador: 
+      city: "El Salvador"
+    America/Guatemala: 
+      city: Gvatemala
+    America/Guyana: 
+      city: Gvajana
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Jamaica: 
+      city: Jamajka
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: "Središnja, Sjeverna Dakota"
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, Sjeverna Dakota"
+    America/Puerto_Rico: 
+      city: Portoriko
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont D'Urville"
+    Antarctica/South_Pole: 
+      city: "Južni pol"
+    Asia/Anadyr: 
+      city: Anadir
+    Asia/Bahrain: 
+      city: Bahrein
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Kamchatka: 
+      city: Kamčatka
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Krasnoyarsk: 
+      city: Krasnojarsk
+    Asia/Kuwait: 
+      city: Kuvajt
+    Asia/Nicosia: 
+      city: Nikozija
+    Asia/Qatar: 
+      city: Katar
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Asia/Shanghai: 
+      city: Šangaj
+    Asia/Singapore: 
+      city: Singapur
+    Asia/Tashkent: 
+      city: Taškent
+    Asia/Tokyo: 
+      city: Tokio
+    Atlantic/Azores: 
+      city: "Azorski otoci"
+    Atlantic/Canary: 
+      city: "Kanarska Otočja"
+    Atlantic/Cape_Verde: 
+      city: "Zelenortski Otoci"
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/South_Georgia: 
+      city: "South Georgia"
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Etc/Unknown: 
+      city: "Nepoznat ili nevažeći grad"
+    Europe/Andorra: 
+      city: Andora
+    Europe/Athens: 
+      city: Atena
+    Europe/Bucharest: 
+      city: Bukurešt
+    Europe/Budapest: 
+      city: Budimpešta
+    Europe/Kaliningrad: 
+      city: Kalinjingrad
+    Europe/Kiev: 
+      city: Kijev
+    Europe/Lisbon: 
+      city: Lisabon
+    Europe/Luxembourg: 
+      city: Luksemburg
+    Europe/Monaco: 
+      city: Monako
+    Europe/Moscow: 
+      city: Moskva
+    Europe/Paris: 
+      city: Pariz
+    Europe/Rome: 
+      city: Rim
+    Europe/Sarajevo: 
+      city: Sarajevo
+    Europe/Sofia: 
+      city: Sofija
+    Europe/Uzhgorod: 
+      city: Uzgorod
+    Europe/Vienna: 
+      city: Beč
+    Europe/Warsaw: 
+      city: Varšava
+    Europe/Zagreb: 
+      city: Zagreb
+    Europe/Zaporozhye: 
+      city: Zaporožje
+    Indian/Christmas: 
+      city: Christmas
+    Indian/Maldives: 
+      city: Maldivi
+    Indian/Mauritius: 
+      city: Mauricijus
+    Indian/Reunion: 
+      city: Reunion
+    Pacific/Easter: 
+      city: "Uskrsni Otok"
+    Pacific/Fiji: 
+      city: Fiji
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

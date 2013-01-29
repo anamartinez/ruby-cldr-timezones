@@ -1,0 +1,78 @@
+zh-Hans-SG: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    America/Cambridge_Bay: 
+      city: 剑桥湾
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Indiana/Knox: 
+      city: 印第安纳州诺克斯
+    America/Indiana/Marengo: 
+      city: 印第安纳州马伦戈
+    America/Indiana/Petersburg: 
+      city: 印第安纳州彼得斯堡
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: 印第安纳州维维市
+    America/Indiana/Vincennes: 
+      city: 印第安纳州温森斯
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Kentucky/Monticello: 
+      city: 肯塔基州蒙蒂塞洛
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Menominee: 
+      city: 梅诺米尼
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: 北达科他州申特
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/Pangnirtung: 
+      city: 旁尼唐
+    America/Rankin_Inlet: 
+      city: 兰今湾
+    America/Santo_Domingo: 
+      city: 圣多明戈
+    America/Scoresbysund: 
+      city: 斯考斯伯松德
+    America/St_Barthelemy: 
+      city: 圣巴太累米
+    America/St_Johns: 
+      city: "St. John’s"
+    America/St_Kitts: 
+      city: "St. Kitts"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont d’Urville"
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Qyzylorda: 
+      city: 克孜洛尔达
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Atlantic/Azores: 
+      city: 亚速尔群岛
+    Atlantic/Faeroe: 
+      city: Faroe
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Etc/Unknown: 
+      city: Unknown
+    Europe/Zaporozhye: 
+      city: 扎波罗什
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

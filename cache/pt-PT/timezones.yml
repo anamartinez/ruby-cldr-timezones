@@ -1,0 +1,120 @@
+pt-PT: 
+  timezones: 
+    Africa/Asmera: 
+      city: Asmara
+    Africa/Djibouti: 
+      city: Jibuti
+    Africa/Johannesburg: 
+      city: Joanesburgo
+    Africa/Nairobi: 
+      city: Nairobi
+    Africa/Tripoli: 
+      city: Tripoli
+    Africa/Tunis: 
+      city: Tunes
+    America/Araguaina: 
+      city: Araguaina
+    America/Argentina/Tucuman: 
+      city: Tucumán
+    America/Bahia: 
+      city: Baía
+    America/Cancun: 
+      city: Cancun
+    America/Cayman: 
+      city: Caimão
+    America/Coral_Harbour: 
+      city: Atikokan
+    America/Cuiaba: 
+      city: Cuibá
+    America/Indiana/Knox: 
+      city: "Knox, Indiana"
+    America/Indiana/Marengo: 
+      city: "Marengo, Indiana"
+    America/Indiana/Petersburg: 
+      city: "Petersburg, Indiana"
+    America/Indiana/Tell_City: 
+      city: "Tell City, Indiana"
+    America/Indiana/Vevay: 
+      city: "Vevay, Indiana"
+    America/Indiana/Vincennes: 
+      city: "Vincennes, Indiana"
+    America/Indiana/Winamac: 
+      city: "Winamac, Indiana"
+    America/Kentucky/Monticello: 
+      city: "Monticello, Kentucky"
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Montevideo: 
+      city: Montevideu
+    America/North_Dakota/Beulah: 
+      city: "Beulah, North Dakota"
+    America/North_Dakota/Center: 
+      city: Center
+    America/North_Dakota/New_Salem: 
+      city: "New Salem, North Dakota"
+    America/Port-au-Prince: 
+      city: Port-au-Prince
+    America/Port_of_Spain: 
+      city: "Porto de Espanha"
+    America/St_Barthelemy: 
+      city: "St. Barthelemy"
+    America/St_Johns: 
+      city: "St. John's"
+    America/St_Kitts: 
+      city: "S. Cristóvão"
+    America/St_Lucia: 
+      city: "St. Lucia"
+    America/St_Thomas: 
+      city: "St. Thomas"
+    America/St_Vincent: 
+      city: "St. Vincent"
+    Antarctica/DumontDUrville: 
+      city: "Dumont d’Urville"
+    Asia/Baghdad: 
+      city: Bagdade
+    Asia/Bahrain: 
+      city: Barém
+    Asia/Calcutta: 
+      city: Kolkata
+    Asia/Dhaka: 
+      city: Daca
+    Asia/Katmandu: 
+      city: Kathmandu
+    Asia/Riyadh: 
+      city: Riade
+    Asia/Saigon: 
+      city: "Ho Chi Minh"
+    Asia/Sakhalin: 
+      city: Sacalina
+    Asia/Tehran: 
+      city: Teerão
+    Asia/Ulaanbaatar: 
+      city: "Ulan Bator"
+    Asia/Yerevan: 
+      city: Erevan
+    Atlantic/Faeroe: 
+      city: Faroé
+    Atlantic/St_Helena: 
+      city: "St. Helena"
+    Etc/Unknown: 
+      city: Unknown
+    Europe/Amsterdam: 
+      city: Amesterdão
+    Europe/Copenhagen: 
+      city: Copenhaga
+    Europe/Helsinki: 
+      city: Helsínquia
+    Europe/Madrid: 
+      city: Madrid
+    Europe/Monaco: 
+      city: Mónaco
+    Europe/Moscow: 
+      city: Moscovo
+    Indian/Mauritius: 
+      city: Maurícia
+    Indian/Reunion: 
+      city: Reunião
+    Pacific/Ponape: 
+      city: Pohnpei
+    Pacific/Truk: 
+      city: Chuuk

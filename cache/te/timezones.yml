@@ -1,0 +1,810 @@
+te: 
+  timezones: 
+    Africa/Abidjan: 
+      city: అబిడ్జాన్
+    Africa/Accra: 
+      city: అక్రా
+    Africa/Addis_Ababa: 
+      city: "యాడిస్ అబాబా"
+    Africa/Algiers: 
+      city: అల్జియర్స్
+    Africa/Asmera: 
+      city: అస్మారా
+    Africa/Bamako: 
+      city: బామాకో
+    Africa/Bangui: 
+      city: బాంగుయ్
+    Africa/Banjul: 
+      city: బంజూల్
+    Africa/Bissau: 
+      city: బిస్సావ్
+    Africa/Blantyre: 
+      city: బ్లాన్టైర్
+    Africa/Brazzaville: 
+      city: బ్రాజావిల్లి
+    Africa/Bujumbura: 
+      city: బుజమ్బురా
+    Africa/Cairo: 
+      city: కైరో
+    Africa/Casablanca: 
+      city: కాసాబ్లాంకా
+    Africa/Ceuta: 
+      city: స్యూటా
+    Africa/Conakry: 
+      city: కోనాక్రీ
+    Africa/Dakar: 
+      city: డకార్
+    Africa/Dar_es_Salaam: 
+      city: "దార్ ఎ సలామ్"
+    Africa/Djibouti: 
+      city: డిజ్బౌటి
+    Africa/Douala: 
+      city: డౌఆలా
+    Africa/El_Aaiun: 
+      city: "ఎల్ ఎయున్"
+    Africa/Freetown: 
+      city: ఫ్రీటౌన్
+    Africa/Gaborone: 
+      city: గబోరోన్
+    Africa/Harare: 
+      city: హరారే
+    Africa/Johannesburg: 
+      city: జోహన్నెస్‌బర్గ్
+    Africa/Kampala: 
+      city: కంపాలా
+    Africa/Khartoum: 
+      city: ఖార్టోమ్
+    Africa/Kigali: 
+      city: కీగలి
+    Africa/Kinshasa: 
+      city: కిన్షాసా
+    Africa/Lagos: 
+      city: లాగోస్
+    Africa/Libreville: 
+      city: లైబర్విల్
+    Africa/Lome: 
+      city: లోమ్
+    Africa/Luanda: 
+      city: లువాండా
+    Africa/Lubumbashi: 
+      city: లుబంబాషి
+    Africa/Lusaka: 
+      city: లుసాకా
+    Africa/Malabo: 
+      city: మలాబో
+    Africa/Maputo: 
+      city: మాపుటో
+    Africa/Maseru: 
+      city: మసేరు
+    Africa/Mbabane: 
+      city: బాబెన్
+    Africa/Mogadishu: 
+      city: మోగాదిషు
+    Africa/Monrovia: 
+      city: మోన్రోవియా
+    Africa/Nairobi: 
+      city: నైరోబీ
+    Africa/Ndjamena: 
+      city: డ్జామెనా
+    Africa/Niamey: 
+      city: నియామే
+    Africa/Nouakchott: 
+      city: న్వాక్షోట్
+    Africa/Ouagadougou: 
+      city: ఔగాడౌగోవ్
+    Africa/Porto-Novo: 
+      city: పోర్టో-నోవో
+    Africa/Sao_Tome: 
+      city: "సావో టోమ్"
+    Africa/Tripoli: 
+      city: ట్రిపోలి
+    Africa/Tunis: 
+      city: ట్యునిస్
+    Africa/Windhoek: 
+      city: విండ్హోక్
+    America/Adak: 
+      city: అడాక్
+    America/Anchorage: 
+      city: ఎంకొరేజ్
+    America/Anguilla: 
+      city: ఆంగ్విలా
+    America/Antigua: 
+      city: అంటిగ్వా
+    America/Araguaina: 
+      city: అరాగ్వేయీనా
+    America/Argentina/La_Rioja: 
+      city: "లా రియోజ"
+    America/Argentina/Rio_Gallegos: 
+      city: "రియో గల్లేగోస్"
+    America/Argentina/Salta: 
+      city: సల్టా
+    America/Argentina/San_Juan: 
+      city: "సాన్ జ్యాన్"
+    America/Argentina/San_Luis: 
+      city: "శాన్ లూయిస్"
+    America/Argentina/Tucuman: 
+      city: టుకుమన్
+    America/Argentina/Ushuaia: 
+      city: ఉష్యూయ
+    America/Aruba: 
+      city: అరుబా
+    America/Asuncion: 
+      city: అసన్షియన్
+    America/Bahia: 
+      city: బహియ
+    America/Barbados: 
+      city: బార్బడోస్
+    America/Belem: 
+      city: బెలెమ్
+    America/Belize: 
+      city: బెలీజ్
+    America/Blanc-Sablon: 
+      city: బ్లాంక్-సబ్లోన్
+    America/Boa_Vista: 
+      city: "బోవా విస్టా"
+    America/Bogota: 
+      city: బగోటా
+    America/Boise: 
+      city: బొయిసీ
+    America/Buenos_Aires: 
+      city: "బ్యూనోస్ ఎయిర్స్"
+    America/Cambridge_Bay: 
+      city: "కేంబ్రిడ్జ్ బేయ్"
+    America/Campo_Grande: 
+      city: "కాంపో గ్రాండ్"
+    America/Cancun: 
+      city: కన్‌కూన్
+    America/Caracas: 
+      city: కారాకస్
+    America/Catamarca: 
+      city: కటమార్కా
+    America/Cayenne: 
+      city: కయేన్
+    America/Cayman: 
+      city: కేమాన్
+    America/Chicago: 
+      city: చికాగో
+    America/Chihuahua: 
+      city: చిహువా
+    America/Coral_Harbour: 
+      city: అటికోకన్
+    America/Cordoba: 
+      city: కోర్బోడా
+    America/Costa_Rica: 
+      city: "కోస్టా రికా"
+    America/Cuiaba: 
+      city: కుయోబే
+    America/Curacao: 
+      city: కురాకో
+    America/Danmarkshavn: 
+      city: డెన్మార్క్శ్వాన్
+    America/Dawson: 
+      city: డవ్‌సన్
+    America/Dawson_Creek: 
+      city: "డౌసన్ క్రీక్"
+    America/Denver: 
+      city: డెన్వెర్
+    America/Detroit: 
+      city: డిట్రోయిట్
+    America/Dominica: 
+      city: డొమినికా
+    America/Edmonton: 
+      city: ఎడ్మోంటన్
+    America/Eirunepe: 
+      city: ఇరునెప్
+    America/El_Salvador: 
+      city: "ఎల్ సాల్వడోర్"
+    America/Fortaleza: 
+      city: ఫార్ట్లెజా
+    America/Glace_Bay: 
+      city: "గ్లేస్ బే"
+    America/Godthab: 
+      city: గాడ్తాబ్
+    America/Goose_Bay: 
+      city: "గూస్ బే"
+    America/Grand_Turk: 
+      city: "గ్రాండ్ టర్క్"
+    America/Grenada: 
+      city: గ్రెనడా
+    America/Guadeloupe: 
+      city: గ్వాడెలోప్
+    America/Guatemala: 
+      city: గ్వాటిమాలా
+    America/Guayaquil: 
+      city: గువాయాక్విల్
+    America/Guyana: 
+      city: గయానా
+    America/Halifax: 
+      city: హలుఫాక్స్
+    America/Havana: 
+      city: హవానా
+    America/Hermosillo: 
+      city: హెర్మోసిల్లో
+    America/Indiana/Knox: 
+      city: "నోక్స్, ఇండియాన"
+    America/Indiana/Marengo: 
+      city: "మరెంగో, ఇండియాన"
+    America/Indiana/Petersburg: 
+      city: "పెటెర్స్‌బుర్గ్, ఇండియాన"
+    America/Indiana/Tell_City: 
+      city: "టెల్ నగరం, ఇండియాన"
+    America/Indiana/Vevay: 
+      city: "వెవయ్, ఇండియాన"
+    America/Indiana/Vincennes: 
+      city: "విన్‌సెన్నెస్, ఇండియాన"
+    America/Indiana/Winamac: 
+      city: "వినిమాక్, ఇండియాన"
+    America/Indianapolis: 
+      city: ఇండోనెపోలిస్
+    America/Inuvik: 
+      city: ఇనువిక్
+    America/Iqaluit: 
+      city: ఇక్వాలిట్
+    America/Jamaica: 
+      city: జమైకా
+    America/Jujuy: 
+      city: జుజుయ్
+    America/Juneau: 
+      city: జోనొవ్
+    America/Kentucky/Monticello: 
+      city: "మోంటిసెల్లో, కెన్‌టుక్కీ"
+    America/La_Paz: 
+      city: "లా పాజ్"
+    America/Lima: 
+      city: లిమా
+    America/Los_Angeles: 
+      city: "లాస్ ఏంజల్స్"
+    America/Louisville: 
+      city: లూయివిల్
+    America/Lower_Princes: 
+      city: "Lower Prince's Quarter"
+    America/Maceio: 
+      city: మాసియో
+    America/Managua: 
+      city: మనాగువా
+    America/Manaus: 
+      city: మనాస్
+    America/Marigot: 
+      city: మారిగోట్
+    America/Martinique: 
+      city: మార్టినీక్
+    America/Mazatlan: 
+      city: మాసట్‌లాన్
+    America/Mendoza: 
+      city: మెండోజా
+    America/Menominee: 
+      city: మెనోమియీ
+    America/Merida: 
+      city: మెరిడా
+    America/Mexico_City: 
+      city: "మెక్సికో నగరం"
+    America/Miquelon: 
+      city: మిక్వెలాన్
+    America/Moncton: 
+      city: మోన్‌క్టోన్
+    America/Monterrey: 
+      city: మోన్‌టురెయ్
+    America/Montevideo: 
+      city: మోంటెవీడియో
+    America/Montreal: 
+      city: మోన్‌ట్రియల్
+    America/Montserrat: 
+      city: మోంటిసిరాట్
+    America/Nassau: 
+      city: నాస్సావ్
+    America/New_York: 
+      city: న్యూయార్క్
+    America/Nipigon: 
+      city: నిపిగోన్
+    America/Nome: 
+      city: నోమ్
+    America/Noronha: 
+      city: నరోన్హా
+    America/North_Dakota/Beulah: 
+      city: "బ్యులా, ఉత్తర డకోట"
+    America/North_Dakota/Center: 
+      city: "సెంట్రల్, ఉత్తర డకోటా"
+    America/North_Dakota/New_Salem: 
+      city: "న్యూ సలేమ్, దక్షిణ దకోట"
+    America/Panama: 
+      city: పనామా
+    America/Pangnirtung: 
+      city: పాంగ్‌నీర్‌టుంగ్
+    America/Paramaribo: 
+      city: పరామారిబో
+    America/Phoenix: 
+      city: ఫోనిక్స్
+    America/Port-au-Prince: 
+      city: పోర్ట్-అవ్-ప్రిన్స్
+    America/Port_of_Spain: 
+      city: "పోర్ట్ ఆఫ్ స్పెయిన్"
+    America/Porto_Velho: 
+      city: "పోర్టో వెల్హో"
+    America/Puerto_Rico: 
+      city: "ప్యూర్టో రికో"
+    America/Rainy_River: 
+      city: "వర్షపు నది"
+    America/Rankin_Inlet: 
+      city: "రన్‌కిన్ ఇన్‌లెట్"
+    America/Recife: 
+      city: రెసిఫీ
+    America/Regina: 
+      city: రెజీనా
+    America/Resolute: 
+      city: రిజల్యూట్
+    America/Rio_Branco: 
+      city: "రియో బ్రాంకో"
+    America/Santarem: 
+      city: సాంటరెమ్
+    America/Santiago: 
+      city: శాంటియాగో
+    America/Santo_Domingo: 
+      city: "శాంటో డోమింగో"
+    America/Sao_Paulo: 
+      city: "సావో పాలో"
+    America/Scoresbysund: 
+      city: స్కోర్స్బైసుండ్
+    America/Shiprock: 
+      city: షిప్‌రోక్
+    America/St_Barthelemy: 
+      city: "సెయింట్. బర్ధెలెమి"
+    America/St_Johns: 
+      city: "సెయింట్. జాన్స్"
+    America/St_Kitts: 
+      city: "సెయింట్ కిట్స్"
+    America/St_Lucia: 
+      city: "సెయింట్ లూసియా"
+    America/St_Thomas: 
+      city: "సెయింట్ థామస్"
+    America/St_Vincent: 
+      city: "సెయింట్ విన్సెంట్"
+    America/Swift_Current: 
+      city: "స్విఫ్ట్ కరెంట్"
+    America/Tegucigalpa: 
+      city: తెగుసిగల్పా
+    America/Thule: 
+      city: ధులే
+    America/Thunder_Bay: 
+      city: "థండర్ బే"
+    America/Tijuana: 
+      city: తిజ్యునా
+    America/Toronto: 
+      city: టురొంటో
+    America/Tortola: 
+      city: టోర్టోలా
+    America/Vancouver: 
+      city: వాన్కూవర్
+    America/Whitehorse: 
+      city: వైట్‌హార్స్
+    America/Winnipeg: 
+      city: విన్నిపెగ్
+    America/Yakutat: 
+      city: యకుటాట్
+    America/Yellowknife: 
+      city: ఎల్లోనైఫ్
+    Antarctica/Casey: 
+      city: కేసీ
+    Antarctica/Davis: 
+      city: డేవిస్
+    Antarctica/DumontDUrville: 
+      city: "డ్యుమాంట్ డ్యుర్విల్లీ"
+    Antarctica/Mawson: 
+      city: మాసన్
+    Antarctica/McMurdo: 
+      city: మెక్ముర్డో
+    Antarctica/Palmer: 
+      city: పామెర్
+    Antarctica/Rothera: 
+      city: రొతేరా
+    Antarctica/South_Pole: 
+      city: "దక్షిణ ధృవం"
+    Antarctica/Syowa: 
+      city: స్యోవా
+    Antarctica/Vostok: 
+      city: వోస్టోక్
+    Arctic/Longyearbyen: 
+      city: లాంగ్‌యియర్‌బైయన్
+    Asia/Aden: 
+      city: ఎడెన్
+    Asia/Almaty: 
+      city: ఆల్మాటి
+    Asia/Amman: 
+      city: అమ్మన్
+    Asia/Anadyr: 
+      city: అనడైర్
+    Asia/Aqtau: 
+      city: అక్టావ్
+    Asia/Aqtobe: 
+      city: అక్టోబ్
+    Asia/Ashgabat: 
+      city: యాష్గాబాట్
+    Asia/Baghdad: 
+      city: బాగ్దాద్
+    Asia/Bahrain: 
+      city: బహరేన్
+    Asia/Baku: 
+      city: బాకు
+    Asia/Bangkok: 
+      city: బ్యాంకాక్
+    Asia/Beirut: 
+      city: బీరట్
+    Asia/Bishkek: 
+      city: బిష్కెక్
+    Asia/Brunei: 
+      city: బ్రూనై
+    Asia/Calcutta: 
+      city: కోల్‌కతా
+    Asia/Choibalsan: 
+      city: చోయిబాల్సన్
+    Asia/Chongqing: 
+      city: చోంగో‌క్వింగ్
+    Asia/Colombo: 
+      city: కొలంబో
+    Asia/Damascus: 
+      city: డమాస్కస్
+    Asia/Dhaka: 
+      city: ఢాకా
+    Asia/Dili: 
+      city: డిలి
+    Asia/Dubai: 
+      city: దుబాయి
+    Asia/Dushanbe: 
+      city: డుషన్బీ
+    Asia/Gaza: 
+      city: గాజా
+    Asia/Harbin: 
+      city: హర్బిన్
+    Asia/Hong_Kong: 
+      city: హాంకాంగ్
+    Asia/Hovd: 
+      city: హోవడ్
+    Asia/Irkutsk: 
+      city: ఇర్కుట్స్క్
+    Asia/Jakarta: 
+      city: జకార్తా
+    Asia/Jayapura: 
+      city: జయపుర
+    Asia/Jerusalem: 
+      city: జరూసలేం
+    Asia/Kabul: 
+      city: కాబుల్
+    Asia/Kamchatka: 
+      city: కమ్‌చత్కా
+    Asia/Karachi: 
+      city: కరాచీ
+    Asia/Kashgar: 
+      city: కాష్‌గర్
+    Asia/Katmandu: 
+      city: ఖాట్మండు
+    Asia/Krasnoyarsk: 
+      city: క్రసనోయార్స్క్
+    Asia/Kuala_Lumpur: 
+      city: కౌలాలంపూర్
+    Asia/Kuching: 
+      city: కుచింగ్
+    Asia/Kuwait: 
+      city: కువైట్
+    Asia/Macau: 
+      city: మకావ్
+    Asia/Magadan: 
+      city: మగడాన్
+    Asia/Makassar: 
+      city: మకాస్సర్
+    Asia/Manila: 
+      city: మనీలా
+    Asia/Muscat: 
+      city: మస్కట్
+    Asia/Nicosia: 
+      city: నికోసియా
+    Asia/Novosibirsk: 
+      city: నవోసిబిర్స్క్
+    Asia/Omsk: 
+      city: ఓమ్స్క్
+    Asia/Oral: 
+      city: ఓరల్
+    Asia/Phnom_Penh: 
+      city: "నమ్ పెన్"
+    Asia/Pontianak: 
+      city: పొన్టియనాక్
+    Asia/Pyongyang: 
+      city: ప్యోంగాంగ్
+    Asia/Qatar: 
+      city: ఖతార్
+    Asia/Qyzylorda: 
+      city: క్విజిలోర్డా
+    Asia/Rangoon: 
+      city: రంగూన్
+    Asia/Riyadh: 
+      city: రియాధ్
+    Asia/Saigon: 
+      city: "హో చి మిన్హ్ నగరం"
+    Asia/Sakhalin: 
+      city: సఖాలిన్
+    Asia/Samarkand: 
+      city: సమర్కాండ్
+    Asia/Seoul: 
+      city: సియోల్
+    Asia/Shanghai: 
+      city: షాంగాయ్
+    Asia/Singapore: 
+      city: సింగపూర్
+    Asia/Taipei: 
+      city: తైపీ
+    Asia/Tashkent: 
+      city: తాష్కెంట్
+    Asia/Tbilisi: 
+      city: టిబిలిసి
+    Asia/Tehran: 
+      city: టెహ్రాన్
+    Asia/Thimphu: 
+      city: థింఫు
+    Asia/Tokyo: 
+      city: టోక్యో
+    Asia/Ulaanbaatar: 
+      city: ఉలాన్బాటర్
+    Asia/Urumqi: 
+      city: ఉరుమ్‌కీ
+    Asia/Vientiane: 
+      city: వియన్టైన్
+    Asia/Vladivostok: 
+      city: వ్లాడివోస్టోక్
+    Asia/Yakutsk: 
+      city: యకుట్స్క్
+    Asia/Yekaterinburg: 
+      city: యెకటెరింగ్‌బర్గ్
+    Asia/Yerevan: 
+      city: యెరెవన్
+    Atlantic/Azores: 
+      city: అజోర్స్
+    Atlantic/Bermuda: 
+      city: బెర్ముడా
+    Atlantic/Canary: 
+      city: కెనరీ
+    Atlantic/Cape_Verde: 
+      city: "కేప్ వెర్డె"
+    Atlantic/Faeroe: 
+      city: ఫరోయ్
+    Atlantic/Madeira: 
+      city: మదైరా
+    Atlantic/Reykjavik: 
+      city: రెక్జావిక్
+    Atlantic/South_Georgia: 
+      city: "దక్షిణ జార్జియా"
+    Atlantic/St_Helena: 
+      city: "సెయింట్ హెలెనా"
+    Atlantic/Stanley: 
+      city: స్టాన్లీ
+    Australia/Adelaide: 
+      city: అడెలైడ్
+    Australia/Brisbane: 
+      city: బ్రిస్‌బెయిన్
+    Australia/Broken_Hill: 
+      city: "విరిగిన హిల్"
+    Australia/Currie: 
+      city: కుర్రియే
+    Australia/Darwin: 
+      city: డార్విన్
+    Australia/Eucla: 
+      city: యుక్లా
+    Australia/Hobart: 
+      city: హోబర్ట్
+    Australia/Lindeman: 
+      city: లిండేమాన్
+    Australia/Lord_Howe: 
+      city: "లార్డ్ హౌ"
+    Australia/Melbourne: 
+      city: మెల్బోర్నే
+    Australia/Perth: 
+      city: పెర్త్
+    Australia/Sydney: 
+      city: సిడ్నీ
+    Etc/Unknown: 
+      city: "తెలియని నగరం"
+    Europe/Amsterdam: 
+      city: ఆమ్‌స్టర్‌డామ్
+    Europe/Andorra: 
+      city: అండోరా
+    Europe/Athens: 
+      city: ఏథెన్స్
+    Europe/Belgrade: 
+      city: బెల్‌గ్రేడ్
+    Europe/Berlin: 
+      city: బెర్లిన్
+    Europe/Bratislava: 
+      city: బ్రటీష్‌వాలా
+    Europe/Brussels: 
+      city: బ్రస్సెల్స్
+    Europe/Bucharest: 
+      city: బుకారెస్ట్
+    Europe/Budapest: 
+      city: బుడాపెస్ట్
+    Europe/Chisinau: 
+      city: చిసినావ్
+    Europe/Copenhagen: 
+      city: కోపెన్హాగన్
+    Europe/Dublin: 
+      city: డబ్లిన్
+    Europe/Gibraltar: 
+      city: జిబ్రాల్టర్
+    Europe/Guernsey: 
+      city: గ్వెర్న్సే
+    Europe/Helsinki: 
+      city: హెల్సింకి
+    Europe/Isle_of_Man: 
+      city: "ఐల్ ఆఫ్ మేన్"
+    Europe/Istanbul: 
+      city: ఇస్తాంబుల్
+    Europe/Jersey: 
+      city: జెర్సీ
+    Europe/Kaliningrad: 
+      city: కలినిన్‌గ్రద్
+    Europe/Kiev: 
+      city: కీవ్
+    Europe/Lisbon: 
+      city: లిస్బన్
+    Europe/Ljubljana: 
+      city: ల్యూబ్ల్యానా
+    Europe/London: 
+      city: లండన్
+    Europe/Luxembourg: 
+      city: లక్సెంబర్గ్
+    Europe/Madrid: 
+      city: మాడ్రిడ్
+    Europe/Malta: 
+      city: మాల్టా
+    Europe/Mariehamn: 
+      city: మారీయుహమ్
+    Europe/Minsk: 
+      city: మిన్స్క్
+    Europe/Monaco: 
+      city: మొనాకో
+    Europe/Moscow: 
+      city: మాస్కో
+    Europe/Oslo: 
+      city: ఓస్లో
+    Europe/Paris: 
+      city: ప్యారిస్
+    Europe/Podgorica: 
+      city: పోడ్గోరికా
+    Europe/Prague: 
+      city: ప్రాగ్
+    Europe/Riga: 
+      city: రీగా
+    Europe/Rome: 
+      city: రోమ్
+    Europe/Samara: 
+      city: సమార
+    Europe/San_Marino: 
+      city: "శాన్ మారినో"
+    Europe/Sarajevo: 
+      city: సరాజోవో
+    Europe/Simferopol: 
+      city: సిమ్‌ఫెరోపోల్
+    Europe/Skopje: 
+      city: స్కోప్‌యే
+    Europe/Sofia: 
+      city: సోఫియా
+    Europe/Stockholm: 
+      city: స్టాక్హోమ్
+    Europe/Tallinn: 
+      city: తాల్లిన్
+    Europe/Tirane: 
+      city: టిరేన్
+    Europe/Uzhgorod: 
+      city: ఉజుగోరోడ్
+    Europe/Vaduz: 
+      city: వాడుజ్
+    Europe/Vatican: 
+      city: వాటికన్
+    Europe/Vienna: 
+      city: వియన్నా
+    Europe/Vilnius: 
+      city: విల్నియస్
+    Europe/Volgograd: 
+      city: వోల్గోగ్రాడ్
+    Europe/Warsaw: 
+      city: వార్షా
+    Europe/Zagreb: 
+      city: జాగ్రెబ్
+    Europe/Zaporozhye: 
+      city: జపరోజై
+    Europe/Zurich: 
+      city: జ్యూరిచ్
+    Indian/Antananarivo: 
+      city: అంటానానారివో
+    Indian/Chagos: 
+      city: చాగోస్
+    Indian/Christmas: 
+      city: క్రిస్మస్
+    Indian/Cocos: 
+      city: కోకాస్
+    Indian/Comoro: 
+      city: కొమోరో
+    Indian/Kerguelen: 
+      city: కెర్గ్యూలెన్
+    Indian/Mahe: 
+      city: మాహె
+    Indian/Maldives: 
+      city: మాల్దీవులు
+    Indian/Mauritius: 
+      city: మోరిషస్
+    Indian/Mayotte: 
+      city: మయోట్టి
+    Indian/Reunion: 
+      city: రీయూనియన్
+    Pacific/Apia: 
+      city: ఏపియా
+    Pacific/Auckland: 
+      city: ఆక్లాండ్
+    Pacific/Chatham: 
+      city: ఛతం
+    Pacific/Easter: 
+      city: ఈస్టర్
+    Pacific/Efate: 
+      city: ఇఫేట్
+    Pacific/Enderbury: 
+      city: ఎండర్బెరీ
+    Pacific/Fakaofo: 
+      city: ఫాకావ్ఫో
+    Pacific/Fiji: 
+      city: ఫీజీ
+    Pacific/Funafuti: 
+      city: ఫునాఫుటి
+    Pacific/Galapagos: 
+      city: గాలాపాగోస్
+    Pacific/Gambier: 
+      city: గాంబియేర్
+    Pacific/Guadalcanal: 
+      city: గ్వాడల్కెనాల్
+    Pacific/Guam: 
+      city: గ్వామ్
+    Pacific/Honolulu: 
+      city: హోనోలులు
+    Pacific/Johnston: 
+      city: జాన్సటన్
+    Pacific/Kiritimati: 
+      city: కిరీటిమాటి
+    Pacific/Kosrae: 
+      city: కోస్రే
+    Pacific/Kwajalein: 
+      city: క్వాజాలైన్
+    Pacific/Majuro: 
+      city: మజురో
+    Pacific/Marquesas: 
+      city: మార్క్వేసాస్
+    Pacific/Midway: 
+      city: మిడ్వే
+    Pacific/Nauru: 
+      city: నౌరు
+    Pacific/Niue: 
+      city: నియూ
+    Pacific/Norfolk: 
+      city: నోర్ఫోక్
+    Pacific/Noumea: 
+      city: నౌమియా
+    Pacific/Pago_Pago: 
+      city: "పాగో పాగో"
+    Pacific/Palau: 
+      city: పాలావ్
+    Pacific/Pitcairn: 
+      city: పిట్కేరన్
+    Pacific/Ponape: 
+      city: పోన్‌పై
+    Pacific/Port_Moresby: 
+      city: "పోర్ట్ మోరెస్బే"
+    Pacific/Rarotonga: 
+      city: రరోటోంగా
+    Pacific/Saipan: 
+      city: సాయ్పాన్
+    Pacific/Tahiti: 
+      city: తహితి
+    Pacific/Tarawa: 
+      city: టరావా
+    Pacific/Tongatapu: 
+      city: టోంగాటాపు
+    Pacific/Truk: 
+      city: చుక్
+    Pacific/Wake: 
+      city: వేక్
+    Pacific/Wallis: 
+      city: వాల్లిస్
