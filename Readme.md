@@ -8,18 +8,17 @@ Install
 Usage
 =====
 
-    Cldr::Timezones.list(:en) # {"America/Cordoba" => "America/Cordoba (GMT-09:00)"}
-    Cldr::Timezones.list(:ja) #	{"America/Cordoba" => "コルドバ （GMT-09:00）"]
-    Cldr::Timezones.list(:ar) # {"America/Cordoba" => "0}جرينتش} كوردوبا"}
-
-    Cldr::Timezones.list(:ar, :full) #To get the full list of timezones
+    Cldr::Timezones.list(:es) # {"Europe/Moscow" => "(GMT+04:00) Moscú"}
+    Cldr::Timezones.list(:ja) #	{"America/Cordoba" => "（GMT-09:00）モスクワ"]
+    Cldr::Timezones.list(:ja, :full) #To get the full list of timezones
 
     TODO
-    Cldr::Timezones.raw(:ja) # {"America/Cordoba" => ["コルドバ", "+08:00", "GMT"]}
+    Cldr::Timezones.list(:ar) # {"America/Cordoba" => "0}جرينتش} كوردوبا"}
+    Cldr::Timezones.raw(:ja)  # {"America/Cordoba" => ["コルドバ", "+08:00", "GMT"]}
 
 Author
 ======
-[Ana Martinez](https://github.com/acemacu)<br/>
+[Ana Martinez](https://github.com/anamartinez)<br/>
 acemacu@gmail.com<br/>
 License: MIT<br/>
-[![Build Status](https://travis-ci.org/acemacu/ruby-cldr-timezones.png)](https://travis-ci.org/acemacu/ruby-cldr-timezones)
+[![Build Status](https://travis-ci.org/anamartinez/ruby-cldr-timezones.png)](https://travis-ci.org/anamartinez/ruby-cldr-timezones)

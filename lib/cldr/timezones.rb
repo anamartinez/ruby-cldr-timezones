@@ -42,6 +42,7 @@ module Cldr
         offset = formatted_offset(timezone)
 
         if translation = timezones_translations[timezone.identifier]
+          #TODO Fallback?
           name = translation["city"]
         end
 
