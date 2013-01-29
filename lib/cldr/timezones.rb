@@ -1,40 +1,51 @@
 require "cldr/timezones/version"
+require "cldr/timezones/vars"
 require "yaml"
 require "tzinfo"
 
 module Cldr
   module Timezones
     class << self
-      UTC_OFFSET_WITH_COLON = '%s%02d:%02d'
-      UTC_OFFSET_WITHOUT_COLON = UTC_OFFSET_WITH_COLON.sub(':', '')
-
-      #TODO Get full or important list
-      def list(locale)
+      def list(locale, all = false)
         raise ArgumentError, "Locale cannot be blank" unless locale
-
-        timezones = load_timezones(locale)
-        build_list(timezones, locale)
+        build_list(locale, all)
       end
 
-      def load_timezones(locale)
-        raise ArgumentError, "Locale is not supported" unless File.directory?("cache/#{locale}")
-        timezones_file = File.open(File.expand_path("cache/#{locale}/timezones.yml"))
-        YAML.load(timezones_file)
-      end
+      private
 
-      def build_list(timezones, locale)
+      def build_list(locale, all)
+        timezones_translations = load_timezones_translations(locale)
         timezone_list = {}
-        TZInfo::Timezone.all.each do |timezone|
-          name   = timezone.identifier
-          offset = formatted_offset(name)
 
-          if translation = timezones[locale]["timezones"][name]
-            name = translation["city"]
-          end
+        if all
+          timezones_identifiers = TZInfo::Timezone.all
+        else
+          timezones_identifiers = SUBSET_TIMEZONES
+        end
 
-          timezone_list[timezone.identifier] = format_timezone(offset, name)
+        timezones_identifiers.each do |timezone|
+          timezone = TZInfo::Timezone.get(timezone) unless all
+          timezone_list[timezone.identifier] = build_timezone(timezones_translations, timezone)
         end
         timezone_list
+      end
+
+      def load_timezones_translations(locale)
+        raise ArgumentError, "Locale is not supported" unless File.directory?("cache/#{locale}")
+        timezones_file = File.open(File.expand_path("cache/#{locale}/timezones.yml"))
+        timezones_hash = YAML.load(timezones_file)
+        timezones_hash[locale]["timezones"]
+      end
+
+      def build_timezone(timezones_translations, timezone)
+        name   = timezone.friendly_identifier(true)
+        offset = formatted_offset(timezone)
+
+        if translation = timezones_translations[timezone.identifier]
+          name = translation["city"]
+        end
+
+        format_timezone(offset, name)
       end
 
       #TODO - Get i18n format
@@ -43,21 +54,20 @@ module Cldr
         "(GMT#{offset}) #{name}"
       end
 
-      def formatted_offset(timezone_identifier)
-        offset_in_seconds = utc_total_offset(timezone_identifier)
+      def formatted_offset(timezone)
+        offset_in_seconds = utc_total_offset(timezone)
         seconds_to_utc_offset(offset_in_seconds)
       end
 
-      def utc_total_offset(timezone_identifier)
-        (TZInfo::Timezone.get(timezone_identifier).current_period.offset.utc_total_offset).to_f
+      def utc_total_offset(timezone)
+        (timezone.current_period.offset.utc_total_offset).to_f
       end
 
-      def seconds_to_utc_offset(seconds, colon = true)
-        format = colon ? UTC_OFFSET_WITH_COLON : UTC_OFFSET_WITHOUT_COLON
+      def seconds_to_utc_offset(seconds)
         sign = (seconds < 0 ? '-' : '+')
         hours = seconds.abs / 3600
         minutes = (seconds.abs % 3600) / 60
-        format % [sign, hours, minutes]
+        UTC_OFFSET_WITH_COLON % [sign, hours, minutes]
       end
     end
   end
