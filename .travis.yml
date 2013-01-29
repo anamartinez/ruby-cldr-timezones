@@ -1,4 +1,6 @@
 rvm:
-  - ree
   - 1.9.2
   - 1.9.3
+matrix:
+  allow_failures:
+    - rvm: ree #While https://github.com/travis-ci/travis-ci/issues/883 gets fix
