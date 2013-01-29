@@ -12,12 +12,47 @@ describe Cldr::Timezones do
     end
   end
 
+  describe ".locale_from_symbol" do
+    it "returns a locale in lowercase if it only has the language tag" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :eS)
+      bcp_locale.should eq("es")
+    end
+
+    it "returns a locale with language and region tag with proper case" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :ES_mx)
+      bcp_locale.should eq("es-MX")
+    end
+
+    it "returns a locale with language and script tag with proper case" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :Mn_cyrl)
+      bcp_locale.should eq("mn-Cyrl")
+    end
+
+    it "returns a locale with language, region and stript tag with proper case" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :KK_CYRL_kz)
+      bcp_locale.should eq("kk-Cyrl-KZ")
+    end
+  end
+
   describe ".build_list" do
     it "builds a list with translations" do
       timezones = Cldr::Timezones.list(:es)
       timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
       timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
     end
+
+    it "builds a list with translations" do
+      timezones = Cldr::Timezones.list(:es_MX, true)
+      timezones["America/Indiana/Knox"].should eq("(GMT-06:00) Knox, Indiana")
+      timezones["Asia/Saigon"].should eq("(GMT+07:00) Ho Chi Minh")
+    end
+
+    # Should work once the fallback is working
+    # it "builds a list with translations" do
+    #   timezones = Cldr::Timezones.list(:es_MX)
+    #   timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
+    #   timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
+    # end
 
     it "builds a list with meaningful subset" do
       timezones = Cldr::Timezones.list(:ja)
@@ -31,6 +66,10 @@ describe Cldr::Timezones do
   end
 
   describe ".load_timezones_translations" do
+    it "raises argument error if locale is blank" do
+      expect{Cldr::Timezones.send(:load_timezones_translations, nil)}.to raise_error(ArgumentError, "Locale cannot be blank")
+    end
+
     it "raises argument error if locale is not supported" do
       expect{Cldr::Timezones.send(:load_timezones_translations, "blah")}.to raise_error(ArgumentError, "Locale is not supported")
     end

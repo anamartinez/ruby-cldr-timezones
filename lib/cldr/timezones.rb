@@ -8,10 +8,29 @@ module Cldr
     class << self
       def list(locale, all = false)
         raise ArgumentError, "Locale cannot be blank" unless locale
-        build_list(locale.to_s, all)
+        bcp_locale = locale_from_symbol(locale)
+        build_list(bcp_locale, all)
       end
 
       private
+
+      #To match BCP-47 format
+      def locale_from_symbol(locale)
+        locale = locale.to_s
+        return locale.downcase unless locale.include?("_")
+        locale = locale.split('_')
+
+        locale.each_with_index do |val, index|
+          if index == 0
+            val.downcase!
+          elsif val.size == 4
+            val.capitalize!
+          else
+            val.upcase!
+          end
+        end
+        locale.join("-")
+      end
 
       def build_list(locale, all)
         timezones_translations = load_timezones_translations(locale)
@@ -31,6 +50,7 @@ module Cldr
       end
 
       def load_timezones_translations(locale)
+        raise ArgumentError, "Locale cannot be blank" unless locale
         raise ArgumentError, "Locale is not supported" unless File.directory?("cache/#{locale}")
         timezones_file = File.open(File.expand_path("cache/#{locale}/timezones.yml"))
         timezones_hash = YAML.load(timezones_file)
