@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ruby-cldr-timezones (0.0.0)
+    ruby-cldr-timezones (0.0.1)
       tzinfo
 
 GEM
