@@ -34,19 +34,29 @@ module Cldr
 
       def build_list(locale, all)
         timezones_translations = load_timezones_translations(locale)
-        timezone_list = {}
+        fallback = fallback(locale)
+        timezones_identifiers = (all ? TZInfo::Timezone.all : SUBSET_TIMEZONES)
 
-        timezones_identifiers = if all
-          TZInfo::Timezone.all
-        else
-          timezones_identifiers = SUBSET_TIMEZONES
-        end
-
-        timezones_identifiers.each do |timezone|
+        timezone_list = timezones_identifiers.map do |timezone|
           timezone = TZInfo::Timezone.get(timezone) unless all
-          timezone_list[timezone.identifier] = build_timezone(timezones_translations, timezone)
+          [timezone.identifier, build_timezone(timezones_translations, fallback, timezone)]
         end
-        timezone_list
+        Hash[timezone_list]
+      end
+
+      def fallback(locale)
+        return unless locale.include? "-"
+
+        locale_tags = locale.split("-")
+        begin
+          if locale_tags.size == 2
+            load_timezones_translations(locale_tags[0])
+          elsif locale_tags.size == 3
+            load_timezones_translations(locale_tags[0] + "-" + locale_tags[1])
+          end
+        rescue ArgumentError
+          return nil
+        end
       end
 
       def load_timezones_translations(locale)
@@ -57,12 +67,13 @@ module Cldr
         timezones_hash[locale]["timezones"]
       end
 
-      def build_timezone(timezones_translations, timezone)
+      def build_timezone(timezones_translations, fallback, timezone)
         name   = timezone.friendly_identifier(:friendly_identifier)
         offset = formatted_offset(timezone)
 
         if translation = timezones_translations[timezone.identifier]
-          #TODO Fallback?
+          name = translation["city"]
+        elsif fallback && (translation = fallback[timezone.identifier])
           name = translation["city"]
         end
 

@@ -23,12 +23,12 @@ describe Cldr::Timezones do
       timezones["Asia/Saigon"].should eq("(GMT+07:00) Ho Chi Minh")
     end
 
-    # Should work once the fallback is working
-    # it "builds a list with translations" do
-    #   timezones = Cldr::Timezones.list(:es_MX)
-    #   timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
-    #   timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
-    # end
+    # Checks that fallback is working since Moscú is only in "es"
+    it "builds a list with translations using fallback" do
+      timezones = Cldr::Timezones.list(:es_MX)
+      timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
+      timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
+    end
 
     it "builds a list with meaningful subset" do
       timezones = Cldr::Timezones.list(:ja)
@@ -60,6 +60,29 @@ describe Cldr::Timezones do
     it "returns a locale with language, region and stript tag with proper case" do
       bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :KK_CYRL_kz)
       bcp_locale.should eq("kk-Cyrl-KZ")
+    end
+  end
+
+  describe ".fallback" do
+    it "returns nil if locale tag includes only the language tag" do
+      Cldr::Timezones.should_not_receive(:load_timezones_translations)
+      fallback = Cldr::Timezones.send(:fallback, "en")
+      fallback.should  eq(nil)
+    end
+
+    it "returns the fallback when the tag includes the region" do
+      Cldr::Timezones.should_receive(:load_timezones_translations).with("es")
+      Cldr::Timezones.send(:fallback, "es-MX")
+    end
+
+    it "returns the fallback when the tag includes the scrip" do
+      Cldr::Timezones.should_receive(:load_timezones_translations).with("uz-Latn")
+      Cldr::Timezones.send(:fallback, "uz-Latn-UZ")
+    end
+
+    it "return nil if the fallback tag is not supported" do
+      fallback = Cldr::Timezones.send(:fallback, "blah-blah")
+      fallback.should eq(nil)
     end
   end
 
