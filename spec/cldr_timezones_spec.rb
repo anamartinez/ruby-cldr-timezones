@@ -10,31 +10,7 @@ describe Cldr::Timezones do
     it "raises error if not locale is passed" do
       expect{Cldr::Timezones.list(nil)}.to raise_error(ArgumentError, "Locale cannot be blank")
     end
-  end
 
-  describe ".locale_from_symbol" do
-    it "returns a locale in lowercase if it only has the language tag" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :eS)
-      bcp_locale.should eq("es")
-    end
-
-    it "returns a locale with language and region tag with proper case" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :ES_mx)
-      bcp_locale.should eq("es-MX")
-    end
-
-    it "returns a locale with language and script tag with proper case" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :Mn_cyrl)
-      bcp_locale.should eq("mn-Cyrl")
-    end
-
-    it "returns a locale with language, region and stript tag with proper case" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :KK_CYRL_kz)
-      bcp_locale.should eq("kk-Cyrl-KZ")
-    end
-  end
-
-  describe ".build_list" do
     it "builds a list with translations" do
       timezones = Cldr::Timezones.list(:es)
       timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
@@ -65,6 +41,28 @@ describe Cldr::Timezones do
     end
   end
 
+  describe ".locale_from_symbol" do
+    it "returns a locale in lowercase if it only has the language tag" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :eS)
+      bcp_locale.should eq("es")
+    end
+
+    it "returns a locale with language and region tag with proper case" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :ES_mx)
+      bcp_locale.should eq("es-MX")
+    end
+
+    it "returns a locale with language and script tag with proper case" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :Mn_cyrl)
+      bcp_locale.should eq("mn-Cyrl")
+    end
+
+    it "returns a locale with language, region and stript tag with proper case" do
+      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :KK_CYRL_kz)
+      bcp_locale.should eq("kk-Cyrl-KZ")
+    end
+  end
+
   describe ".load_timezones_translations" do
     it "raises argument error if locale is blank" do
       expect{Cldr::Timezones.send(:load_timezones_translations, nil)}.to raise_error(ArgumentError, "Locale cannot be blank")
@@ -80,7 +78,7 @@ describe Cldr::Timezones do
   end
 
   describe ".seconds_to_utc_offset" do
-    it "returns a possitive offset" do
+    it "returns a positive offset" do
       #Asia/Sakhalin timezone
       offset = Cldr::Timezones.send(:seconds_to_utc_offset, 39600)
       offset.should eq("+11:00")

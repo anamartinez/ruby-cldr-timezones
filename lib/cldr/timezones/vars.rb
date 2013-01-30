@@ -1,9 +1,9 @@
-UTC_OFFSET_WITH_COLON = '%s%02d:%02d'
+Cldr::Timezones::UTC_OFFSET_WITH_COLON = '%s%02d:%02d'
 
 #Just like in ActiveSupport::TimeZone we are providing a meaningful subset of 124 of timezones.
 #However we are providing a subset that exists in CLDR.
 
-SUBSET_TIMEZONES = [
+ Cldr::Timezones::SUBSET_TIMEZONES = [
   "Pacific/Midway",
   "Pacific/Pago_Pago",
   "Pacific/Honolulu",

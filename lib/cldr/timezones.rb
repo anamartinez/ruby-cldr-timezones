@@ -36,8 +36,8 @@ module Cldr
         timezones_translations = load_timezones_translations(locale)
         timezone_list = {}
 
-        if all
-          timezones_identifiers = TZInfo::Timezone.all
+        timezones_identifiers = if all
+          TZInfo::Timezone.all
         else
           timezones_identifiers = SUBSET_TIMEZONES
         end
@@ -58,7 +58,7 @@ module Cldr
       end
 
       def build_timezone(timezones_translations, timezone)
-        name   = timezone.friendly_identifier(true)
+        name   = timezone.friendly_identifier(:friendly_identifier)
         offset = formatted_offset(timezone)
 
         if translation = timezones_translations[timezone.identifier]

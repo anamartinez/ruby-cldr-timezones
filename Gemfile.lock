@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     ruby-cldr-timezones (0.0.0)
+      tzinfo
 
 GEM
   remote: http://rubygems.org/
