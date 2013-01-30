@@ -8,29 +8,10 @@ module Cldr
     class << self
       def list(locale, all = false)
         raise ArgumentError, "Locale cannot be blank" unless locale
-        bcp_locale = locale_from_symbol(locale)
-        build_list(bcp_locale, all)
+        build_list(locale.to_s, all)
       end
 
       private
-
-      #To match BCP-47 format
-      def locale_from_symbol(locale)
-        locale = locale.to_s
-        return locale.downcase unless locale.include?("_")
-        locale = locale.split('_')
-
-        locale.each_with_index do |val, index|
-          if index == 0
-            val.downcase!
-          elsif val.size == 4
-            val.capitalize!
-          else
-            val.upcase!
-          end
-        end
-        locale.join("-")
-      end
 
       def build_list(locale, all)
         timezones_translations = load_timezones_translations(locale)

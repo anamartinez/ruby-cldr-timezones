@@ -18,14 +18,14 @@ describe Cldr::Timezones do
     end
 
     it "builds a list with translations" do
-      timezones = Cldr::Timezones.list(:es_MX, true)
+      timezones = Cldr::Timezones.list(:"es-MX", true)
       timezones["America/Indiana/Knox"].should eq("(GMT-06:00) Knox, Indiana")
       timezones["Asia/Saigon"].should eq("(GMT+07:00) Ho Chi Minh")
     end
 
     # Checks that fallback is working since Moscú is only in "es"
     it "builds a list with translations using fallback" do
-      timezones = Cldr::Timezones.list(:es_MX)
+      timezones = Cldr::Timezones.list(:"es-MX")
       timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
       timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
     end
@@ -38,28 +38,6 @@ describe Cldr::Timezones do
     it "builds the complete set if true is passed" do
       timezones = Cldr::Timezones.list(:ja, true)
       timezones.size.should equal(581)
-    end
-  end
-
-  describe ".locale_from_symbol" do
-    it "returns a locale in lowercase if it only has the language tag" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :eS)
-      bcp_locale.should eq("es")
-    end
-
-    it "returns a locale with language and region tag with proper case" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :ES_mx)
-      bcp_locale.should eq("es-MX")
-    end
-
-    it "returns a locale with language and script tag with proper case" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :Mn_cyrl)
-      bcp_locale.should eq("mn-Cyrl")
-    end
-
-    it "returns a locale with language, region and stript tag with proper case" do
-      bcp_locale = Cldr::Timezones.send(:locale_from_symbol, :KK_CYRL_kz)
-      bcp_locale.should eq("kk-Cyrl-KZ")
     end
   end
 
