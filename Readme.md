@@ -16,6 +16,11 @@ To get a basic subset of translations you can simply pass the locale.
 
     Cldr::Timezones.list(:es) # {"Europe/Moscow" => "(GMT+04:00) Moscú"}
     Cldr::Timezones.list(:ja) #	{"America/Cordoba" => "（GMT-09:00）モスクワ"}
+    
+There is also support for fallback.
+
+    Cldr::Timezones.list(:es_MX) # {"Europe/Moscow" => "(GMT+04:00) Moscú"}
+
 
 If you want to retrieve the full set of timezones (currently 581) you can simply pass the option ```:full```
 
@@ -24,7 +29,6 @@ If you want to retrieve the full set of timezones (currently 581) you can simply
 
 TODO
 ====
-- Fallback
 - Handle BIDI timezones
 
     ```Cldr::Timezones.list(:ar) # {"America/Cordoba" => "0}جرينتش} كوردوبا"}```
