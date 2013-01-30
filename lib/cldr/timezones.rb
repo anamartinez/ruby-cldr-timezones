@@ -61,10 +61,14 @@ module Cldr
 
       def load_timezones_translations(locale)
         raise ArgumentError, "Locale cannot be blank" unless locale
-        raise ArgumentError, "Locale is not supported" unless File.directory?("cache/#{locale}")
-        timezones_file = File.open(File.expand_path("cache/#{locale}/timezones.yml"))
+        raise ArgumentError, "Locale is not supported" unless File.directory?(path_to_cache(locale))
+        timezones_file = File.open(File.expand_path(path_to_cache(locale) << "/timezones.yml"))
         timezones_hash = YAML.load(timezones_file)
         timezones_hash[locale]["timezones"]
+      end
+
+      def path_to_cache(locale)
+        File.expand_path("../../cache/#{locale}", File.dirname(__FILE__))
       end
 
       def build_timezone(timezones_translations, fallback, timezone)
