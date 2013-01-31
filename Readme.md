@@ -19,7 +19,7 @@ To get a basic subset of translations you can simply pass the locale.
     
 There is also support for fallback.
 
-    Cldr::Timezones.list(:es_MX) # {"Europe/Moscow" => "(GMT+04:00) Moscú"}
+    Cldr::Timezones.list(:"es-MX") # {"Europe/Moscow" => "(GMT+04:00) Moscú"}
 
 
 If you want to retrieve the full set of timezones (currently 581) you can simply pass the option ```:full```
@@ -41,4 +41,7 @@ Author
 [Ana Martinez](https://github.com/anamartinez)<br/>
 acemacu@gmail.com<br/>
 License: MIT<br/>
+
+
 [![Build Status](https://travis-ci.org/anamartinez/ruby-cldr-timezones.png)](https://travis-ci.org/anamartinez/ruby-cldr-timezones)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/rails/rails)
