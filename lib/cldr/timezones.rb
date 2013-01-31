@@ -27,14 +27,11 @@ module Cldr
 
       def fallback(locale)
         return unless locale.include? "-"
-
         locale_tags = locale.split("-")
+        fallback_locale = locale_tags[0]
+        fallback_locale << "-#{locale_tags[1]}" if locale_tags.size == 3
         begin
-          if locale_tags.size == 2
-            load_timezones_translations(locale_tags[0])
-          elsif locale_tags.size == 3
-            load_timezones_translations(locale_tags[0] + "-" + locale_tags[1])
-          end
+            load_timezones_translations(fallback_locale)
         rescue ArgumentError
           return nil
         end
