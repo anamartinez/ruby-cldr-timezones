@@ -30,12 +30,11 @@ describe Cldr::Timezones do
       timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
     end
 
-    #TODO-Fix special yml cases like en-US
-    # it "builds a list with translations using fallback en-US" do
-    #   timezones = Cldr::Timezones.list(:"en-US")
-    #   timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
-    #   timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
-    # end
+    it "builds a list with translations using fallback en-US" do
+      timezones = Cldr::Timezones.list(:"en-US")
+      timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscow")
+      timezones["America/Sao_Paulo"].should eq("(GMT-02:00) Sao Paulo")
+    end
 
     it "builds a list with meaningful subset" do
       timezones = Cldr::Timezones.list(:ja)
