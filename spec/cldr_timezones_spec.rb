@@ -47,6 +47,13 @@ describe Cldr::Timezones do
     end
   end
 
+  describe ".supported_locales" do
+    it "returns a total of 573 supported_locales" do
+      locales = Cldr::Timezones.supported_locales
+      locales.size.should eq(573)
+    end
+  end
+
   describe ".fallback" do
     it "returns nil if locale tag includes only the language tag" do
       Cldr::Timezones.should_not_receive(:load_timezones_translations)

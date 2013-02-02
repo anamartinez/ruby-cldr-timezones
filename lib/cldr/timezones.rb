@@ -11,6 +11,12 @@ module Cldr
         build_list(locale.to_s, all)
       end
 
+      #Todo raise if cache empty
+      #Add readme information for this
+      def supported_locales
+        Dir[path_to_cached_locales].map { |path| path =~ /([\w-]+)\/timezones\.yml/ && $1 }
+      end
+
       private
 
       def build_list(locale, all)
@@ -82,6 +88,11 @@ module Cldr
         hours = seconds.abs / 3600
         minutes = (seconds.abs % 3600) / 60
         UTC_OFFSET_WITH_COLON % [sign, hours, minutes]
+      end
+
+      def path_to_cached_locales
+        path = File.expand_path("../../cache/en/timezones.yml", File.dirname(__FILE__))
+        path.gsub("en/timezones.yml", "*/timezones.yml")
       end
     end
   end
