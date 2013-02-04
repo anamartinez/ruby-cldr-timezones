@@ -1,4 +1,4 @@
-Translate the timezone names according to cldr
+Translated timezones according to CLDR
 
 Install
 =======
@@ -21,11 +21,13 @@ There is also support for fallback.
 
     Cldr::Timezones.list(:"es-MX") # {"Europe/Moscow" => "(GMT+04:00) Moscú"}
 
-
 If you want to retrieve the full set of timezones (currently 581) you can simply pass the option ```:full```
 
     Cldr::Timezones.list(:ja, :full) #To get the full list of timezones
 
+If you want to get the list of supported languages
+
+    Cldr::Timezones.supported_locales # ["aa", "aa-DJ", "aa-ER", "aa-ET",...."zh-Hant-TW", "zu", "zu-ZA"]
 
 TODO
 ====

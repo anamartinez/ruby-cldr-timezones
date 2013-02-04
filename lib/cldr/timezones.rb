@@ -6,13 +6,13 @@ require "tzinfo"
 module Cldr
   module Timezones
     class << self
+      #Returns a hash with the translated timezones for the locale specified.
       def list(locale, all = false)
         raise ArgumentError, "Locale cannot be blank" unless locale
         build_list(locale.to_s, all)
       end
 
-      #Todo raise if cache empty
-      #Add readme information for this
+      #Returns an array with the supported locales.
       def supported_locales
         Dir[path_to_cached_locales].map { |path| path =~ /([\w-]+)\/timezones\.yml/ && $1 }
       end
