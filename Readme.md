@@ -46,4 +46,4 @@ License: MIT<br/>
 
 
 [![Build Status](https://travis-ci.org/anamartinez/ruby-cldr-timezones.png)](https://travis-ci.org/anamartinez/ruby-cldr-timezones)
-[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/anamartinez/ruby-cldr-timezones)
+[![Code Climate](https://codeclimate.com/github/anamartinez/ruby-cldr-timezones.png)](https://codeclimate.com/github/anamartinez/ruby-cldr-timezones)
