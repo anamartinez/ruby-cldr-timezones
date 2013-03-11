@@ -6,6 +6,28 @@ describe Cldr::Timezones do
     Cldr::Timezones::VERSION.should =~ /^[\.\da-z]+$/
   end
 
+  describe ".raw" do
+    it "builds a list with translations" do
+      timezones = Cldr::Timezones.raw(:pt)
+      timezones["Europe/Moscow"][0].should eq("Moscou")
+      timezones["Europe/Moscow"][1].should match(/\+0\d:00/)
+      timezones["Europe/Moscow"][2].should eq("GMT")
+      timezones["America/Sao_Paulo"][0].should eq("São Paulo")
+      timezones["America/Sao_Paulo"][1].should match(/\-0\d:00/)
+      timezones["America/Sao_Paulo"][2].should eq("GMT")
+    end
+
+    it "builds a list with translations using fallback" do
+      timezones = Cldr::Timezones.raw(:"es-MX")
+      timezones["Europe/Moscow"][0].should eq("Moscú")
+      timezones["Europe/Moscow"][1].should match(/\+0\d:00/)
+      timezones["Europe/Moscow"][2].should eq("GMT")
+      timezones["America/Sao_Paulo"][0].should eq("São Paulo")
+      timezones["America/Sao_Paulo"][1].should match(/\-0\d:00/)
+      timezones["America/Sao_Paulo"][2].should eq("GMT")
+    end
+  end
+
   describe ".list" do
     it "raises error if not locale is passed" do
       expect{Cldr::Timezones.list(nil)}.to raise_error(ArgumentError, "Locale cannot be blank")
