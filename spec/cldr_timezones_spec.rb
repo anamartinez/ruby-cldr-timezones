@@ -13,27 +13,27 @@ describe Cldr::Timezones do
 
     it "builds a list with translations" do
       timezones = Cldr::Timezones.list(:es)
-      timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
-      timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
+      timezones["Europe/Moscow"].should match(/\(GMT\+0\d:00\) Moscú/)
+      timezones["America/Sao_Paulo"].should match(/\(GMT-0\d:00\) São Paulo/)
     end
 
     it "builds a list with translations" do
       timezones = Cldr::Timezones.list(:"es-MX", true)
-      timezones["America/Indiana/Knox"].should eq("(GMT-06:00) Knox, Indiana")
-      timezones["Asia/Saigon"].should eq("(GMT+07:00) Ho Chi Minh")
+      timezones["America/Indiana/Knox"].should match(/\(GMT-0\d:00\) Knox, Indiana/)
+      timezones["Asia/Saigon"].should match(/\(GMT\+0\d:00\) Ho Chi Minh/)
     end
 
     # Checks that fallback is working since Moscú is only in "es"
     it "builds a list with translations using fallback" do
       timezones = Cldr::Timezones.list(:"es-MX")
-      timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscú")
-      timezones["America/Sao_Paulo"].should eq("(GMT-02:00) São Paulo")
+      timezones["Europe/Moscow"].should match(/\(GMT\+0\d:00\) Moscú/)
+      timezones["America/Sao_Paulo"].should match(/\(GMT-0\d:00\) São Paulo/)
     end
 
     it "builds a list with translations using fallback en-US" do
       timezones = Cldr::Timezones.list(:"en-US")
-      timezones["Europe/Moscow"].should eq("(GMT+04:00) Moscow")
-      timezones["America/Sao_Paulo"].should eq("(GMT-02:00) Sao Paulo")
+      timezones["Europe/Moscow"].should match(/\(GMT\+0\d:00\) Moscow/)
+      timezones["America/Sao_Paulo"].should match(/\(GMT-0\d:00\) Sao Paulo/)
     end
 
     it "builds a list with meaningful subset" do
@@ -44,6 +44,28 @@ describe Cldr::Timezones do
     it "builds the complete set if true is passed" do
       timezones = Cldr::Timezones.list(:ja, true)
       timezones.size.should equal(581)
+    end
+  end
+
+  describe ".raw" do
+    it "builds a list with translations" do
+      timezones = Cldr::Timezones.raw(:pt)
+      timezones["Europe/Moscow"][0].should eq("Moscou")
+      timezones["Europe/Moscow"][1].should match(/\+0\d:00/)
+      timezones["Europe/Moscow"][2].should eq("GMT")
+      timezones["America/Sao_Paulo"][0].should eq("São Paulo")
+      timezones["America/Sao_Paulo"][1].should match(/\-0\d:00/)
+      timezones["America/Sao_Paulo"][2].should eq("GMT")
+    end
+
+    it "builds a list with translations using fallback" do
+      timezones = Cldr::Timezones.raw(:"es-MX")
+      timezones["Europe/Moscow"][0].should eq("Moscú")
+      timezones["Europe/Moscow"][1].should match(/\+0\d:00/)
+      timezones["Europe/Moscow"][2].should eq("GMT")
+      timezones["America/Sao_Paulo"][0].should eq("São Paulo")
+      timezones["America/Sao_Paulo"][1].should match(/\-0\d:00/)
+      timezones["America/Sao_Paulo"][2].should eq("GMT")
     end
   end
 

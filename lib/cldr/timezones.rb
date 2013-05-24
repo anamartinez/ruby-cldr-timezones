@@ -12,6 +12,11 @@ module Cldr
         build_list(locale.to_s, all)
       end
 
+      def raw(locale, all = false)
+        raise ArgumentError, "Locale cannot be blank" unless locale
+        build_raw_list(locale.to_s, all)
+      end
+
       #Returns an array with the supported locales.
       def supported_locales
         Dir[path_to_cached_locales].map { |path| path =~ /([\w-]+)\/timezones\.yml/ && $1 }
@@ -20,13 +25,26 @@ module Cldr
       private
 
       def build_list(locale, all)
+        timezones_hash(locale, all) do |identifier, name, offset, system|
+          [ identifier, format_timezone(offset, name) ]
+        end
+      end
+
+      def build_raw_list(locale, all)
+        timezones_hash(locale, all) do |identifier, name, offset, system|
+          [ identifier, [ name, offset, system ] ]
+        end
+      end
+
+      def timezones_hash(locale, all)
         timezones_translations = load_timezones_translations(locale)
         fallback = fallback(locale)
         timezones_identifiers = (all ? TZInfo::Timezone.all : SUBSET_TIMEZONES)
 
         timezone_list = timezones_identifiers.map do |timezone|
           timezone = TZInfo::Timezone.get(timezone) unless all
-          [timezone.identifier, build_timezone(timezones_translations, fallback, timezone)]
+          name, offset, system = build_timezone(timezones_translations, fallback, timezone)
+          yield timezone.identifier, name, offset, system
         end
         Hash[timezone_list]
       end
@@ -65,7 +83,7 @@ module Cldr
           name = translation["city"]
         end
 
-        format_timezone(offset, name)
+        [name, offset, 'GMT']
       end
 
       #TODO - Get i18n format
