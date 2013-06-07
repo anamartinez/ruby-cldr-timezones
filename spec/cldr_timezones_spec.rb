@@ -43,7 +43,19 @@ describe Cldr::Timezones do
 
     it "builds the complete set if true is passed" do
       timezones = Cldr::Timezones.list(:ja, true)
-      timezones.size.should equal(581)
+      timezones.size.should equal(584)
+    end
+
+    it "builds the timezone with the ActiveSupport identifier with a partial list" do
+      timezones = Cldr::Timezones.list(:es, false, true)
+      timezones["St. Petersburg"].should match(/\(GMT\+0\d:00\) Moscú/)
+      timezones["Moscow"].should match(/\(GMT\+0\d:00\) Moscú/)
+    end
+
+    it "builds the timezone with the ActiveSupport identifier with a full list" do
+      timezones = Cldr::Timezones.list(:es, true, true)
+      timezones["St. Petersburg"].should match(/\(GMT\+0\d:00\) Moscú/)
+      timezones["Zulu"].should match(/\(GMT\+0\d:00\) Zulu/)
     end
   end
 
@@ -56,6 +68,13 @@ describe Cldr::Timezones do
       timezones["America/Sao_Paulo"][0].should eq("São Paulo")
       timezones["America/Sao_Paulo"][1].should match(/\-0\d:00/)
       timezones["America/Sao_Paulo"][2].should eq("GMT")
+    end
+
+    it "builds a list with the ActiveSupport identifier" do
+      timezones = Cldr::Timezones.raw(:pt, false, true)
+      timezones["St. Petersburg"][0].should eq("Moscou")
+      timezones["St. Petersburg"][1].should match(/\+0\d:00/)
+      timezones["St. Petersburg"][2].should eq("GMT")
     end
 
     it "builds a list with translations using fallback" do
