@@ -7,14 +7,14 @@ module Cldr
   module Timezones
     class << self
       #Returns a hash with the translated timezones for the locale specified.
-      def list(locale, all = false, rails_identifiers = false)
+      def list(locale, options = {})
         raise ArgumentError, "Locale cannot be blank" unless locale
-        build_list(locale.to_s, all, rails_identifiers)
+        build_list(locale.to_s, options)
       end
 
-      def raw(locale, all = false, rails_identifiers = false)
+      def raw(locale, options = {})
         raise ArgumentError, "Locale cannot be blank" unless locale
-        build_raw_list(locale.to_s, all, rails_identifiers)
+        build_raw_list(locale.to_s, options)
       end
 
       #Returns an array with the supported locales.
@@ -24,27 +24,28 @@ module Cldr
 
       private
 
-      def build_list(locale, all, rails_identifiers)
-        timezones_hash(locale, all, rails_identifiers) do |identifier, name, offset, system|
+      def build_list(locale, options)
+        timezones_hash(locale, options) do |identifier, name, offset, system|
           [ identifier, format_timezone(offset, name) ]
         end
       end
 
-      def build_raw_list(locale, all, rails_identifiers)
-        timezones_hash(locale, all, rails_identifiers) do |identifier, name, offset, system|
+      def build_raw_list(locale, options)
+        timezones_hash(locale, options) do |identifier, name, offset, system|
           [ identifier, [ name, offset, system ] ]
         end
       end
 
-      def timezones_hash(locale, all, rails_identifiers)
+      def timezones_hash(locale, options)
+        options_hash(options)
         timezones_translations = load_timezones_translations(locale)
         fallback = fallback(locale)
-        timezones_identifiers = (all ? TZInfo::Timezone.all : SUBSET_TIMEZONES)
+        timezones_identifiers = (@all ? TZInfo::Timezone.all : SUBSET_TIMEZONES)
         timezone_list = []
         timezones_identifiers.each do |timezone|
-          timezone = TZInfo::Timezone.get(timezone) unless all
+          timezone = TZInfo::Timezone.get(timezone) unless @all
           name, offset, system = build_timezone(timezones_translations, fallback, timezone)
-          identifier_name = timezone_identifier_mapping(timezone.identifier, rails_identifiers)
+          identifier_name = timezone_identifier_mapping(timezone.identifier)
           if identifier_name.is_a? Array
             identifier_name.each {|identifier| timezone_list << yield(identifier, name, offset, system)}
           else
@@ -118,8 +119,22 @@ module Cldr
         path.gsub("en/timezones.yml", "*/timezones.yml")
       end
 
-      def timezone_identifier_mapping(cldr_identifier, rails_identifiers)
-        return cldr_identifier unless rails_identifiers
+      def options_hash(options)
+        if options.is_a? Symbol
+          case options
+          when :full
+            @all = true
+          when :rails_identifiers
+            @rails_identifiers = true
+          end
+        else
+          @all = options[:full]
+          @rails_identifiers = options[:rails_identifiers]
+        end
+      end
+
+      def timezone_identifier_mapping(cldr_identifier)
+        return cldr_identifier unless @rails_identifiers
         RAILS_IDENTIFIERS[cldr_identifier] || cldr_identifier
       end
     end

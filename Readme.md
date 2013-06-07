@@ -33,6 +33,15 @@ If you want to get the list of supported languages
 
     Cldr::Timezones.supported_locales # ["aa", "aa-DJ", "aa-ER", "aa-ET",...."zh-Hant-TW", "zu", "zu-ZA"]
 
+If your project is already using ActiveSupport mapping and you want backwards compatibility use:
+
+    Cldr::Timezones.list(:ja, :rails_identifiers) # {"St. Petersburg" => "(GMT+04:00) Moscú"}
+
+If you want both ActiveSupport mapping and the full list of timezones use:
+
+    Cldr::Timezones.list(:ja, {:rails_identifiers => true, :full => true}) #To get the full list of timezones
+
+
 TODO
 ====
 - Handle BIDI timezones
