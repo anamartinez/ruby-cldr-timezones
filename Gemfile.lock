@@ -26,7 +26,7 @@ GEM
       thor
       ya2yaml
     thor (0.18.1)
-    tzinfo (1.0.0)
+    tzinfo (0.3.37)
     ya2yaml (0.31)
 
 PLATFORMS
@@ -38,4 +38,4 @@ DEPENDENCIES
   rspec (~> 2)
   ruby-cldr
   ruby-cldr-timezones!
-  tzinfo
+  tzinfo (= 0.3.37)
